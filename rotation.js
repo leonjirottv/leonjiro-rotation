@@ -1273,19 +1273,19 @@ window.ROTATION = {
     },
     {
      "slot": 89,
-     "species": "Buneary",
-     "level": 39,
-     "hosted": 80,
+     "species": "Liepard",
+     "level": null,
+     "hosted": 1,
      "stats": {
       "gender": "Male",
-      "nature": "Calm",
-      "ability": "Klutz",
+      "nature": "Timid",
+      "ability": "Unburden",
       "abilityHidden": false,
       "ivs": [
-       18,
-       30,
-       30,
-       21,
+       29,
+       31,
+       20,
+       27,
        31,
        31
       ],
@@ -2211,7 +2211,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 3,
+   "known": 4,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2760,7 +2760,26 @@ window.ROTATION = {
     },
     {
      "slot": 127,
-     "species": null
+     "species": "Milotic",
+     "level": 55,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Adamant",
+      "ability": "Marvel Scale",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 128,
