@@ -1480,9 +1480,10 @@ window.ROTATION = {
     },
     {
      "slot": 106,
-     "species": "NidoranM",
-     "level": 39,
-     "hosted": 2
+     "species": "Morpeko",
+     "level": 59,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 107,
@@ -2279,7 +2280,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 19,
+   "known": 20,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3032,11 +3033,13 @@ window.ROTATION = {
      "slot": 144,
      "species": "Pancham",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 145,
-     "species": null
+     "species": "Phantump",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 146,
