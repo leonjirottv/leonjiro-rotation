@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 172,
-   "known": 163,
+   "known": 164,
    "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
@@ -1302,7 +1302,26 @@ window.ROTATION = {
     },
     {
      "slot": 91,
-     "species": null
+     "species": "Linoone",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Gluttony",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       20,
+       27,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 92,
@@ -2213,7 +2232,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 5,
+   "known": 6,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2787,11 +2806,30 @@ window.ROTATION = {
      "slot": 128,
      "species": "Miltank",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 129,
-     "species": null
+     "species": "Mimikyu",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Relaxed",
+      "ability": "Disguise",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       0
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 130,
