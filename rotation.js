@@ -1508,26 +1508,9 @@ window.ROTATION = {
     },
     {
      "slot": 110,
-     "species": "Omastar",
-     "level": 59,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Hardy",
-      "ability": "Swift Swim",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "NidoranF",
+     "level": 39,
+     "hosted": 1
     },
     {
      "slot": 111,
@@ -3043,7 +3026,7 @@ window.ROTATION = {
      "slot": 148,
      "species": "Pincurchin",
      "level": 58,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 149,
