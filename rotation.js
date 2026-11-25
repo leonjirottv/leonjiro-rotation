@@ -1412,7 +1412,7 @@ window.ROTATION = {
      "slot": 100,
      "species": "Meowstic",
      "level": 47,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1433,10 +1433,9 @@ window.ROTATION = {
     },
     {
      "slot": 101,
-     "species": "Morpeko",
+     "species": "Metagross",
      "level": 59,
-     "hosted": 2,
-     "statsVariants": 2
+     "hosted": 2
     },
     {
      "slot": 102,
@@ -2266,7 +2265,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 14,
+   "known": 16,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2972,11 +2971,15 @@ window.ROTATION = {
     },
     {
      "slot": 139,
-     "species": null
+     "species": "Ninetales",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 140,
-     "species": null
+     "species": "Octillery",
+     "level": 47,
+     "hosted": 1
     },
     {
      "slot": 141,
