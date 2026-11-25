@@ -1254,26 +1254,10 @@ window.ROTATION = {
     },
     {
      "slot": 86,
-     "species": "Linoone",
-     "level": null,
+     "species": "Lapras",
+     "level": 57,
      "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Timid",
-      "ability": "Gluttony",
-      "abilityHidden": false,
-      "ivs": [
-       29,
-       31,
-       20,
-       27,
-       31,
-       31
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "statsVariants": 3
     },
     {
      "slot": 87,
@@ -2244,7 +2228,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 0,
+   "known": 1,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2741,7 +2725,9 @@ window.ROTATION = {
     },
     {
      "slot": 124,
-     "species": null
+     "species": "Mareanie",
+     "level": 29,
+     "hosted": 2
     },
     {
      "slot": 125,
