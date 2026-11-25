@@ -1356,7 +1356,7 @@ window.ROTATION = {
      "slot": 94,
      "species": "Machamp",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
