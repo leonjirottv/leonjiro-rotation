@@ -1,5 +1,5 @@
 window.ROTATION = {
- "generated": "2026-11-25 11:48",
+ "generated": "2026-11-25 11:56",
  "switches": [
   {
    "switch": "S3",
@@ -1118,8 +1118,8 @@ window.ROTATION = {
     {
      "slot": 81,
      "species": "Buneary",
-     "level": null,
-     "hosted": 7,
+     "level": 57,
+     "hosted": 10,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -3370,7 +3370,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Mareanie",
      "level": 59,
-     "hosted": 11
+     "hosted": 14
     },
     {
      "slot": 124,
