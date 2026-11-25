@@ -1439,10 +1439,9 @@ window.ROTATION = {
     },
     {
      "slot": 102,
-     "species": "Mudbray",
-     "level": 15,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": "Milcery",
+     "level": 18,
+     "hosted": 1
     },
     {
      "slot": 103,
@@ -2979,7 +2978,7 @@ window.ROTATION = {
      "slot": 140,
      "species": "Octillery",
      "level": 47,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 141,
