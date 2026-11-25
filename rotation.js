@@ -1139,8 +1139,8 @@ window.ROTATION = {
     {
      "slot": 82,
      "species": "Buneary",
-     "level": 18,
-     "hosted": 25,
+     "level": 38,
+     "hosted": 27,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -3429,7 +3429,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Mareanie",
      "level": 49,
-     "hosted": 28
+     "hosted": 30
     },
     {
      "slot": 124,
