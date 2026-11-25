@@ -1,0 +1,16 @@
+{
+ "generated": "2026-11-27 18:57:38",
+ "generatedEpoch": 1795823858,
+ "switches": [
+  {
+   "switch": "S3",
+   "currentSlot": 123,
+   "nowLabel": "!ROTATING"
+  },
+  {
+   "switch": "S6",
+   "currentSlot": 60,
+   "nowLabel": "!ROTATING"
+  }
+ ]
+}
