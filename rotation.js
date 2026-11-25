@@ -1451,10 +1451,9 @@ window.ROTATION = {
     },
     {
      "slot": 104,
-     "species": "Nickit",
-     "level": 20,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": "Mimikyu",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 105,
@@ -2263,7 +2262,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 17,
+   "known": 18,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3004,7 +3003,9 @@ window.ROTATION = {
     },
     {
      "slot": 142,
-     "species": null
+     "species": "Oranguru",
+     "level": 57,
+     "hosted": 2
     },
     {
      "slot": 143,
