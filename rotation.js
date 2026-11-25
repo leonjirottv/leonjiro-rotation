@@ -3429,7 +3429,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Mareanie",
      "level": 46,
-     "hosted": 47
+     "hosted": 48
     },
     {
      "slot": 124,

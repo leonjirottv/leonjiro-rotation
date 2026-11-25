@@ -144,7 +144,7 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
     fetch('https://leonjiro.goatcounter.com/counter/TOTAL.json')
       .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
       .then(function(j){
-        if(j && j.count){ document.getElementById('socVisitsN').textContent = j.count; document.getElementById('socVisits').hidden = false; }
+        if(j && j.count && j.count !== '0'){ document.getElementById('socVisitsN').textContent = j.count; document.getElementById('socVisits').hidden = false; }
       })
       .catch(function(){});
   } catch(e){}
