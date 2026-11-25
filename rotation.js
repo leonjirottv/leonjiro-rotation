@@ -1501,26 +1501,10 @@ window.ROTATION = {
     },
     {
      "slot": 109,
-     "species": "Oddish",
-     "level": null,
+     "species": "Nickit",
+     "level": 20,
      "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Calm",
-      "ability": "Chlorophyll",
-      "abilityHidden": false,
-      "ivs": [
-       20,
-       30,
-       26,
-       31,
-       26,
-       31
-      ],
-      "stars": 2,
-      "shiny": "square",
-      "gmax": false
-     }
+     "statsVariants": 2
     },
     {
      "slot": 110,
@@ -2265,7 +2249,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 22,
+   "known": 23,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3057,7 +3041,9 @@ window.ROTATION = {
     },
     {
      "slot": 148,
-     "species": null
+     "species": "Pincurchin",
+     "level": 58,
+     "hosted": 1
     },
     {
      "slot": 149,
