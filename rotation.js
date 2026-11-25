@@ -1494,26 +1494,10 @@ window.ROTATION = {
     },
     {
      "slot": 108,
-     "species": "Obstagoon",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Defiant",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "Munna",
+     "level": 18,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 109,
@@ -3046,7 +3030,7 @@ window.ROTATION = {
      "slot": 146,
      "species": "Pidove",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 147,
