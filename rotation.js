@@ -1445,10 +1445,9 @@ window.ROTATION = {
     },
     {
      "slot": 103,
-     "species": "Munna",
-     "level": 37,
-     "hosted": 31,
-     "statsVariants": 2
+     "species": "Miltank",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 104,
@@ -2984,7 +2983,7 @@ window.ROTATION = {
      "slot": 141,
      "species": "Oddish",
      "level": 16,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
