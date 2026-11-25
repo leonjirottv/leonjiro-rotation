@@ -1308,7 +1308,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Buneary",
      "level": 20,
-     "hosted": 49,
+     "hosted": 51,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -2403,7 +2403,24 @@ window.ROTATION = {
      "slot": 15,
      "species": "Basculin",
      "level": 55,
-     "hosted": 2
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Lonely",
+      "ability": "Mold Breaker",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 16,
@@ -3589,8 +3606,8 @@ window.ROTATION = {
     {
      "slot": 124,
      "species": "Mareanie",
-     "level": 15,
-     "hosted": 54
+     "level": 59,
+     "hosted": 56
     },
     {
      "slot": 125,
