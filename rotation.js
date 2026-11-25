@@ -1496,7 +1496,7 @@ window.ROTATION = {
      "slot": 108,
      "species": "Munna",
      "level": 18,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -2265,7 +2265,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 21,
+   "known": 22,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3034,7 +3034,26 @@ window.ROTATION = {
     },
     {
      "slot": 147,
-     "species": null
+     "species": "Pikachu",
+     "level": 37,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Lightning Rod",
+      "abilityHidden": true,
+      "ivs": [
+       5,
+       31,
+       1,
+       18,
+       27,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 148,
