@@ -1441,7 +1441,7 @@ window.ROTATION = {
      "slot": 102,
      "species": "Milcery",
      "level": 18,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 103,
@@ -2264,7 +2264,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 16,
+   "known": 17,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2982,7 +2982,26 @@ window.ROTATION = {
     },
     {
      "slot": 141,
-     "species": null
+     "species": "Oddish",
+     "level": 16,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Brave",
+      "ability": "Chlorophyll",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       28,
+       6,
+       16,
+       19,
+       30
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 142,
