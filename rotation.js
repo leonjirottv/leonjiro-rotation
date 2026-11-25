@@ -1267,8 +1267,8 @@ window.ROTATION = {
     },
     {
      "slot": 88,
-     "species": "Lucario",
-     "level": 57,
+     "species": "Lickitung",
+     "level": 49,
      "hosted": 2
     },
     {
@@ -2211,7 +2211,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 2,
+   "known": 3,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2737,7 +2737,26 @@ window.ROTATION = {
     },
     {
      "slot": 126,
-     "species": null
+     "species": "Mienshao",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Reckless",
+      "abilityHidden": true,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 127,
