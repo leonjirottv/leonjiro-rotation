@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonjiro Shiny Rotation</title>
+<style>
+:root{
+  --bg:#14161b; --panel:#1d2027; --panel2:#252a33; --line:#323847; --text:#e8ecf3; --muted:#9aa4b5;
+  --accent:#3b82f6; --accent2:#60a5fa; --now:#22c55e; --warn:#f59e0b;
+}
+:root[data-theme="light"]{
+  --bg:#f4f6fa; --panel:#ffffff; --panel2:#eef1f7; --line:#d5dbe7; --text:#1b2230; --muted:#5b6578;
+  --accent:#2563eb; --accent2:#1d4ed8; --now:#16a34a; --warn:#b45309;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    --bg:#f4f6fa; --panel:#ffffff; --panel2:#eef1f7; --line:#d5dbe7; --text:#1b2230; --muted:#5b6578;
+    --accent:#2563eb; --accent2:#1d4ed8; --now:#16a34a; --warn:#b45309;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 48px}
+header h1{margin:0;font-size:1.5rem;letter-spacing:.2px}
+header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
+.tabs{display:flex;gap:8px;margin:18px 0 12px;flex-wrap:wrap}
+.tab{border:1px solid var(--line);background:var(--panel);color:var(--text);padding:9px 16px;border-radius:999px;font:inherit;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.tab small{opacity:.8;margin-left:6px}
+.now{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--now);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.now.paused{border-left-color:var(--warn)}
+.now b{font-size:1.1rem}
+.now .sub{color:var(--muted);font-size:.9rem;margin-top:2px}
+.next{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.chip{background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:.85rem}
+.tools{display:flex;gap:10px;align-items:center;margin:6px 0 14px;flex-wrap:wrap}
+.tools input{flex:1;min-width:200px;background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:10px;padding:10px 12px;font:inherit}
+.tools input:focus-visible,.tab:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+.count{color:var(--muted);font-size:.9rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 8px 12px;text-align:center;position:relative;min-height:150px}
+.card .slot{position:absolute;left:8px;top:6px;color:var(--muted);font-size:.75rem}
+.card .lv{position:absolute;right:8px;top:6px;color:var(--muted);font-size:.75rem}
+.card img{width:80px;height:80px;object-fit:contain;image-rendering:auto;margin-top:12px}
+.card .name{font-weight:600;margin-top:2px;word-break:break-word}
+.card.current{border-color:var(--now);box-shadow:0 0 0 2px var(--now) inset}
+.card.current::after{content:"NOW";position:absolute;left:50%;bottom:6px;transform:translateX(-50%);background:var(--now);color:#fff;font-size:.65rem;font-weight:700;padding:1px 8px;border-radius:999px}
+.card.pending{opacity:.55;border-style:dashed}
+.card.pending .q{height:80px;display:flex;align-items:center;justify-content:center;font-size:1.6rem;color:var(--muted);margin-top:12px}
+.stats{margin-top:6px;font-size:.78rem;color:var(--muted);line-height:1.35}
+.stats .nat{color:var(--text);font-weight:600}
+.ivs{display:grid;grid-template-columns:repeat(3,1fr);gap:2px 4px;margin:4px 6px 2px;font-variant-numeric:tabular-nums}
+.iv{background:var(--panel2);border-radius:6px;padding:1px 0}
+.iv.max{background:var(--accent);color:#fff}
+.statnote{margin-top:6px;font-size:.75rem;color:var(--muted);font-style:italic}
+.card{min-height:150px}
+.note{color:var(--muted);font-size:.85rem;margin-top:18px}
+.empty{color:var(--muted);padding:24px;text-align:center}
+.shiny{display:inline-block;margin-left:4px;color:#fbbf24}
+@media (max-width:420px){.grid{grid-template-columns:repeat(auto-fill,minmax(128px,1fr))}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Leonjiro's Free Shiny Raid Rotation</h1>
+    <p>Every Pokemon the S3 (Sword) and S6 (Shield) hosts cycle through, in order. Updated <span id="gen">…</span>.</p>
+  </header>
+
+  <div class="tabs" role="tablist" id="tabs"></div>
+  <div id="now"></div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search a Pokemon…" aria-label="Search a Pokemon">
+    <span class="count" id="count"></span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <p class="note" id="note"></p>
+</div>
+
+<script src="rotation.js"></script>
+<script>
+(function(){
+  var D = window.ROTATION;
+  if(!D){ document.getElementById('grid').innerHTML='<div class="empty">Rotation data not found.</div>'; return; }
+  var active = 0;
+  var el = function(id){ return document.getElementById(id); };
+  var mk = function(tag, cls, text){ var n=document.createElement(tag); if(cls) n.className=cls; if(text!=null) n.textContent=text; return n; };
+  var sid = function(name){ return name.toLowerCase().replace(/[^a-z0-9]/g,''); };
+
+  el('gen').textContent = D.generated;
+
+  function sprite(name){
+    var img = new Image();
+    img.alt = name; img.loading = 'lazy';
+    var id = sid(name);
+    var tries = [
+      'https://play.pokemonshowdown.com/sprites/ani-shiny/'+id+'.gif',
+      'https://play.pokemonshowdown.com/sprites/gen5-shiny/'+id+'.png'
+    ];
+    var i = 0;
+    img.onerror = function(){ i++; if(i<tries.length){ img.src = tries[i]; } else { img.style.visibility='hidden'; } };
+    img.src = tries[0];
+    return img;
+  }
+
+  var IVN = ['HP','Atk','Def','SpA','SpD','Spe'];
+  var GSYM = {Male:'♂', Female:'♀', Genderless:'—'};
+  function statBlock(st){
+    var b = mk('div','stats');
+    b.appendChild(mk('div','nat', st.nature+' · '+(GSYM[st.gender]||st.gender)));
+    b.appendChild(mk('div','abl', st.ability+(st.abilityHidden?' (HA)':'')));
+    var iv = mk('div','ivs');
+    st.ivs.forEach(function(v,i){
+      var s = mk('span', v===31?'iv max':'iv', IVN[i]+' '+v);
+      iv.appendChild(s);
+    });
+    b.appendChild(iv);
+    var f = st.ivs.filter(function(v){return v===31;}).length;
+    b.appendChild(mk('div','star', st.stars+'★ · '+f+'×31'));
+    return b;
+  }
+
+  function drawTabs(){
+    var t = el('tabs'); t.innerHTML='';
+    D.switches.forEach(function(s,i){
+      var b = mk('button','tab', s.switch+' · '+s.game);
+      b.setAttribute('role','tab'); b.setAttribute('aria-selected', i===active);
+      b.appendChild(mk('small',null,s.count+' Pokemon'));
+      b.onclick = function(){ active=i; render(); };
+      t.appendChild(b);
+    });
+  }
+
+  function nowBox(s){
+    var box = el('now'); box.innerHTML='';
+    var label = (s.nowLabel||'').trim();
+    var rotating = !label || label.charAt(0)==='!' || /^rotating$/i.test(label);
+    var cur = s.slots.filter(function(x){return x.slot===s.currentSlot;})[0];
+    var d = mk('div','now'+(rotating?'':' paused'));
+    if(rotating){
+      d.appendChild(mk('b',null,'Rotating through the list'));
+      if(cur && cur.species){ d.appendChild(mk('div','sub','Now hosting: '+cur.species+' (slot '+cur.slot+' of '+s.count+')')); }
+      var nx = [];
+      for(var k=1;k<=4 && s.count;k++){
+        var n = s.slots[(s.currentSlot-1+k) % s.count];
+        if(n && n.species) nx.push(n.species);
+      }
+      if(nx.length){
+        d.appendChild(mk('div','sub','Up next:'));
+        var row = mk('div','next'); nx.forEach(function(n){ row.appendChild(mk('span','chip',n)); });
+        d.appendChild(row);
+      }
+    } else {
+      d.appendChild(mk('b',null,'Paused on a request: '+label));
+      d.appendChild(mk('div','sub','The rotation resumes after this one.'));
+    }
+    box.appendChild(d);
+  }
+
+  function render(){
+    drawTabs();
+    var s = D.switches[active];
+    nowBox(s);
+    var q = el('q').value.trim().toLowerCase();
+    var grid = el('grid'); grid.innerHTML='';
+    var shown = 0;
+    s.slots.forEach(function(x){
+      if(q && !(x.species && x.species.toLowerCase().indexOf(q)>-1)) return;
+      var c = mk('div','card'+(x.species?'':' pending')+((x.slot===s.currentSlot&&!x.pending)?' current':''));
+      c.appendChild(mk('span','slot','#'+x.slot));
+      if(x.species){
+        if(x.level) c.appendChild(mk('span','lv','Lv. '+x.level));
+        c.appendChild(sprite(x.species));
+        c.appendChild(mk('div','name',x.species));
+        if(x.stats){ c.appendChild(statBlock(x.stats)); }
+        else if(x.statsVariants){ c.appendChild(mk('div','statnote','Several versions exist')); }
+        else { c.appendChild(mk('div','statnote','Stats coming soon')); }
+      } else {
+        c.appendChild(mk('div','q','?'));
+        c.appendChild(mk('div','name','Updating…'));
+      }
+      grid.appendChild(c); shown++;
+    });
+    if(!shown) grid.appendChild(mk('div','empty','No Pokemon match "'+q+'".'));
+    el('count').textContent = shown+' shown';
+    var pend = s.count - s.known;
+    el('note').textContent = pend>0
+      ? pend+' slot'+(pend===1?' is':'s are')+' being re-checked after the list changed and will fill in as the rotation cycles through them.'
+      : 'All slots verified.';
+  }
+
+  el('q').addEventListener('input', render);
+  render();
+})();
+</script>
+</body>
+</html>
