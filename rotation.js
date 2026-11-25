@@ -1263,7 +1263,7 @@ window.ROTATION = {
      "slot": 87,
      "species": "Larvesta",
      "level": 48,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 88,
@@ -2716,7 +2716,7 @@ window.ROTATION = {
      "slot": 125,
      "species": "Mienfoo",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Bashful",
