@@ -1403,26 +1403,10 @@ window.ROTATION = {
     },
     {
      "slot": 99,
-     "species": "Morelull",
-     "level": 29,
-     "hosted": 7,
-     "stats": {
-      "gender": "Male",
-      "nature": "Relaxed",
-      "ability": "Illuminate",
-      "abilityHidden": false,
-      "ivs": [
-       15,
-       1,
-       31,
-       31,
-       8,
-       31
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "Mawile",
+     "level": 57,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 100,
@@ -2282,7 +2266,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 12,
+   "known": 13,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2976,7 +2960,9 @@ window.ROTATION = {
     },
     {
      "slot": 137,
-     "species": null
+     "species": "Nidoking",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 138,
