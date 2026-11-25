@@ -3,8 +3,8 @@ window.ROTATION = {
   {
    "switch": "S3",
    "game": "Sword",
-   "count": 165,
-   "known": 155,
+   "count": 172,
+   "known": 162,
    "listChanged": "2026-11-24 14:05:42",
    "slots": [
     {
@@ -253,13 +253,61 @@ window.ROTATION = {
     },
     {
      "slot": 16,
+     "species": "Bonsly",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Male",
+      "nature": "Lax",
+      "ability": "Sturdy",
+      "abilityHidden": false,
+      "ivs": [
+       16,
+       31,
+       29,
+       31,
+       19,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 17,
+     "species": "Bounsweet",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Leaf Guard",
+      "abilityHidden": false,
+      "ivs": [
+       13,
+       31,
+       29,
+       31,
+       30,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 18,
      "species": "Roggenrola",
      "level": 15,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 17,
+     "slot": 19,
      "species": "Braviary",
      "level": null,
      "hosted": 2,
@@ -282,7 +330,31 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 18,
+     "slot": 20,
+     "species": "Bronzor",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Mild",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       31,
+       30,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 21,
      "species": "Buneary",
      "level": null,
      "hosted": 2,
@@ -305,7 +377,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 19,
+     "slot": 22,
      "species": "Bunnelby",
      "level": 20,
      "hosted": 2,
@@ -328,27 +400,75 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 20,
+     "slot": 23,
      "species": "Carbink",
      "level": 55,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 21,
+     "slot": 24,
      "species": "Carvanha",
      "level": 38,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 22,
+     "slot": 25,
+     "species": "Chansey",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Brave",
+      "ability": "Natural Cure",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 26,
      "species": "Charmander",
      "level": 27,
      "hosted": 2
     },
     {
-     "slot": 23,
+     "slot": 27,
+     "species": "Chewtle",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Naughty",
+      "ability": "Shell Armor",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       22,
+       23,
+       25
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 28,
      "species": "Chinchou",
      "level": 25,
      "hosted": 2,
@@ -371,7 +491,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 24,
+     "slot": 29,
      "species": "Clauncher",
      "level": 36,
      "hosted": 2,
@@ -394,7 +514,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 25,
+     "slot": 30,
      "species": "Cleffa",
      "level": 20,
      "hosted": 2,
@@ -417,7 +537,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 26,
+     "slot": 31,
      "species": "Comfey",
      "level": 55,
      "hosted": 2,
@@ -440,13 +560,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 27,
+     "slot": 32,
      "species": "Corphish",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 28,
+     "slot": 33,
      "species": "Armaldo",
      "level": 58,
      "hosted": 2,
@@ -469,20 +589,20 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 29,
+     "slot": 34,
      "species": "Cramorant",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 30,
+     "slot": 35,
      "species": "Cubone",
      "level": 39,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 31,
+     "slot": 36,
      "species": "Cutiefly",
      "level": 25,
      "hosted": 2,
@@ -505,20 +625,20 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 32,
+     "slot": 37,
      "species": "Darmanitan",
      "level": 56,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 33,
+     "slot": 38,
      "species": "Darumaka",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 34,
+     "slot": 39,
      "species": "Deino",
      "level": 29,
      "hosted": 2,
@@ -541,13 +661,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 35,
+     "slot": 40,
      "species": "Dewpider",
      "level": 25,
      "hosted": 2
     },
     {
-     "slot": 36,
+     "slot": 41,
      "species": "Dracovish",
      "level": 58,
      "hosted": 2,
@@ -570,7 +690,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 37,
+     "slot": 42,
      "species": "Dracozolt",
      "level": 58,
      "hosted": 2,
@@ -593,31 +713,31 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 38,
+     "slot": 43,
      "species": "Dratini",
      "level": 47,
      "hosted": 2
     },
     {
-     "slot": 39,
+     "slot": 44,
      "species": "Dreepy",
      "level": 39,
      "hosted": 2
     },
     {
-     "slot": 40,
+     "slot": 45,
      "species": "Drifloon",
      "level": 38,
      "hosted": 2
     },
     {
-     "slot": 41,
+     "slot": 46,
      "species": "Druddigon",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 42,
+     "slot": 47,
      "species": "Dubwool",
      "level": null,
      "hosted": 2,
@@ -640,7 +760,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 43,
+     "slot": 48,
      "species": "Dunsparce",
      "level": 58,
      "hosted": 2,
@@ -663,38 +783,62 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 44,
+     "slot": 49,
      "species": "Eevee",
      "level": 58,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 45,
+     "slot": 50,
      "species": "Electrike",
      "level": 18,
      "hosted": 2
     },
     {
-     "slot": 46,
+     "slot": 51,
      "species": "Elgyem",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 47,
+     "slot": 52,
      "species": "Escavalier",
      "level": 58,
      "hosted": 2
     },
     {
-     "slot": 48,
+     "slot": 53,
+     "species": "Exeggcute",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Relaxed",
+      "ability": "Chlorophyll",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       30,
+       31,
+       31,
+       31,
+       30
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 54,
      "species": "Falinks",
      "level": 48,
      "hosted": 2
     },
     {
-     "slot": 49,
+     "slot": 55,
      "species": "Farfetchd",
      "level": 39,
      "hosted": 2,
@@ -717,7 +861,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 50,
+     "slot": 56,
      "species": "Feebas",
      "level": 38,
      "hosted": 2,
@@ -740,19 +884,19 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 51,
+     "slot": 57,
      "species": "Flapple",
      "level": 58,
      "hosted": 2
     },
     {
-     "slot": 52,
+     "slot": 58,
      "species": "Fletchling",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 53,
+     "slot": 59,
      "species": "Fomantis",
      "level": 37,
      "hosted": 2,
@@ -775,19 +919,19 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 54,
+     "slot": 60,
      "species": "Frillish",
      "level": 28,
      "hosted": 2
     },
     {
-     "slot": 55,
+     "slot": 61,
      "species": "Frillish",
      "level": 25,
      "hosted": 2
     },
     {
-     "slot": 56,
+     "slot": 62,
      "species": "Gothita",
      "level": null,
      "hosted": 2,
@@ -810,7 +954,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 57,
+     "slot": 63,
      "species": "Gothita",
      "level": 25,
      "hosted": 2,
@@ -833,21 +977,21 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 58,
+     "slot": 64,
      "species": "Gothitelle",
      "level": 59,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 59,
+     "slot": 65,
      "species": "Gothitelle",
      "level": 57,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 60,
+     "slot": 66,
      "species": "Gothorita",
      "level": 47,
      "hosted": 2,
@@ -870,7 +1014,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 61,
+     "slot": 67,
      "species": "Grubbin",
      "level": 19,
      "hosted": 2,
@@ -893,31 +1037,31 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 62,
+     "slot": 68,
      "species": "Hatenna",
      "level": 38,
      "hosted": 2
     },
     {
-     "slot": 63,
+     "slot": 69,
      "species": "Helioptile",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 64,
+     "slot": 70,
      "species": "Hippopotas",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 65,
+     "slot": 71,
      "species": "Hitmonlee",
      "level": 48,
      "hosted": 2
     },
     {
-     "slot": 66,
+     "slot": 72,
      "species": "Hoothoot",
      "level": null,
      "hosted": 0,
@@ -941,7 +1085,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 67,
+     "slot": 73,
      "species": "Hydreigon",
      "level": null,
      "hosted": 2,
@@ -964,28 +1108,28 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 68,
+     "slot": 74,
      "species": "Indeedee",
      "level": 59,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 69,
+     "slot": 75,
      "species": "Indeedee",
      "level": null,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 70,
+     "slot": 76,
      "species": "Jangmoo",
      "level": 18,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 71,
+     "slot": 77,
      "species": "Karrablast",
      "level": 25,
      "hosted": 2,
@@ -1008,13 +1152,37 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 72,
+     "slot": 78,
      "species": "Klink",
      "level": 16,
      "hosted": 2
     },
     {
-     "slot": 73,
+     "slot": 79,
+     "species": "Koffing",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Sassy",
+      "ability": "Neutralizing Gas",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       28,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 80,
      "species": "Krabby",
      "level": 20,
      "hosted": 2,
@@ -1037,26 +1205,26 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 74,
+     "slot": 81,
      "species": "Lapras",
      "level": 57,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 75,
+     "slot": 82,
      "species": "Larvesta",
      "level": 48,
      "hosted": 2
     },
     {
-     "slot": 76,
+     "slot": 83,
      "species": "Lickitung",
      "level": 49,
      "hosted": 2
     },
     {
-     "slot": 77,
+     "slot": 84,
      "species": "Liepard",
      "level": null,
      "hosted": 2,
@@ -1079,13 +1247,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 78,
+     "slot": 85,
      "species": "Lillipup",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 79,
+     "slot": 86,
      "species": "Linoone",
      "level": null,
      "hosted": 2,
@@ -1108,7 +1276,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 80,
+     "slot": 87,
      "species": "Lopunny",
      "level": 58,
      "hosted": 2,
@@ -1131,16 +1299,16 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 81,
+     "slot": 88,
      "species": "Lucario",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 82,
+     "slot": 89,
      "species": "Buneary",
      "level": 20,
-     "hosted": 43,
+     "hosted": 44,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -1160,34 +1328,6 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 83,
-     "species": null
-    },
-    {
-     "slot": 84,
-     "species": null
-    },
-    {
-     "slot": 85,
-     "species": null
-    },
-    {
-     "slot": 86,
-     "species": null
-    },
-    {
-     "slot": 87,
-     "species": null
-    },
-    {
-     "slot": 88,
-     "species": null
-    },
-    {
-     "slot": 89,
-     "species": null
-    },
-    {
      "slot": 90,
      "species": null
     },
@@ -1197,6 +1337,34 @@ window.ROTATION = {
     },
     {
      "slot": 92,
+     "species": null
+    },
+    {
+     "slot": 93,
+     "species": null
+    },
+    {
+     "slot": 94,
+     "species": null
+    },
+    {
+     "slot": 95,
+     "species": null
+    },
+    {
+     "slot": 96,
+     "species": null
+    },
+    {
+     "slot": 97,
+     "species": null
+    },
+    {
+     "slot": 98,
+     "species": null
+    },
+    {
+     "slot": 99,
      "species": "Morelull",
      "level": 29,
      "hosted": 7,
@@ -1219,7 +1387,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 93,
+     "slot": 100,
      "species": "Morelull",
      "level": 18,
      "hosted": 7,
@@ -1242,53 +1410,53 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 94,
+     "slot": 101,
      "species": "Morpeko",
      "level": 59,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 95,
+     "slot": 102,
      "species": "Mudbray",
      "level": 15,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 96,
+     "slot": 103,
      "species": "Munna",
      "level": 37,
      "hosted": 31,
      "statsVariants": 2
     },
     {
-     "slot": 97,
+     "slot": 104,
      "species": "Nickit",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 98,
+     "slot": 105,
      "species": "NidoranF",
      "level": null,
      "hosted": 20
     },
     {
-     "slot": 99,
+     "slot": 106,
      "species": "NidoranM",
      "level": 39,
      "hosted": 2
     },
     {
-     "slot": 100,
+     "slot": 107,
      "species": "Noibat",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 101,
+     "slot": 108,
      "species": "Obstagoon",
      "level": null,
      "hosted": 2,
@@ -1311,7 +1479,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 102,
+     "slot": 109,
      "species": "Oddish",
      "level": null,
      "hosted": 2,
@@ -1334,7 +1502,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 103,
+     "slot": 110,
      "species": "Omastar",
      "level": 59,
      "hosted": 2,
@@ -1357,7 +1525,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 104,
+     "slot": 111,
      "species": "Pangoro",
      "level": null,
      "hosted": 2,
@@ -1380,7 +1548,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 105,
+     "slot": 112,
      "species": "Passimian",
      "level": 49,
      "hosted": 2,
@@ -1403,17 +1571,17 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 106,
+     "slot": 113,
      "species": null
     },
     {
-     "slot": 107,
+     "slot": 114,
      "species": "Pichu",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 108,
+     "slot": 115,
      "species": "Pidove",
      "level": 20,
      "hosted": 2,
@@ -1436,7 +1604,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 109,
+     "slot": 116,
      "species": "Pikachu",
      "level": 37,
      "hosted": 2,
@@ -1459,39 +1627,39 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 110,
+     "slot": 117,
      "species": "Pinsir",
      "level": 59,
      "hosted": 2,
      "statsVariants": 4
     },
     {
-     "slot": 111,
+     "slot": 118,
      "species": "Relicanth",
      "level": 58,
      "hosted": 2
     },
     {
-     "slot": 112,
+     "slot": 119,
      "species": "Remoraid",
      "level": 27,
      "hosted": 2
     },
     {
-     "slot": 113,
+     "slot": 120,
      "species": "Rockruff",
      "level": 37,
      "hosted": 2
     },
     {
-     "slot": 114,
+     "slot": 121,
      "species": "Roggenrola",
      "level": 18,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 115,
+     "slot": 122,
      "species": "Rufflet",
      "level": null,
      "hosted": 0,
@@ -1515,89 +1683,89 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 116,
+     "slot": 123,
      "species": "Sandile",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 117,
+     "slot": 124,
      "species": "Sandshrew",
      "level": 36,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 118,
+     "slot": 125,
      "species": "Sandygast",
      "level": 35,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 119,
+     "slot": 126,
      "species": "Sawk",
      "level": 56,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 120,
+     "slot": 127,
      "species": "Scrafty",
      "level": null,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 121,
+     "slot": 128,
      "species": "Scraggy",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 122,
+     "slot": 129,
      "species": "Scyther",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 123,
+     "slot": 130,
      "species": "Seedot",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 124,
+     "slot": 131,
      "species": "Shellos",
      "level": 15,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 125,
+     "slot": 132,
      "species": "Silicobra",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 126,
+     "slot": 133,
      "species": "Sinistea",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 127,
+     "slot": 134,
      "species": "Sirfetchd",
      "level": 59,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 128,
+     "slot": 135,
      "species": "Skarmory",
      "level": 59,
      "hosted": 2,
@@ -1620,7 +1788,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 129,
+     "slot": 136,
      "species": "Skwovet",
      "level": 20,
      "hosted": 2,
@@ -1643,7 +1811,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 130,
+     "slot": 137,
      "species": "Slurpuff",
      "level": 56,
      "hosted": 2,
@@ -1666,21 +1834,21 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 131,
+     "slot": 138,
      "species": "Sneasel",
      "level": 16,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 132,
+     "slot": 139,
      "species": "Sneasel",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 133,
+     "slot": 140,
      "species": "Snorlax",
      "level": null,
      "hosted": 2,
@@ -1703,7 +1871,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 134,
+     "slot": 141,
      "species": "Solrock",
      "level": 57,
      "hosted": 2,
@@ -1726,13 +1894,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 135,
+     "slot": 142,
      "species": "Spheal",
      "level": 39,
      "hosted": 2
     },
     {
-     "slot": 136,
+     "slot": 143,
      "species": "Stonjourner",
      "level": 59,
      "hosted": 2,
@@ -1755,7 +1923,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 137,
+     "slot": 144,
      "species": "Stunfisk",
      "level": 59,
      "hosted": 2,
@@ -1778,13 +1946,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 138,
+     "slot": 145,
      "species": "Stunky",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 139,
+     "slot": 146,
      "species": "Swirlix",
      "level": 27,
      "hosted": 2,
@@ -1807,34 +1975,34 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 140,
+     "slot": 147,
      "species": "Thievul",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 141,
+     "slot": 148,
      "species": "Togedemaru",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 142,
+     "slot": 149,
      "species": "Togepi",
      "level": 16,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 143,
+     "slot": 150,
      "species": "Toxel",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 144,
+     "slot": 151,
      "species": "Tranquill",
      "level": null,
      "hosted": 2,
@@ -1857,7 +2025,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 145,
+     "slot": 152,
      "species": "Trubbish",
      "level": 26,
      "hosted": 2,
@@ -1880,19 +2048,19 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 146,
+     "slot": 153,
      "species": "Turtonator",
      "level": 56,
      "hosted": 2
     },
     {
-     "slot": 147,
+     "slot": 154,
      "species": "Tympole",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 148,
+     "slot": 155,
      "species": "Unfezant",
      "level": 57,
      "hosted": 2,
@@ -1915,76 +2083,76 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 149,
+     "slot": 156,
      "species": "Venusaur",
      "level": 57,
      "hosted": 2,
      "statsVariants": 4
     },
     {
-     "slot": 150,
+     "slot": 157,
      "species": "Vespiquen",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 151,
+     "slot": 158,
      "species": "Vulpix",
      "level": 19,
      "hosted": 2
     },
     {
-     "slot": 152,
+     "slot": 159,
      "species": "Wailord",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 153,
+     "slot": 160,
      "species": "Weavile",
      "level": 56,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 154,
+     "slot": 161,
      "species": "Weavile",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 155,
+     "slot": 162,
      "species": "Whismur",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 156,
+     "slot": 163,
      "species": "Wimpod",
      "level": 15,
      "hosted": 2
     },
     {
-     "slot": 157,
+     "slot": 164,
      "species": "Wingull",
      "level": 25,
      "hosted": 2
     },
     {
-     "slot": 158,
+     "slot": 165,
      "species": "Wishiwashi",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 159,
+     "slot": 166,
      "species": "Woobat",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 160,
+     "slot": 167,
      "species": "Wooloo",
      "level": null,
      "hosted": 2,
@@ -2007,25 +2175,25 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 161,
+     "slot": 168,
      "species": "Wooper",
      "level": 18,
      "hosted": 2
     },
     {
-     "slot": 162,
+     "slot": 169,
      "species": "Wynaut",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 163,
+     "slot": 170,
      "species": "Yamask",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 164,
+     "slot": 171,
      "species": "Yamper",
      "level": 18,
      "hosted": 2,
@@ -2048,7 +2216,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 165,
+     "slot": 172,
      "species": "Zigzagoon",
      "level": 20,
      "hosted": 2,
@@ -2295,23 +2463,7 @@ window.ROTATION = {
      "species": "Bounsweet",
      "level": 16,
      "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Modest",
-      "ability": "Oblivious",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       28,
-       6,
-       16,
-       19,
-       30
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "statsVariants": 3
     },
     {
      "slot": 23,
@@ -2867,7 +3019,24 @@ window.ROTATION = {
      "slot": 75,
      "species": "Gible",
      "level": 36,
-     "hosted": 2
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Sand Veil",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 76,
@@ -3025,46 +3194,14 @@ window.ROTATION = {
      "species": "Heracross",
      "level": 57,
      "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Moxie",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "statsVariants": 2
     },
     {
      "slot": 88,
      "species": "Heracross",
      "level": null,
      "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Moxie",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "statsVariants": 2
     },
     {
      "slot": 89,
@@ -3429,7 +3566,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Mareanie",
      "level": 46,
-     "hosted": 48
+     "hosted": 49
     },
     {
      "slot": 124,
