@@ -62,6 +62,8 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
 .soc-list a{display:flex;align-items:center;gap:12px;background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:11px 12px;color:var(--text);text-decoration:none;font-weight:600}
 .soc-list a:hover,.soc-list a:focus-visible{border-color:var(--accent);outline:none}
 .soc-ico{width:30px;height:30px;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:.9rem;flex:none}
+.soc-visits{margin:16px 2px 0;color:var(--muted);font-size:.85rem;text-align:center}
+.soc-visits[hidden]{display:none}
 .soc-sub{display:block;font-weight:400;font-size:.78rem;color:var(--muted)}
 .soc-scrim{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:35;opacity:0;pointer-events:none;transition:opacity .28s ease}
 .soc-open .soc-scrim{opacity:1;pointer-events:auto}
@@ -120,6 +122,7 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
     <li><a href="https://www.facebook.com/profile.php?id=100093573343406" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#1877f2">F</span><span>Facebook</span></a></li>
     <li><a href="https://streamlabs.com/leonjiro/tip" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#16a34a">$</span><span>Tip / Support<span class="soc-sub">Totally optional, thank you!</span></span></a></li>
   </ul>
+  <p class="soc-visits" id="socVisits" hidden><span id="socVisitsN"></span> visits so far</p>
 </aside>
 
 <script src="rotation.js"></script>
@@ -135,6 +138,16 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
   document.getElementById('socClose').addEventListener('click', function(){ setOpen(false); });
   document.getElementById('socScrim').addEventListener('click', function(){ setOpen(false); });
   document.addEventListener('keydown', function(e){ if(e.key === 'Escape' && b.classList.contains('soc-open')) setOpen(false); });
+  // Visit total from GoatCounter (needs "allow adding visitor counts on your website" turned on in its settings).
+  // Stays hidden if the count can't be loaded.
+  try {
+    fetch('https://leonjiro.goatcounter.com/counter/TOTAL.json')
+      .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(j){
+        if(j && j.count){ document.getElementById('socVisitsN').textContent = j.count; document.getElementById('socVisits').hidden = false; }
+      })
+      .catch(function(){});
+  } catch(e){}
 })();
 </script>
 <script>
