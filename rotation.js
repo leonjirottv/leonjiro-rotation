@@ -1275,7 +1275,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Liepard",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2762,7 +2762,7 @@ window.ROTATION = {
      "slot": 127,
      "species": "Milotic",
      "level": 55,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Adamant",
