@@ -5,7 +5,7 @@ window.ROTATION = {
    "game": "Sword",
    "count": 172,
    "known": 162,
-   "listChanged": "2026-11-24 14:05:42",
+   "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
      "slot": 1,
@@ -1308,7 +1308,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Buneary",
      "level": 39,
-     "hosted": 79,
+     "hosted": 80,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -2243,251 +2243,101 @@ window.ROTATION = {
   {
    "switch": "S6",
    "game": "Shield",
-   "count": 220,
-   "known": 153,
-   "listChanged": "2026-11-24 14:12:08",
+   "count": 225,
+   "known": 0,
+   "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
      "slot": 1,
-     "species": "Abra",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 2,
-     "species": "Absol",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 3,
-     "species": "Accelgor",
-     "level": 58,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 4,
-     "species": "Aggron",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 5,
-     "species": "Altaria",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 6,
-     "species": "Armaldo",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Brave",
-      "ability": "Swift Swim",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 7,
-     "species": "Aromatisse",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 8,
-     "species": "Aron",
-     "level": 38,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Quiet",
-      "ability": "Rock Head",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       8,
-       31,
-       28
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 9,
-     "species": "Arrokuda",
-     "level": 15,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Bashful",
-      "ability": "Swift Swim",
-      "abilityHidden": false,
-      "ivs": [
-       23,
-       31,
-       5,
-       22,
-       7,
-       23
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 10,
-     "species": "Axew",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 11,
-     "species": "Azurill",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Brave",
-      "ability": "Thick Fat",
-      "abilityHidden": false,
-      "ivs": [
-       21,
-       19,
-       31,
-       31,
-       6,
-       15
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 12,
-     "species": "Baltoy",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 13,
-     "species": "Barbaracle",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 14,
-     "species": "Barboach",
-     "level": 26,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 15,
-     "species": "Basculin",
-     "level": 55,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Lonely",
-      "ability": "Mold Breaker",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 16,
-     "species": "Beartic",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 17,
-     "species": "Bewear",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 18,
-     "species": "Binacle",
-     "level": 15,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Calm",
-      "ability": "Sniper",
-      "abilityHidden": false,
-      "ivs": [
-       30,
-       28,
-       8,
-       31,
-       21,
-       16
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 19,
-     "species": "Blastoise",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 20,
-     "species": "Blipbug",
-     "level": 19,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 21,
-     "species": "Bouffalant",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 22,
-     "species": "Bounsweet",
-     "level": 16,
-     "hosted": 2,
-     "statsVariants": 3
+     "species": null
     },
     {
      "slot": 23,
-     "species": "Carbink",
-     "level": 59,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 24,
@@ -2495,1119 +2345,403 @@ window.ROTATION = {
     },
     {
      "slot": 25,
-     "species": "Charizard",
-     "level": 57,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Careful",
-      "ability": "Solar Power",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 26,
-     "species": "Cherubi",
-     "level": 20,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 27,
-     "species": "Chinchou",
-     "level": 25,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 28,
-     "species": "Clobbopus",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 29,
-     "species": "Cloyster",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Jolly",
-      "ability": "Skill Link",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 30,
-     "species": "Combee",
-     "level": 20,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 31,
-     "species": "Comfey",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naughty",
-      "ability": "Flower Veil",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       30,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 32,
-     "species": "Conkeldurr",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Brave",
-      "ability": "Iron Fist",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       0
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 33,
-     "species": "Corphish",
-     "level": 25,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 34,
-     "species": "Corsola",
-     "level": 38,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 35,
-     "species": "Corsola",
-     "level": 49,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 36,
-     "species": "Cottonee",
-     "level": 29,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 37,
-     "species": "Cradily",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Brave",
-      "ability": "Storm Drain",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 38,
-     "species": "Croagunk",
-     "level": 28,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Impish",
-      "ability": "Dry Skin",
-      "abilityHidden": false,
-      "ivs": [
-       9,
-       11,
-       31,
-       9,
-       8,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 39,
-     "species": "Crustle",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 40,
-     "species": "Cryogonal",
-     "level": 49,
-     "hosted": 2,
-     "stats": {
-      "gender": "Genderless",
-      "nature": "Modest",
-      "ability": "Levitate",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       23,
-       31,
-       31
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 41,
-     "species": "Cutiefly",
-     "level": 25,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 42,
-     "species": "Dedenne",
-     "level": 58,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 43,
-     "species": "Dewpider",
-     "level": 29,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 44,
-     "species": "Dhelmise",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 45,
-     "species": "Dragapult",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 46,
-     "species": "Dragonite",
-     "level": 58,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 47,
-     "species": "Drakloak",
-     "level": 48,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 48,
-     "species": "Drampa",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 49,
-     "species": "Dratini",
-     "level": 46,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 50,
-     "species": "Dreepy",
-     "level": 27,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 51,
-     "species": "Drifloon",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 52,
-     "species": "Druddigon",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 53,
-     "species": "Dunsparce",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Docile",
-      "ability": "Serene Grace",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 54,
-     "species": "Duosion",
-     "level": 46,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Bold",
-      "ability": "Magic Guard",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       27,
-       31,
-       31,
-       31
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 55,
-     "species": "Duraludon",
-     "level": 56,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 56,
-     "species": "Duskull",
-     "level": 18,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Brave",
-      "ability": "Levitate",
-      "abilityHidden": false,
-      "ivs": [
-       22,
-       30,
-       22,
-       20,
-       30,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 57,
-     "species": "Dwebble",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 58,
-     "species": "Eevee",
-     "level": 58,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 59,
-     "species": "Eevee",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 60,
-     "species": "Eiscue",
-     "level": 35,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 61,
-     "species": "Electivire",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 62,
-     "species": "Elekid",
-     "level": 38,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Sassy",
-      "ability": "Static",
-      "abilityHidden": false,
-      "ivs": [
-       25,
-       31,
-       31,
-       31,
-       31,
-       29
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 63,
-     "species": "Elgyem",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 64,
-     "species": "Emolga",
-     "level": 59,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Lax",
-      "ability": "Static",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 65,
-     "species": "Escavalier",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 66,
-     "species": "Espeon",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Adamant",
-      "ability": "Magic Bounce",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 67,
-     "species": "Espurr",
-     "level": 27,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Jolly",
-      "ability": "Infiltrator",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       22,
-       31,
-       22,
-       30,
-       11
-      ],
-      "stars": 2,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 68,
-     "species": "Exploud",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 69,
-     "species": "Gurdurr",
-     "level": 39,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 70,
-     "species": "Feebas",
-     "level": 36,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 71,
-     "species": "Flareon",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 72,
-     "species": "Foongus",
-     "level": 26,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 73,
-     "species": "Frillish",
-     "level": 27,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 74,
-     "species": "Gastly",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 75,
-     "species": "Gible",
-     "level": 36,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Sand Veil",
-      "abilityHidden": false,
-      "ivs": [
-       18,
-       4,
-       11,
-       31,
-       31,
-       5
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 76,
-     "species": "Glaceon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 77,
-     "species": "Goldeen",
-     "level": 39,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 78,
-     "species": "Golett",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 79,
-     "species": "Goomy",
-     "level": 25,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 80,
-     "species": "Binacle",
-     "level": 15,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Calm",
-      "ability": "Sniper",
-      "abilityHidden": false,
-      "ivs": [
-       30,
-       28,
-       8,
-       31,
-       21,
-       16
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 81,
-     "species": "Gourgeist",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Insomnia",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       28,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 82,
-     "species": "Gourgeist",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Insomnia",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       28,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 83,
-     "species": "Gourgeist",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Insomnia",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       28,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 84,
-     "species": "Growlithe",
-     "level": null,
-     "hosted": 0,
-     "manual": true,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Flash Fire",
-      "abilityHidden": false,
-      "ivs": [
-       30,
-       25,
-       31,
-       31,
-       31,
-       30
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 85,
-     "species": "Grubbin",
-     "level": 19,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Quirky",
-      "ability": "Swarm",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       28,
-       19,
-       31,
-       24,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 86,
-     "species": "Heatmor",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 87,
-     "species": "Helioptile",
-     "level": 28,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 88,
-     "species": "Heracross",
-     "level": 57,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 89,
-     "species": "Heracross",
-     "level": null,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 90,
-     "species": "Hitmonchan",
-     "level": 38,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 91,
-     "species": "Honedge",
-     "level": 20,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Timid",
-      "ability": "No Guard",
-      "abilityHidden": false,
-      "ivs": [
-       29,
-       31,
-       29,
-       20,
-       27,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 92,
-     "species": "Horsea",
-     "level": 16,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Rash",
-      "ability": "Damp",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       27,
-       13,
-       31,
-       29,
-       1
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 93,
-     "species": "Igglybuff",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 94,
-     "species": "Jellicent",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 95,
-     "species": "Jolteon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 96,
-     "species": "Kabuto",
-     "level": 16,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 97,
-     "species": "Kabutops",
-     "level": 59,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Sassy",
-      "ability": "Weak Armor",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 98,
-     "species": "Kangaskhan",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Inner Focus",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 99,
-     "species": "Karrablast",
-     "level": 39,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Sassy",
-      "ability": "Swarm",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       29,
-       30,
-       22,
-       26
-      ],
-      "stars": 3,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 100,
-     "species": "Kingdra",
-     "level": 58,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 101,
-     "species": "Klefki",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 102,
-     "species": "Krabby",
-     "level": 18,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Mild",
-      "ability": "Hyper Cutter",
-      "abilityHidden": false,
-      "ivs": [
-       21,
-       31,
-       17,
-       22,
-       17,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 103,
-     "species": "Larvesta",
-     "level": 49,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 104,
-     "species": "Leafeon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 105,
-     "species": "Lillipup",
-     "level": 29,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 106,
-     "species": "Litwick",
-     "level": 29,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 107,
-     "species": "Lotad",
-     "level": 20,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 108,
-     "species": "Lucario",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 109,
-     "species": "Lotad",
-     "level": 20,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 110,
-     "species": "Lunatone",
-     "level": 57,
-     "hosted": 2,
-     "stats": {
-      "gender": "Genderless",
-      "nature": "Lax",
-      "ability": "Levitate",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       21,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 111,
-     "species": "Lurantis",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 112,
-     "species": "Luxio",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Lax",
-      "ability": "Rivalry",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       30,
-       31
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 113,
-     "species": "Magby",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 114,
-     "species": "Magikarp",
-     "level": 28,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 115,
-     "species": "Magnemite",
-     "level": 38,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 116,
-     "species": "Arctovish",
-     "level": 59,
-     "hosted": 6,
-     "stats": {
-      "gender": "Genderless",
-      "nature": "Gentle",
-      "ability": "Slush Rush",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 117,
-     "species": "Magby",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 118,
-     "species": "Magikarp",
-     "level": 28,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 119,
-     "species": "Magnemite",
-     "level": 38,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 120,
-     "species": "Mamoswine",
-     "level": 56,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 121,
-     "species": "Mantine",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 122,
-     "species": "Mantyke",
-     "level": 15,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 123,
-     "species": "Maractus",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 124,
-     "species": "Mareanie",
-     "level": 28,
-     "hosted": 85
+     "species": null
     },
     {
      "slot": 125,
@@ -3875,257 +3009,143 @@ window.ROTATION = {
     },
     {
      "slot": 191,
-     "species": "Staryu",
-     "level": 57,
-     "hosted": 7
+     "species": null
     },
     {
      "slot": 192,
-     "species": "Staryu",
-     "level": 39,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 193,
-     "species": "Steelix",
-     "level": 57,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 194,
-     "species": "Stufful",
-     "level": 27,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 195,
-     "species": "Swablu",
-     "level": 59,
-     "hosted": 45,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 196,
-     "species": "Swablu",
-     "level": 36,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 197,
-     "species": "Sylveon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 198,
-     "species": "Tauros",
-     "level": 58,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 199,
-     "species": "Tentacool",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 200,
-     "species": "Throh",
-     "level": 56,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 201,
-     "species": "Timburr",
-     "level": 26,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 202,
-     "species": "Togedemaru",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 203,
-     "species": "Togepi",
-     "level": 18,
-     "hosted": 2,
-     "statsVariants": 3
+     "species": null
     },
     {
      "slot": 204,
-     "species": "Toxel",
-     "level": 20,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 205,
-     "species": "Trubbish",
-     "level": 28,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Modest",
-      "ability": "Aftermath",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       17,
-       27,
-       24,
-       31,
-       31
-      ],
-      "stars": 2,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 206,
-     "species": "Tyrogue",
-     "level": 18,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 207,
-     "species": "Umbreon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 208,
-     "species": "Vanillite",
-     "level": 18,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Ice Body",
-      "abilityHidden": false,
-      "ivs": [
-       3,
-       31,
-       13,
-       2,
-       31,
-       31
-      ],
-      "stars": 1,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 209,
-     "species": "Vaporeon",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 210,
-     "species": "Venipede",
-     "level": 26,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 211,
-     "species": "Venusaur",
-     "level": 59,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Adamant",
-      "ability": "Chlorophyll",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 212,
-     "species": "Vespiquen",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 213,
-     "species": "Wailmer",
-     "level": 46,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 214,
-     "species": "Walrein",
-     "level": 55,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 215,
-     "species": "Weezing",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 216,
-     "species": "Whismur",
-     "level": null,
-     "hosted": 0,
-     "manual": true,
-     "stats": {
-      "gender": "Female",
-      "nature": "Jolly",
-      "ability": "Soundproof",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       28,
-       27,
-       30
-      ],
-      "stars": 2,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 217,
-     "species": "Wimpod",
-     "level": 19,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 218,
-     "species": "Wingull",
-     "level": 26,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 219,
-     "species": "Wynaut",
-     "level": 20,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 220,
-     "species": "Yamask",
-     "level": 18,
-     "hosted": 2
+     "species": null
+    },
+    {
+     "slot": 221,
+     "species": null
+    },
+    {
+     "slot": 222,
+     "species": null
+    },
+    {
+     "slot": 223,
+     "species": null
+    },
+    {
+     "slot": 224,
+     "species": null
+    },
+    {
+     "slot": 225,
+     "species": null
     }
    ]
   }
