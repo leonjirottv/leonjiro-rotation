@@ -1261,26 +1261,9 @@ window.ROTATION = {
     },
     {
      "slot": 87,
-     "species": "Lopunny",
-     "level": 58,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Timid",
-      "ability": "Limber",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "Larvesta",
+     "level": 48,
+     "hosted": 1
     },
     {
      "slot": 88,
@@ -2228,7 +2211,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 1,
+   "known": 2,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2731,7 +2714,26 @@ window.ROTATION = {
     },
     {
      "slot": 125,
-     "species": null
+     "species": "Mienfoo",
+     "level": 38,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Bashful",
+      "ability": "Reckless",
+      "abilityHidden": true,
+      "ivs": [
+       17,
+       3,
+       17,
+       21,
+       31,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 126,
