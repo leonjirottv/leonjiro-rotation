@@ -1457,9 +1457,26 @@ window.ROTATION = {
     },
     {
      "slot": 105,
-     "species": "NidoranF",
-     "level": null,
-     "hosted": 20
+     "species": "Morelull",
+     "level": 37,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Relaxed",
+      "ability": "Illuminate",
+      "abilityHidden": false,
+      "ivs": [
+       15,
+       1,
+       31,
+       31,
+       8,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 106,
@@ -2262,7 +2279,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 18,
+   "known": 19,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3013,7 +3030,9 @@ window.ROTATION = {
     },
     {
      "slot": 144,
-     "species": null
+     "species": "Pancham",
+     "level": 28,
+     "hosted": 1
     },
     {
      "slot": 145,
