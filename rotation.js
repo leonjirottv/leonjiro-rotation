@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 172,
-   "known": 165,
+   "known": 166,
    "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
@@ -1348,7 +1348,9 @@ window.ROTATION = {
     },
     {
      "slot": 93,
-     "species": null
+     "species": "Lucario",
+     "level": 57,
+     "hosted": 2
     },
     {
      "slot": 94,
@@ -2251,7 +2253,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 7,
+   "known": 8,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2854,7 +2856,7 @@ window.ROTATION = {
      "slot": 130,
      "species": "Minccino",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2875,7 +2877,26 @@ window.ROTATION = {
     },
     {
      "slot": 131,
-     "species": null
+     "species": "Morelull",
+     "level": 19,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Bashful",
+      "ability": "Effect Spore",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       30,
+       16,
+       9,
+       31,
+       29
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 132,
