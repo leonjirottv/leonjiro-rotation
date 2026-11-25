@@ -1,13 +1,10 @@
 window.ROTATION = {
- "generated": "2026-11-25 11:56",
  "switches": [
   {
    "switch": "S3",
    "game": "Sword",
    "count": 163,
    "known": 153,
-   "currentSlot": 81,
-   "nowLabel": "MAWILE (MALE)",
    "listChanged": "2026-11-24 14:05:42",
    "slots": [
     {
@@ -1119,7 +1116,7 @@ window.ROTATION = {
      "slot": 81,
      "species": "Buneary",
      "level": 57,
-     "hosted": 10,
+     "hosted": 12,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -2032,8 +2029,6 @@ window.ROTATION = {
    "game": "Shield",
    "count": 218,
    "known": 151,
-   "currentSlot": 123,
-   "nowLabel": "ARCTOVISH (NON-SHINY)",
    "listChanged": "2026-11-24 14:12:08",
    "slots": [
     {

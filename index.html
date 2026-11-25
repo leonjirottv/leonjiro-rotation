@@ -58,6 +58,8 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
 .card{min-height:150px}
 .disclaimer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--warn);border-radius:10px;padding:10px 14px;margin:0 0 12px;font-size:.9rem;color:var(--muted)}
 .disclaimer b{color:var(--text)}
+.stale{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--warn);border-radius:10px;padding:10px 14px;margin:12px 0 0;font-size:.9rem;color:var(--muted)}
+.stale b{color:var(--text)}
 .note{color:var(--muted);font-size:.85rem;margin-top:18px}
 .empty{color:var(--muted);padding:24px;text-align:center}
 .shiny{display:inline-block;margin-left:4px;color:#fbbf24}
@@ -68,8 +70,9 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
 <div class="wrap">
   <header>
     <h1>Leonjiro's Free Shiny Raid Rotation</h1>
-    <p>Every Pokemon the S3 (Sword) and S6 (Shield) hosts cycle through, in order. Updated <span id="gen">…</span>.</p>
+    <p>Every Pokemon the S3 (Sword) and S6 (Shield) hosts cycle through, in order. Live status updated <span id="gen">…</span>.</p>
   </header>
+  <p class="stale" id="stale" style="display:none"><b>Live status is out of date.</b> The hosts may be offline or restarting. The list below is still correct.</p>
 
   <div class="tabs" role="tablist" id="tabs"></div>
   <div id="now"></div>
@@ -92,7 +95,46 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
   var mk = function(tag, cls, text){ var n=document.createElement(tag); if(cls) n.className=cls; if(text!=null) n.textContent=text; return n; };
   var sid = function(name){ return name.toLowerCase().replace(/[^a-z0-9]/g,''); };
 
-  el('gen').textContent = D.generated;
+  // Live status (current slot + Now Looping label) comes from a separate file on the repo's "data" branch,
+  // so frequent updates never trigger a Pages rebuild. Falls back to ./status.json when previewing locally.
+  var STATUS_URLS = [
+    'https://raw.githubusercontent.com/leonjirottv/leonjiro-rotation/data/status.json',
+    'status.json'
+  ];
+  var statusAge = null;   // minutes since the status file was generated, null = unknown
+  var STALE_MIN = 20;
+
+  function agoText(min){
+    if(min < 1) return 'just now';
+    if(min < 60) return Math.round(min)+' min ago';
+    var h = min/60; if(h < 48) return Math.round(h)+' h ago';
+    return Math.round(h/24)+' days ago';
+  }
+  function showAge(){
+    var g = el('gen');
+    if(statusAge===null){ g.textContent = 'status unavailable'; return; }
+    g.textContent = agoText(statusAge);
+    var stale = statusAge > STALE_MIN;
+    el('stale').style.display = stale ? 'block' : 'none';
+  }
+  function applyStatus(st){
+    var byName = {}; (st.switches||[]).forEach(function(x){ byName[x.switch]=x; });
+    D.switches.forEach(function(s){
+      var x = byName[s.switch]; if(!x) return;
+      s.currentSlot = x.currentSlot; s.nowLabel = x.nowLabel;
+    });
+    statusAge = Math.max(0, (Date.now()/1000 - st.generatedEpoch)/60);
+    showAge(); render();
+  }
+  function loadStatus(i){
+    if(i >= STATUS_URLS.length){ showAge(); return; }
+    fetch(STATUS_URLS[i] + (i===0 ? '?t='+Date.now() : '?t='+Date.now()), {cache:'no-store'})
+      .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(applyStatus)
+      .catch(function(){ loadStatus(i+1); });
+  }
+  setInterval(function(){ if(statusAge!==null){ statusAge += 0.5; showAge(); } }, 30000);
+  setInterval(function(){ loadStatus(0); }, 60000);
 
   function sprite(name){
     var img = new Image();
@@ -196,6 +238,7 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
 
   el('q').addEventListener('input', render);
   render();
+  loadStatus(0);
 })();
 </script>
 </body>
