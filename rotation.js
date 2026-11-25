@@ -1410,23 +1410,23 @@ window.ROTATION = {
     },
     {
      "slot": 100,
-     "species": "Morelull",
-     "level": 18,
-     "hosted": 7,
+     "species": "Meowstic",
+     "level": 47,
+     "hosted": 1,
      "stats": {
       "gender": "Male",
-      "nature": "Relaxed",
-      "ability": "Illuminate",
+      "nature": "Timid",
+      "ability": "Infiltrator",
       "abilityHidden": false,
       "ivs": [
-       15,
-       1,
        31,
        31,
-       8,
+       9,
+       10,
+       31,
        31
       ],
-      "stars": 3,
+      "stars": 4,
       "shiny": "square",
       "gmax": false
      }
@@ -2968,7 +2968,7 @@ window.ROTATION = {
      "slot": 138,
      "species": "Nidoqueen",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 139,
