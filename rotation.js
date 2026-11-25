@@ -1482,7 +1482,7 @@ window.ROTATION = {
      "slot": 106,
      "species": "Morpeko",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -3039,7 +3039,7 @@ window.ROTATION = {
      "slot": 145,
      "species": "Phantump",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 146,
