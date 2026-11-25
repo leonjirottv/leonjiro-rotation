@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 172,
-   "known": 169,
+   "known": 170,
    "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
@@ -1391,7 +1391,9 @@ window.ROTATION = {
     },
     {
      "slot": 97,
-     "species": null
+     "species": "Mantyke",
+     "level": 18,
+     "hosted": 2
     },
     {
      "slot": 98,
@@ -2278,7 +2280,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 11,
+   "known": 12,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2949,7 +2951,26 @@ window.ROTATION = {
     },
     {
      "slot": 136,
-     "species": null
+     "species": "Nickit",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Quiet",
+      "ability": "Run Away",
+      "abilityHidden": false,
+      "ivs": [
+       28,
+       0,
+       31,
+       31,
+       31,
+       8
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 137,
