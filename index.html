@@ -49,6 +49,27 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
 .card.current::after{content:"NOW";position:absolute;left:50%;bottom:6px;transform:translateX(-50%);background:var(--now);color:#fff;font-size:.65rem;font-weight:700;padding:1px 8px;border-radius:999px}
 .card.pending{opacity:.55;border-style:dashed}
 .card.pending .q{height:80px;display:flex;align-items:center;justify-content:center;font-size:1.6rem;color:var(--muted);margin-top:12px}
+/* socials slide-out tab */
+.soc-toggle{position:fixed;right:0;top:40%;z-index:30;background:var(--accent);color:#fff;border:0;border-radius:12px 0 0 12px;padding:14px 9px;font:inherit;font-weight:700;font-size:.85rem;letter-spacing:.04em;cursor:pointer;writing-mode:vertical-rl;text-orientation:mixed;box-shadow:0 2px 12px rgba(0,0,0,.35);transition:right .28s ease}
+.soc-toggle:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+.soc-panel{position:fixed;right:0;top:0;bottom:0;width:min(300px,86vw);z-index:40;background:var(--panel);border-left:1px solid var(--line);box-shadow:-8px 0 28px rgba(0,0,0,.4);padding:18px 16px;transform:translateX(105%);transition:transform .28s ease;overflow-y:auto;visibility:hidden}
+.soc-open .soc-panel{transform:translateX(0);visibility:visible}
+.soc-open .soc-toggle{right:min(300px,86vw)}
+.soc-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.soc-head h2{margin:0;font-size:1.1rem}
+.soc-close{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;width:34px;height:34px;font-size:1.1rem;cursor:pointer}
+.soc-list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.soc-list a{display:flex;align-items:center;gap:12px;background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:11px 12px;color:var(--text);text-decoration:none;font-weight:600}
+.soc-list a:hover,.soc-list a:focus-visible{border-color:var(--accent);outline:none}
+.soc-ico{width:30px;height:30px;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:.9rem;flex:none}
+.soc-sub{display:block;font-weight:400;font-size:.78rem;color:var(--muted)}
+.soc-scrim{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:35;opacity:0;pointer-events:none;transition:opacity .28s ease}
+.soc-open .soc-scrim{opacity:1;pointer-events:auto}
+@media (max-width:600px){
+  .soc-toggle{top:auto;bottom:16px;right:16px;border-radius:999px;writing-mode:horizontal-tb;padding:11px 18px}
+  .soc-open .soc-toggle{display:none}
+}
+@media (prefers-reduced-motion: reduce){.soc-toggle,.soc-panel,.soc-scrim{transition:none}}
 .tag{display:inline-block;margin-top:4px;background:var(--warn);color:#fff;font-size:.68rem;font-weight:700;padding:1px 8px;border-radius:999px}
 .stats{margin-top:6px;font-size:.78rem;color:var(--muted);line-height:1.35}
 .stats .nat{color:var(--text);font-weight:600}
@@ -86,7 +107,36 @@ header p{margin:.25rem 0 0;color:var(--muted);font-size:.95rem}
   <p class="note" id="note"></p>
 </div>
 
+<button class="soc-toggle" id="socToggle" aria-expanded="false" aria-controls="socPanel">FOLLOW LEON</button>
+<div class="soc-scrim" id="socScrim"></div>
+<aside class="soc-panel" id="socPanel" aria-label="Social links">
+  <div class="soc-head"><h2>Find me online</h2><button class="soc-close" id="socClose" aria-label="Close social links">&times;</button></div>
+  <ul class="soc-list">
+    <li><a href="https://www.twitch.tv/leonjiro" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#9146ff">T</span><span>Twitch<span class="soc-sub">Live shiny raids</span></span></a></li>
+    <li><a href="https://discord.gg/M2yKpxG8M8" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#5865f2">D</span><span>Discord<span class="soc-sub">Join the community</span></span></a></li>
+    <li><a href="https://www.youtube.com/channel/UCQi6_Ou3yJZ6r8O1bN4ocoA" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#e11d1d">Y</span><span>YouTube</span></a></li>
+    <li><a href="https://twitter.com/leonjirottv" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#111827">X</span><span>Twitter / X</span></a></li>
+    <li><a href="https://www.instagram.com/leonjirotv/" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#d6249f">I</span><span>Instagram</span></a></li>
+    <li><a href="https://www.facebook.com/profile.php?id=100093573343406" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#1877f2">F</span><span>Facebook</span></a></li>
+    <li><a href="https://streamlabs.com/leonjiro/tip" target="_blank" rel="noopener noreferrer"><span class="soc-ico" style="background:#16a34a">$</span><span>Tip / Support<span class="soc-sub">Totally optional, thank you!</span></span></a></li>
+  </ul>
+</aside>
+
 <script src="rotation.js"></script>
+<script>
+(function(){
+  var b = document.body, t = document.getElementById('socToggle'), p = document.getElementById('socPanel');
+  function setOpen(o){
+    b.classList.toggle('soc-open', o);
+    t.setAttribute('aria-expanded', o ? 'true' : 'false');
+    if(o){ document.getElementById('socClose').focus(); } else if(document.activeElement && p.contains(document.activeElement)){ t.focus(); }
+  }
+  t.addEventListener('click', function(){ setOpen(!b.classList.contains('soc-open')); });
+  document.getElementById('socClose').addEventListener('click', function(){ setOpen(false); });
+  document.getElementById('socScrim').addEventListener('click', function(){ setOpen(false); });
+  document.addEventListener('keydown', function(e){ if(e.key === 'Escape' && b.classList.contains('soc-open')) setOpen(false); });
+})();
+</script>
 <script>
 (function(){
   var D = window.ROTATION;
