@@ -1140,7 +1140,7 @@ window.ROTATION = {
      "slot": 82,
      "species": "Buneary",
      "level": 18,
-     "hosted": 22,
+     "hosted": 24,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -2616,7 +2616,23 @@ window.ROTATION = {
      "species": "Duosion",
      "level": 46,
      "hosted": 2,
-     "statsVariants": 3
+     "stats": {
+      "gender": "Male",
+      "nature": "Bold",
+      "ability": "Magic Guard",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       27,
+       31,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 55,
@@ -3388,8 +3404,8 @@ window.ROTATION = {
     {
      "slot": 123,
      "species": "Mareanie",
-     "level": 59,
-     "hosted": 24
+     "level": 46,
+     "hosted": 26
     },
     {
      "slot": 124,
