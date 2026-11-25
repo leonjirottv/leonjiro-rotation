@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 172,
-   "known": 164,
+   "known": 165,
    "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
@@ -1325,7 +1325,26 @@ window.ROTATION = {
     },
     {
      "slot": 92,
-     "species": null
+     "species": "Lopunny",
+     "level": 58,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Limber",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 93,
@@ -2232,7 +2251,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 6,
+   "known": 7,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2833,7 +2852,26 @@ window.ROTATION = {
     },
     {
      "slot": 130,
-     "species": null
+     "species": "Minccino",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Technician",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 131,
