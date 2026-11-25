@@ -1405,7 +1405,7 @@ window.ROTATION = {
      "slot": 99,
      "species": "Mawile",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -2266,7 +2266,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 13,
+   "known": 14,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2966,7 +2966,9 @@ window.ROTATION = {
     },
     {
      "slot": 138,
-     "species": null
+     "species": "Nidoqueen",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 139,
