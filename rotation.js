@@ -1370,7 +1370,7 @@ window.ROTATION = {
      "slot": 96,
      "species": "Magnezone",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Genderless",
       "nature": "Naive",
@@ -2278,7 +2278,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 10,
+   "known": 11,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -2942,7 +2942,10 @@ window.ROTATION = {
     },
     {
      "slot": 135,
-     "species": null
+     "species": "Munna",
+     "level": null,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 136,
