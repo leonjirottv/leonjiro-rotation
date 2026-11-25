@@ -3,8 +3,8 @@ window.ROTATION = {
   {
    "switch": "S3",
    "game": "Sword",
-   "count": 164,
-   "known": 154,
+   "count": 165,
+   "known": 155,
    "listChanged": "2026-11-24 14:05:42",
    "slots": [
     {
@@ -1140,7 +1140,7 @@ window.ROTATION = {
      "slot": 82,
      "species": "Buneary",
      "level": 18,
-     "hosted": 24,
+     "hosted": 25,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -1492,88 +1492,112 @@ window.ROTATION = {
     },
     {
      "slot": 115,
+     "species": "Rufflet",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Male",
+      "nature": "Modest",
+      "ability": "Keen Eye",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       18,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 116,
      "species": "Sandile",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 116,
+     "slot": 117,
      "species": "Sandshrew",
      "level": 36,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 117,
+     "slot": 118,
      "species": "Sandygast",
      "level": 35,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 118,
+     "slot": 119,
      "species": "Sawk",
      "level": 56,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 119,
+     "slot": 120,
      "species": "Scrafty",
      "level": null,
      "hosted": 2,
      "statsVariants": 3
     },
     {
-     "slot": 120,
+     "slot": 121,
      "species": "Scraggy",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 121,
+     "slot": 122,
      "species": "Scyther",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 122,
+     "slot": 123,
      "species": "Seedot",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 123,
+     "slot": 124,
      "species": "Shellos",
      "level": 15,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 124,
+     "slot": 125,
      "species": "Silicobra",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 125,
+     "slot": 126,
      "species": "Sinistea",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 126,
+     "slot": 127,
      "species": "Sirfetchd",
      "level": 59,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 127,
+     "slot": 128,
      "species": "Skarmory",
      "level": 59,
      "hosted": 2,
@@ -1596,7 +1620,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 128,
+     "slot": 129,
      "species": "Skwovet",
      "level": 20,
      "hosted": 2,
@@ -1619,7 +1643,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 129,
+     "slot": 130,
      "species": "Slurpuff",
      "level": 56,
      "hosted": 2,
@@ -1642,21 +1666,21 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 130,
+     "slot": 131,
      "species": "Sneasel",
      "level": 16,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 131,
+     "slot": 132,
      "species": "Sneasel",
      "level": 20,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 132,
+     "slot": 133,
      "species": "Snorlax",
      "level": null,
      "hosted": 2,
@@ -1679,7 +1703,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 133,
+     "slot": 134,
      "species": "Solrock",
      "level": 57,
      "hosted": 2,
@@ -1702,13 +1726,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 134,
+     "slot": 135,
      "species": "Spheal",
      "level": 39,
      "hosted": 2
     },
     {
-     "slot": 135,
+     "slot": 136,
      "species": "Stonjourner",
      "level": 59,
      "hosted": 2,
@@ -1731,7 +1755,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 136,
+     "slot": 137,
      "species": "Stunfisk",
      "level": 59,
      "hosted": 2,
@@ -1754,13 +1778,13 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 137,
+     "slot": 138,
      "species": "Stunky",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 138,
+     "slot": 139,
      "species": "Swirlix",
      "level": 27,
      "hosted": 2,
@@ -1783,34 +1807,34 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 139,
+     "slot": 140,
      "species": "Thievul",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 140,
+     "slot": 141,
      "species": "Togedemaru",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 141,
+     "slot": 142,
      "species": "Togepi",
      "level": 16,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 142,
+     "slot": 143,
      "species": "Toxel",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 143,
+     "slot": 144,
      "species": "Tranquill",
      "level": null,
      "hosted": 2,
@@ -1833,7 +1857,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 144,
+     "slot": 145,
      "species": "Trubbish",
      "level": 26,
      "hosted": 2,
@@ -1856,19 +1880,19 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 145,
+     "slot": 146,
      "species": "Turtonator",
      "level": 56,
      "hosted": 2
     },
     {
-     "slot": 146,
+     "slot": 147,
      "species": "Tympole",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 147,
+     "slot": 148,
      "species": "Unfezant",
      "level": 57,
      "hosted": 2,
@@ -1891,76 +1915,76 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 148,
+     "slot": 149,
      "species": "Venusaur",
      "level": 57,
      "hosted": 2,
      "statsVariants": 4
     },
     {
-     "slot": 149,
+     "slot": 150,
      "species": "Vespiquen",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 150,
+     "slot": 151,
      "species": "Vulpix",
      "level": 19,
      "hosted": 2
     },
     {
-     "slot": 151,
+     "slot": 152,
      "species": "Wailord",
      "level": 57,
      "hosted": 2
     },
     {
-     "slot": 152,
+     "slot": 153,
      "species": "Weavile",
      "level": 56,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 153,
+     "slot": 154,
      "species": "Weavile",
      "level": null,
      "hosted": 2,
      "statsVariants": 2
     },
     {
-     "slot": 154,
+     "slot": 155,
      "species": "Whismur",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 155,
+     "slot": 156,
      "species": "Wimpod",
      "level": 15,
      "hosted": 2
     },
     {
-     "slot": 156,
+     "slot": 157,
      "species": "Wingull",
      "level": 25,
      "hosted": 2
     },
     {
-     "slot": 157,
+     "slot": 158,
      "species": "Wishiwashi",
      "level": 59,
      "hosted": 2
     },
     {
-     "slot": 158,
+     "slot": 159,
      "species": "Woobat",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 159,
+     "slot": 160,
      "species": "Wooloo",
      "level": null,
      "hosted": 2,
@@ -1983,25 +2007,25 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 160,
+     "slot": 161,
      "species": "Wooper",
      "level": 18,
      "hosted": 2
     },
     {
-     "slot": 161,
+     "slot": 162,
      "species": "Wynaut",
      "level": null,
      "hosted": 2
     },
     {
-     "slot": 162,
+     "slot": 163,
      "species": "Yamask",
      "level": 29,
      "hosted": 2
     },
     {
-     "slot": 163,
+     "slot": 164,
      "species": "Yamper",
      "level": 18,
      "hosted": 2,
@@ -2024,7 +2048,7 @@ window.ROTATION = {
      }
     },
     {
-     "slot": 164,
+     "slot": 165,
      "species": "Zigzagoon",
      "level": 20,
      "hosted": 2,
@@ -3404,8 +3428,8 @@ window.ROTATION = {
     {
      "slot": 123,
      "species": "Mareanie",
-     "level": 46,
-     "hosted": 26
+     "level": 49,
+     "hosted": 28
     },
     {
      "slot": 124,
