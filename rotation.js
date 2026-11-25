@@ -1510,7 +1510,7 @@ window.ROTATION = {
      "slot": 110,
      "species": "NidoranF",
      "level": 39,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 111,
@@ -2232,7 +2232,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 23,
+   "known": 24,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3030,7 +3030,26 @@ window.ROTATION = {
     },
     {
      "slot": 149,
-     "species": null
+     "species": "Politoed",
+     "level": 57,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Drizzle",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 150,
