@@ -2243,8 +2243,8 @@ window.ROTATION = {
   {
    "switch": "S6",
    "game": "Shield",
-   "count": 219,
-   "known": 152,
+   "count": 220,
+   "known": 153,
    "listChanged": "2026-11-24 14:12:08",
    "slots": [
     {
@@ -4081,24 +4081,48 @@ window.ROTATION = {
     },
     {
      "slot": 216,
+     "species": "Whismur",
+     "level": null,
+     "hosted": 0,
+     "manual": true,
+     "stats": {
+      "gender": "Female",
+      "nature": "Jolly",
+      "ability": "Soundproof",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       28,
+       27,
+       30
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
+    },
+    {
+     "slot": 217,
      "species": "Wimpod",
      "level": 19,
      "hosted": 2
     },
     {
-     "slot": 217,
+     "slot": 218,
      "species": "Wingull",
      "level": 26,
      "hosted": 2
     },
     {
-     "slot": 218,
+     "slot": 219,
      "species": "Wynaut",
      "level": 20,
      "hosted": 2
     },
     {
-     "slot": 219,
+     "slot": 220,
      "species": "Yamask",
      "level": 18,
      "hosted": 2
