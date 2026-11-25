@@ -1487,9 +1487,10 @@ window.ROTATION = {
     },
     {
      "slot": 107,
-     "species": "Noibat",
-     "level": 26,
-     "hosted": 2
+     "species": "Mudbray",
+     "level": 15,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 108,
@@ -2280,7 +2281,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 20,
+   "known": 21,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3043,7 +3044,9 @@ window.ROTATION = {
     },
     {
      "slot": 146,
-     "species": null
+     "species": "Pidove",
+     "level": 26,
+     "hosted": 1
     },
     {
      "slot": 147,
