@@ -1605,14 +1605,14 @@ window.ROTATION = {
      "slot": 126,
      "species": "Sandygast",
      "level": 35,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 127,
      "species": "Sawk",
      "level": 56,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 177,
+   "known": 178,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3374,7 +3374,9 @@ window.ROTATION = {
     },
     {
      "slot": 105,
-     "species": null
+     "species": "Klefki",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 106,
