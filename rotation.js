@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 89,
+   "known": 90,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -407,7 +407,26 @@ window.ROTATION = {
     },
     {
      "slot": 29,
-     "species": null
+     "species": "Chinchou",
+     "level": 25,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Quiet",
+      "ability": "Illuminate",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       5,
+       5,
+       8,
+       24
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 30,
@@ -1431,7 +1450,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 78,
+   "known": 79,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1460,7 +1479,9 @@ window.ROTATION = {
     },
     {
      "slot": 5,
-     "species": null
+     "species": "Altaria",
+     "level": 57,
+     "hosted": 1
     },
     {
      "slot": 6,
