@@ -1300,7 +1300,7 @@ window.ROTATION = {
      "slot": 99,
      "species": "Miltank",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 100,
@@ -2890,7 +2890,7 @@ window.ROTATION = {
      "slot": 78,
      "species": "Gastly",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 79,
