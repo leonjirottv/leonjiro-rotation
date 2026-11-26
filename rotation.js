@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 68,
+   "known": 69,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -136,7 +136,26 @@ window.ROTATION = {
     },
     {
      "slot": 8,
-     "species": null
+     "species": "Axew",
+     "level": 29,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Modest",
+      "ability": "Mold Breaker",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       31,
+       4,
+       16,
+       23,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 9,
@@ -2386,7 +2405,7 @@ window.ROTATION = {
      "slot": 215,
      "species": "Vaporeon",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 216,
