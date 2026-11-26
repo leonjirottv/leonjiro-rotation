@@ -1027,7 +1027,7 @@ window.ROTATION = {
      "slot": 168,
      "species": "Wooloo",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1080,7 +1080,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 47,
+   "known": 48,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2112,7 +2112,9 @@ window.ROTATION = {
     },
     {
      "slot": 203,
-     "species": null
+     "species": "Sylveon",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 204,
