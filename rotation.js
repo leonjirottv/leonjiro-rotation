@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 166,
+   "known": 167,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1367,7 +1367,9 @@ window.ROTATION = {
     },
     {
      "slot": 107,
-     "species": null
+     "species": "NidoranM",
+     "level": 39,
+     "hosted": 1
     },
     {
      "slot": 108,
@@ -3001,7 +3003,7 @@ window.ROTATION = {
      "slot": 85,
      "species": "Gourgeist",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
