@@ -870,7 +870,7 @@ window.ROTATION = {
      "slot": 151,
      "species": "Toxel",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -975,7 +975,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 30,
+   "known": 31,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1851,7 +1851,26 @@ window.ROTATION = {
     },
     {
      "slot": 186,
-     "species": null
+     "species": "Silicobra",
+     "level": 20,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Lax",
+      "ability": "Sand Spit",
+      "abilityHidden": false,
+      "ivs": [
+       16,
+       31,
+       29,
+       31,
+       19,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 187,
