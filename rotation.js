@@ -958,7 +958,7 @@ window.ROTATION = {
      "slot": 157,
      "species": "Venusaur",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 4
     },
     {
@@ -1039,7 +1039,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 36,
+   "known": 37,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1985,7 +1985,9 @@ window.ROTATION = {
     },
     {
      "slot": 192,
-     "species": null
+     "species": "Smoochum",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 193,
