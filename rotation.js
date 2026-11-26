@@ -1520,26 +1520,9 @@ window.ROTATION = {
     },
     {
      "slot": 112,
-     "species": "Passimian",
-     "level": 49,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Defiant",
-      "abilityHidden": true,
-      "ivs": [
-       4,
-       11,
-       31,
-       31,
-       31,
-       5
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "Noibat",
+     "level": 26,
+     "hosted": 1
     },
     {
      "slot": 113,
@@ -3038,7 +3021,7 @@ window.ROTATION = {
      "slot": 150,
      "species": "Poliwag",
      "level": 27,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Mild",
