@@ -322,7 +322,7 @@ window.ROTATION = {
      "slot": 21,
      "species": "Bronzor",
      "level": 36,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1379,7 +1379,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 70,
+   "known": 71,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2619,7 +2619,9 @@ window.ROTATION = {
     },
     {
      "slot": 226,
-     "species": null
+     "species": "Yamask",
+     "level": 18,
+     "hosted": 2
     },
     {
      "slot": 227,
