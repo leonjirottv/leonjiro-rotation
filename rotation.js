@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 138,
+   "known": 139,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1034,7 +1034,26 @@ window.ROTATION = {
     },
     {
      "slot": 78,
-     "species": null
+     "species": "Karrablast",
+     "level": 25,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Hardy",
+      "ability": "Shed Skin",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       18,
+       30,
+       30,
+       30,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 79,
@@ -1862,7 +1881,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 128,
+   "known": 129,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2471,7 +2490,9 @@ window.ROTATION = {
     },
     {
      "slot": 56,
-     "species": null
+     "species": "Druddigon",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 57,
