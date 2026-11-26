@@ -1091,7 +1091,7 @@ window.ROTATION = {
      "slot": 173,
      "species": "Zigzagoon",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2182,7 +2182,7 @@ window.ROTATION = {
      "slot": 207,
      "species": "Timburr",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 208,
