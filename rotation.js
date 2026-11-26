@@ -243,7 +243,7 @@ window.ROTATION = {
      "slot": 14,
      "species": "Basculin",
      "level": 35,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Bold",
@@ -1344,7 +1344,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 65,
+   "known": 66,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2537,7 +2537,9 @@ window.ROTATION = {
     },
     {
      "slot": 221,
-     "species": null
+     "species": "Weezing",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 222,
