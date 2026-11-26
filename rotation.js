@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 172,
-   "known": 171,
+   "known": 172,
    "listChanged": "2026-11-25 15:47:15",
    "slots": [
     {
@@ -1526,7 +1526,26 @@ window.ROTATION = {
     },
     {
      "slot": 113,
-     "species": null
+     "species": "Obstagoon",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Adamant",
+      "ability": "Defiant",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 114,
@@ -2198,7 +2217,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 26,
+   "known": 27,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3044,12 +3063,14 @@ window.ROTATION = {
      "slot": 151,
      "species": "Psyduck",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
      "slot": 152,
-     "species": null
+     "species": "Pumpkaboo",
+     "level": 38,
+     "hosted": 1
     },
     {
      "slot": 153,
