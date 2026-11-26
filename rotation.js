@@ -1506,7 +1506,7 @@ window.ROTATION = {
      "slot": 116,
      "species": "Pidove",
      "level": 20,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 167,
+   "known": 168,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3229,7 +3229,26 @@ window.ROTATION = {
     },
     {
      "slot": 95,
-     "species": null
+     "species": "Honedge",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "No Guard",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       29,
+       20,
+       27,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 96,
