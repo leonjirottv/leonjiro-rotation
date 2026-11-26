@@ -814,7 +814,7 @@ window.ROTATION = {
      "slot": 59,
      "species": "Fletchling",
      "level": 29,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 60,
@@ -1718,7 +1718,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 109,
+   "known": 110,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2123,11 +2123,13 @@ window.ROTATION = {
      "slot": 36,
      "species": "Corsola",
      "level": 49,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 37,
-     "species": null
+     "species": "Corsola",
+     "level": 38,
+     "hosted": 1
     },
     {
      "slot": 38,
