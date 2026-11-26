@@ -161,7 +161,7 @@ window.ROTATION = {
      "slot": 9,
      "species": "Azurill",
      "level": 28,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Gentle",
