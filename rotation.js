@@ -1571,7 +1571,7 @@ window.ROTATION = {
      "slot": 121,
      "species": "Rockruff",
      "level": 37,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 122,
@@ -3289,7 +3289,7 @@ window.ROTATION = {
      "slot": 99,
      "species": "Jolteon",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 100,
