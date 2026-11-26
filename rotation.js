@@ -507,7 +507,7 @@ window.ROTATION = {
      "slot": 34,
      "species": "Armaldo",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -1528,7 +1528,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 84,
+   "known": 85,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1640,7 +1640,7 @@ window.ROTATION = {
      "slot": 10,
      "species": "Aron",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -1661,7 +1661,26 @@ window.ROTATION = {
     },
     {
      "slot": 11,
-     "species": null
+     "species": "Arrokuda",
+     "level": 15,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Bashful",
+      "ability": "Swift Swim",
+      "abilityHidden": false,
+      "ivs": [
+       23,
+       31,
+       5,
+       22,
+       7,
+       23
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 12,
