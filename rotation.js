@@ -1549,9 +1549,26 @@ window.ROTATION = {
     },
     {
      "slot": 114,
-     "species": "Pichu",
+     "species": "Oddish",
      "level": null,
-     "hosted": 2
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Calm",
+      "ability": "Chlorophyll",
+      "abilityHidden": false,
+      "ivs": [
+       20,
+       30,
+       26,
+       31,
+       26,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 115,
@@ -3070,7 +3087,7 @@ window.ROTATION = {
      "slot": 152,
      "species": "Pumpkaboo",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 153,
