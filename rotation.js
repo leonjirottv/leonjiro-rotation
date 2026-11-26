@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 108,
+   "known": 109,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -676,7 +676,26 @@ window.ROTATION = {
     },
     {
      "slot": 48,
-     "species": null
+     "species": "Dubwool",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Fluffy",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 49,
@@ -1624,7 +1643,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 97,
+   "known": 98,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1887,7 +1906,10 @@ window.ROTATION = {
     },
     {
      "slot": 24,
-     "species": null
+     "species": "Bounsweet",
+     "level": 16,
+     "hosted": 2,
+     "statsVariants": 3
     },
     {
      "slot": 25,
