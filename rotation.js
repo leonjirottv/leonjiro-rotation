@@ -1552,7 +1552,7 @@ window.ROTATION = {
      "slot": 118,
      "species": "Pinsir",
      "level": 59,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 4
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 168,
+   "known": 169,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3252,7 +3252,26 @@ window.ROTATION = {
     },
     {
      "slot": 96,
-     "species": null
+     "species": "Horsea",
+     "level": 16,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Rash",
+      "ability": "Damp",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       27,
+       13,
+       31,
+       29,
+       1
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 97,
