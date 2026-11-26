@@ -908,7 +908,7 @@ window.ROTATION = {
      "slot": 66,
      "species": "Gothitelle",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1785,7 +1785,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 116,
+   "known": 117,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2283,11 +2283,14 @@ window.ROTATION = {
      "slot": 43,
      "species": "Cutiefly",
      "level": 25,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 44,
-     "species": null
+     "species": "Dedenne",
+     "level": 58,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 45,
