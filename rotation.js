@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 114,
+   "known": 115,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -747,7 +747,10 @@ window.ROTATION = {
     },
     {
      "slot": 54,
-     "species": null
+     "species": "Exeggcute",
+     "level": 45,
+     "hosted": 1,
+     "statsVariants": 3
     },
     {
      "slot": 55,
@@ -1671,7 +1674,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 103,
+   "known": 104,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1993,7 +1996,26 @@ window.ROTATION = {
     },
     {
      "slot": 31,
-     "species": null
+     "species": "Cloyster",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Skill Link",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 32,
