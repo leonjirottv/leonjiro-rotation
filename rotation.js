@@ -1427,7 +1427,7 @@ window.ROTATION = {
      "slot": 111,
      "species": "Omastar",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -3161,7 +3161,7 @@ window.ROTATION = {
      "slot": 90,
      "species": "Heatmor",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 91,
