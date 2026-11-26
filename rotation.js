@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 66,
+   "known": 67,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -86,7 +86,7 @@ window.ROTATION = {
      "slot": 5,
      "species": "Cradily",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -107,7 +107,9 @@ window.ROTATION = {
     },
     {
      "slot": 6,
-     "species": null
+     "species": "Aron",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 7,
@@ -1223,7 +1225,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 58,
+   "known": 59,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2340,7 +2342,26 @@ window.ROTATION = {
     },
     {
      "slot": 214,
-     "species": null
+     "species": "Vanillite",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Adamant",
+      "ability": "Ice Body",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       31,
+       13,
+       2,
+       31,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 215,
