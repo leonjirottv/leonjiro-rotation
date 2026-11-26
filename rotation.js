@@ -1062,7 +1062,7 @@ window.ROTATION = {
      "slot": 171,
      "species": "Yamask",
      "level": 29,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 172,
@@ -1086,7 +1086,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 50,
+   "known": 51,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2136,7 +2136,9 @@ window.ROTATION = {
     },
     {
      "slot": 206,
-     "species": null
+     "species": "Throh",
+     "level": 56,
+     "hosted": 1
     },
     {
      "slot": 207,
