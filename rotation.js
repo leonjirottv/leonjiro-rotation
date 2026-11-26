@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 152,
+   "known": 153,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1223,7 +1223,26 @@ window.ROTATION = {
     },
     {
      "slot": 92,
-     "species": null
+     "species": "Magnezone",
+     "level": 59,
+     "hosted": 2,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Naive",
+      "ability": "Analytic",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 93,
@@ -2759,7 +2778,7 @@ window.ROTATION = {
      "slot": 70,
      "species": "Espeon",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Adamant",
