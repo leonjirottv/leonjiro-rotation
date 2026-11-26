@@ -1114,7 +1114,7 @@ window.ROTATION = {
      "slot": 174,
      "species": "Zorua",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1143,7 +1143,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 53,
+   "known": 54,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2211,7 +2211,10 @@ window.ROTATION = {
     },
     {
      "slot": 209,
-     "species": null
+     "species": "Togepi",
+     "level": 18,
+     "hosted": 1,
+     "statsVariants": 3
     },
     {
      "slot": 210,
