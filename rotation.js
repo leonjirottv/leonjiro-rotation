@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 27,
+   "known": 28,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -744,7 +744,26 @@ window.ROTATION = {
     },
     {
      "slot": 142,
-     "species": null
+     "species": "Solrock",
+     "level": 57,
+     "hosted": 1,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Brave",
+      "ability": "Levitate",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 143,
@@ -884,7 +903,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 21,
+   "known": 22,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1671,7 +1690,26 @@ window.ROTATION = {
     },
     {
      "slot": 177,
-     "species": null
+     "species": "Scizor",
+     "level": 56,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Serious",
+      "ability": "Technician",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 178,
