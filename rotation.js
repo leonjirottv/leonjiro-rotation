@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 147,
+   "known": 148,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1157,7 +1157,26 @@ window.ROTATION = {
     },
     {
      "slot": 87,
-     "species": null
+     "species": "Linoone",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Gluttony",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       20,
+       27,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 88,
@@ -1949,7 +1968,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 137,
+   "known": 138,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2647,7 +2666,9 @@ window.ROTATION = {
     },
     {
      "slot": 65,
-     "species": null
+     "species": "Electivire",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 66,
