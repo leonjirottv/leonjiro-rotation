@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 125,
+   "known": 126,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -899,7 +899,10 @@ window.ROTATION = {
     },
     {
      "slot": 65,
-     "species": null
+     "species": "Gothitelle",
+     "level": 59,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 66,
@@ -1779,7 +1782,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 114,
+   "known": 115,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2252,7 +2255,26 @@ window.ROTATION = {
     },
     {
      "slot": 42,
-     "species": null
+     "species": "Cryogonal",
+     "level": 49,
+     "hosted": 2,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Modest",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       23,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 43,
