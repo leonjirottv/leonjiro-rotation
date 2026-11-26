@@ -1618,10 +1618,26 @@ window.ROTATION = {
     },
     {
      "slot": 117,
-     "species": "Pinsir",
-     "level": 59,
-     "hosted": 2,
-     "statsVariants": 4
+     "species": "Passimian",
+     "level": 49,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Defiant",
+      "abilityHidden": true,
+      "ivs": [
+       4,
+       11,
+       31,
+       31,
+       31,
+       5
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 118,
@@ -3104,8 +3120,8 @@ window.ROTATION = {
     {
      "slot": 155,
      "species": "Qwilfish",
-     "level": null,
-     "hosted": 1
+     "level": 27,
+     "hosted": 3
     },
     {
      "slot": 156,
