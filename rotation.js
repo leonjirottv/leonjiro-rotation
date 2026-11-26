@@ -798,7 +798,7 @@ window.ROTATION = {
      "slot": 145,
      "species": "Stunfisk",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Hardy",
@@ -1767,7 +1767,7 @@ window.ROTATION = {
      "slot": 180,
      "species": "Seismitoad",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 181,
