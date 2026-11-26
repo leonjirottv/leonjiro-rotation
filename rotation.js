@@ -1577,7 +1577,7 @@ window.ROTATION = {
      "slot": 122,
      "species": "Roggenrola",
      "level": 18,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 172,
+   "known": 173,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3293,7 +3293,9 @@ window.ROTATION = {
     },
     {
      "slot": 100,
-     "species": null
+     "species": "Kabuto",
+     "level": 16,
+     "hosted": 2
     },
     {
      "slot": 101,
