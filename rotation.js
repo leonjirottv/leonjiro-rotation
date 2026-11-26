@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 91,
+   "known": 92,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -432,7 +432,7 @@ window.ROTATION = {
      "slot": 30,
      "species": "Clauncher",
      "level": 36,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -453,7 +453,26 @@ window.ROTATION = {
     },
     {
      "slot": 31,
-     "species": null
+     "species": "Cleffa",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Relaxed",
+      "ability": "Cute Charm",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       15,
+       31,
+       1,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 32,
@@ -1469,7 +1488,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 79,
+   "known": 80,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1504,7 +1523,26 @@ window.ROTATION = {
     },
     {
      "slot": 6,
-     "species": null
+     "species": "Arctovish",
+     "level": 59,
+     "hosted": 2,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Gentle",
+      "ability": "Slush Rush",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 7,
