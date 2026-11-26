@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 37,
+   "known": 38,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -875,7 +875,26 @@ window.ROTATION = {
     },
     {
      "slot": 152,
-     "species": null
+     "species": "Tranquill",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Super Luck",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 153,
