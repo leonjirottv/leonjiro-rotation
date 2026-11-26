@@ -878,7 +878,7 @@ window.ROTATION = {
      "slot": 64,
      "species": "Gothita",
      "level": 25,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -2248,7 +2248,7 @@ window.ROTATION = {
      "slot": 41,
      "species": "Crustle",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 42,
