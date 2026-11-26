@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 157,
+   "known": 158,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1288,11 +1288,13 @@ window.ROTATION = {
      "slot": 97,
      "species": "Metagross",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 98,
-     "species": null
+     "species": "Milcery",
+     "level": 18,
+     "hosted": 1
     },
     {
      "slot": 99,
@@ -2040,7 +2042,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 148,
+   "known": 149,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2872,7 +2874,9 @@ window.ROTATION = {
     },
     {
      "slot": 76,
-     "species": null
+     "species": "Foongus",
+     "level": 26,
+     "hosted": 1
     },
     {
      "slot": 77,
