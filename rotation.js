@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 110,
+   "known": 111,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -722,7 +722,10 @@ window.ROTATION = {
     },
     {
      "slot": 50,
-     "species": null
+     "species": "Eevee",
+     "level": 58,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 51,
@@ -1662,7 +1665,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 99,
+   "known": 100,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1943,7 +1946,26 @@ window.ROTATION = {
     },
     {
      "slot": 27,
-     "species": null
+     "species": "Charizard",
+     "level": 57,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Careful",
+      "ability": "Solar Power",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 28,
