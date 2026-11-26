@@ -985,7 +985,7 @@ window.ROTATION = {
      "slot": 73,
      "species": "Hoothoot",
      "level": 18,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1834,7 +1834,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 123,
+   "known": 124,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2409,11 +2409,13 @@ window.ROTATION = {
      "slot": 50,
      "species": "Dragonite",
      "level": 58,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 51,
-     "species": null
+     "species": "Drakloak",
+     "level": 48,
+     "hosted": 1
     },
     {
      "slot": 52,
