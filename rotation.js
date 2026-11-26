@@ -938,7 +938,7 @@ window.ROTATION = {
      "slot": 68,
      "species": "Grubbin",
      "level": 19,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Quirky",
@@ -1823,7 +1823,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 118,
+   "known": 119,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2334,11 +2334,13 @@ window.ROTATION = {
      "slot": 45,
      "species": "Dewpider",
      "level": 29,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 46,
-     "species": null
+     "species": "Dhelmise",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 47,
