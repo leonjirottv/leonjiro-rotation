@@ -467,7 +467,7 @@ window.ROTATION = {
      "slot": 115,
      "species": "Pichu",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 116,
@@ -1586,7 +1586,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Qwilfish",
      "level": 27,
-     "hosted": 6
+     "hosted": 7
     },
     {
      "slot": 156,
