@@ -1088,7 +1088,7 @@ window.ROTATION = {
      "slot": 81,
      "species": "Krabby",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Mild",
@@ -1921,7 +1921,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 132,
+   "known": 133,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2568,11 +2568,30 @@ window.ROTATION = {
      "slot": 59,
      "species": "Duraludon",
      "level": 56,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 60,
-     "species": null
+     "species": "Duskull",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Brave",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       22,
+       30,
+       22,
+       20,
+       30,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 61,
