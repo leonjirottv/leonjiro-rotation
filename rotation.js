@@ -602,7 +602,7 @@ window.ROTATION = {
      "slot": 41,
      "species": "Dewpider",
      "level": 25,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 42,
@@ -1578,7 +1578,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 90,
+   "known": 91,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1781,7 +1781,10 @@ window.ROTATION = {
     },
     {
      "slot": 17,
-     "species": null
+     "species": "Basculin",
+     "level": 59,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 18,
