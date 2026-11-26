@@ -1022,7 +1022,7 @@ window.ROTATION = {
      "slot": 76,
      "species": "Indeedee",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 3
     },
     {
@@ -1859,7 +1859,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 126,
+   "known": 127,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2456,7 +2456,9 @@ window.ROTATION = {
     },
     {
      "slot": 54,
-     "species": null
+     "species": "Dreepy",
+     "level": 27,
+     "hosted": 1
     },
     {
      "slot": 55,
