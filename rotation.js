@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 77,
+   "known": 78,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -272,11 +272,14 @@ window.ROTATION = {
      "slot": 16,
      "species": "Bewear",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 17,
-     "species": null
+     "species": "Roggenrola",
+     "level": 15,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 18,
@@ -2549,7 +2552,7 @@ window.ROTATION = {
      "slot": 222,
      "species": "Whismur",
      "level": 28,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
