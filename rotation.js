@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 127,
+   "known": 129,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -913,11 +913,49 @@ window.ROTATION = {
     },
     {
      "slot": 67,
-     "species": null
+     "species": "Gothorita",
+     "level": 47,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Brave",
+      "ability": "Competitive",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       9,
+       10,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 68,
-     "species": null
+     "species": "Grubbin",
+     "level": 19,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Quirky",
+      "ability": "Swarm",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       28,
+       19,
+       31,
+       24,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 69,
@@ -1785,7 +1823,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 117,
+   "known": 118,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2289,12 +2327,14 @@ window.ROTATION = {
      "slot": 44,
      "species": "Dedenne",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
      "slot": 45,
-     "species": null
+     "species": "Dewpider",
+     "level": 29,
+     "hosted": 1
     },
     {
      "slot": 46,
