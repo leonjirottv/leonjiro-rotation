@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 120,
+   "known": 121,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -818,7 +818,26 @@ window.ROTATION = {
     },
     {
      "slot": 60,
-     "species": null
+     "species": "Fomantis",
+     "level": 37,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Leaf Guard",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       20,
+       27,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 61,
@@ -2129,7 +2148,7 @@ window.ROTATION = {
      "slot": 37,
      "species": "Corsola",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 38,
