@@ -1572,23 +1572,23 @@ window.ROTATION = {
     },
     {
      "slot": 115,
-     "species": "Pidove",
-     "level": 20,
-     "hosted": 2,
+     "species": "Omastar",
+     "level": 59,
+     "hosted": 1,
      "stats": {
       "gender": "Male",
-      "nature": "Naive",
-      "ability": "Super Luck",
+      "nature": "Hardy",
+      "ability": "Swift Swim",
       "abilityHidden": false,
       "ivs": [
-       3,
-       18,
-       4,
-       11,
        31,
-       5
+       31,
+       31,
+       31,
+       31,
+       31
       ],
-      "stars": 1,
+      "stars": 5,
       "shiny": "square",
       "gmax": false
      }
@@ -3093,7 +3093,7 @@ window.ROTATION = {
      "slot": 153,
      "species": "Pumpkaboo",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 154,
