@@ -1312,7 +1312,7 @@ window.ROTATION = {
      "slot": 101,
      "species": "Morelull",
      "level": 37,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Relaxed",
@@ -2065,7 +2065,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 153,
+   "known": 154,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2940,11 +2940,13 @@ window.ROTATION = {
      "slot": 80,
      "species": "Glaceon",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 81,
-     "species": null
+     "species": "Goldeen",
+     "level": 39,
+     "hosted": 1
     },
     {
      "slot": 82,
