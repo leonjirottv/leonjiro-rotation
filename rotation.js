@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 172,
+   "known": 173,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1471,7 +1471,26 @@ window.ROTATION = {
     },
     {
      "slot": 113,
-     "species": null
+     "species": "Passimian",
+     "level": 49,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Defiant",
+      "abilityHidden": true,
+      "ivs": [
+       4,
+       11,
+       31,
+       31,
+       31,
+       5
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 114,
@@ -3192,7 +3211,7 @@ window.ROTATION = {
      "slot": 92,
      "species": "Heracross",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
