@@ -1577,7 +1577,7 @@ window.ROTATION = {
      "slot": 122,
      "species": "Roggenrola",
      "level": 18,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 173,
+   "known": 174,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3299,7 +3299,26 @@ window.ROTATION = {
     },
     {
      "slot": 101,
-     "species": null
+     "species": "Kabutops",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Sassy",
+      "ability": "Weak Armor",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 102,
