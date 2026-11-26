@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 63,
+   "known": 64,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -34,11 +34,30 @@ window.ROTATION = {
      "slot": 2,
      "species": "Alakazam",
      "level": 56,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 3,
-     "species": null
+     "species": "Arctovish",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Calm",
+      "ability": "Slush Rush",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 4,
@@ -2250,7 +2269,7 @@ window.ROTATION = {
      "slot": 211,
      "species": "Trubbish",
      "level": 28,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Modest",
