@@ -478,7 +478,7 @@ window.ROTATION = {
      "slot": 32,
      "species": "Comfey",
      "level": 55,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naughty",
@@ -1590,7 +1590,7 @@ window.ROTATION = {
      "slot": 8,
      "species": "Armaldo",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
