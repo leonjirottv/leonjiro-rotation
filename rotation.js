@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 69,
+   "known": 70,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -138,7 +138,7 @@ window.ROTATION = {
      "slot": 8,
      "species": "Axew",
      "level": 29,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Modest",
@@ -159,7 +159,26 @@ window.ROTATION = {
     },
     {
      "slot": 9,
-     "species": null
+     "species": "Azurill",
+     "level": 28,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Gentle",
+      "ability": "Huge Power",
+      "abilityHidden": false,
+      "ivs": [
+       24,
+       25,
+       31,
+       30,
+       7,
+       22
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 10,
@@ -1263,7 +1282,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 60,
+   "known": 61,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2409,7 +2428,9 @@ window.ROTATION = {
     },
     {
      "slot": 216,
-     "species": null
+     "species": "Venipede",
+     "level": 26,
+     "hosted": 2
     },
     {
      "slot": 217,
