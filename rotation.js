@@ -1551,7 +1551,7 @@ window.ROTATION = {
      "slot": 114,
      "species": "Oddish",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Calm",
@@ -2234,7 +2234,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 27,
+   "known": 28,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3091,7 +3091,9 @@ window.ROTATION = {
     },
     {
      "slot": 153,
-     "species": null
+     "species": "Pumpkaboo",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 154,
