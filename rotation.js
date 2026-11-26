@@ -1506,7 +1506,7 @@ window.ROTATION = {
      "slot": 116,
      "species": "Pidove",
      "level": 20,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -3225,7 +3225,7 @@ window.ROTATION = {
      "slot": 94,
      "species": "Hitmonchan",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 95,
