@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 148,
+   "known": 149,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1180,7 +1180,26 @@ window.ROTATION = {
     },
     {
      "slot": 88,
-     "species": null
+     "species": "Lopunny",
+     "level": 58,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Limber",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 89,
@@ -2674,7 +2693,7 @@ window.ROTATION = {
      "slot": 66,
      "species": "Elekid",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Sassy",
