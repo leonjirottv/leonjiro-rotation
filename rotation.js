@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 81,
+   "known": 82,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -299,7 +299,7 @@ window.ROTATION = {
      "slot": 20,
      "species": "Braviary",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -320,7 +320,10 @@ window.ROTATION = {
     },
     {
      "slot": 21,
-     "species": null
+     "species": "Bronzor",
+     "level": 36,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 22,
@@ -2612,7 +2615,7 @@ window.ROTATION = {
      "slot": 225,
      "species": "Wynaut",
      "level": 20,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 226,
