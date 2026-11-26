@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 10,
+   "known": 11,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -563,7 +563,10 @@ window.ROTATION = {
     },
     {
      "slot": 125,
-     "species": null
+     "species": "Sandshrew",
+     "level": 36,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 126,
@@ -771,7 +774,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 5,
+   "known": 6,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1439,11 +1442,13 @@ window.ROTATION = {
      "slot": 160,
      "species": "Rhyhorn",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 161,
-     "species": null
+     "species": "Riolu",
+     "level": 20,
+     "hosted": 2
     },
     {
      "slot": 162,
