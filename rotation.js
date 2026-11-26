@@ -1218,7 +1218,7 @@ window.ROTATION = {
      "slot": 91,
      "species": "Magikarp",
      "level": 26,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 3
     },
     {
@@ -1995,7 +1995,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 142,
+   "known": 143,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2753,11 +2753,30 @@ window.ROTATION = {
      "slot": 69,
      "species": "Escavalier",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 70,
-     "species": null
+     "species": "Espeon",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Adamant",
+      "ability": "Magic Bounce",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 71,
