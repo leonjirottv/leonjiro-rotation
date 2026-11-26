@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 116,
+   "known": 117,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -760,7 +760,26 @@ window.ROTATION = {
     },
     {
      "slot": 56,
-     "species": null
+     "species": "Farfetchd",
+     "level": 39,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Steadfast",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       29,
+       20,
+       27,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 57,
@@ -1676,7 +1695,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 105,
+   "known": 106,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2027,7 +2046,26 @@ window.ROTATION = {
     },
     {
      "slot": 33,
-     "species": null
+     "species": "Comfey",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naughty",
+      "ability": "Flower Veil",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       30,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 34,
