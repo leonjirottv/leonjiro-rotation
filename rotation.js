@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 45,
+   "known": 46,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -971,11 +971,13 @@ window.ROTATION = {
      "slot": 159,
      "species": "Vulpix",
      "level": 19,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 160,
-     "species": null
+     "species": "Wailord",
+     "level": 57,
+     "hosted": 1
     },
     {
      "slot": 161,
@@ -1043,7 +1045,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 38,
+   "known": 39,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1997,12 +1999,31 @@ window.ROTATION = {
      "slot": 193,
      "species": "Snorunt",
      "level": 39,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
      "slot": 194,
-     "species": null
+     "species": "Solosis",
+     "level": 16,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Impish",
+      "ability": "Magic Guard",
+      "abilityHidden": false,
+      "ivs": [
+       9,
+       11,
+       31,
+       9,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 195,
