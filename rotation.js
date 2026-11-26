@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 21,
+   "known": 22,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -638,7 +638,26 @@ window.ROTATION = {
     },
     {
      "slot": 136,
-     "species": null
+     "species": "Skarmory",
+     "level": 59,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Lax",
+      "ability": "Sturdy",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 137,
@@ -802,7 +821,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 15,
+   "known": 16,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1535,7 +1554,9 @@ window.ROTATION = {
     },
     {
      "slot": 171,
-     "species": null
+     "species": "Rotom",
+     "level": 57,
+     "hosted": 2
     },
     {
      "slot": 172,
