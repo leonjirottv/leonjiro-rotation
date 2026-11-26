@@ -1574,7 +1574,7 @@ window.ROTATION = {
      "slot": 115,
      "species": "Omastar",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -2234,7 +2234,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 28,
+   "known": 29,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3097,7 +3097,9 @@ window.ROTATION = {
     },
     {
      "slot": 154,
-     "species": null
+     "species": "Pyukumuku",
+     "level": 37,
+     "hosted": 2
     },
     {
      "slot": 155,
