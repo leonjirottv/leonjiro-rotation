@@ -2014,7 +2014,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 143,
+   "known": 144,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2799,7 +2799,26 @@ window.ROTATION = {
     },
     {
      "slot": 71,
-     "species": null
+     "species": "Espurr",
+     "level": 27,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Jolly",
+      "ability": "Infiltrator",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       22,
+       31,
+       22,
+       30,
+       11
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 72,
