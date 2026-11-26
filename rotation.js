@@ -1265,7 +1265,7 @@ window.ROTATION = {
      "slot": 96,
      "species": "Meowstic",
      "level": 47,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2860,7 +2860,7 @@ window.ROTATION = {
      "slot": 74,
      "species": "Feebas",
      "level": 36,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 75,
