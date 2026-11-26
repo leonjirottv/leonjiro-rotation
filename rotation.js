@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 145,
+   "known": 146,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1128,7 +1128,26 @@ window.ROTATION = {
     },
     {
      "slot": 85,
-     "species": null
+     "species": "Liepard",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Unburden",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       20,
+       27,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 86,
@@ -1928,7 +1947,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 135,
+   "known": 136,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2614,7 +2633,9 @@ window.ROTATION = {
     },
     {
      "slot": 63,
-     "species": null
+     "species": "Eevee",
+     "level": 55,
+     "hosted": 1
     },
     {
      "slot": 64,
