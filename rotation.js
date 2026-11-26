@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 141,
+   "known": 142,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1086,7 +1086,26 @@ window.ROTATION = {
     },
     {
      "slot": 81,
-     "species": null
+     "species": "Krabby",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Shell Armor",
+      "abilityHidden": false,
+      "ivs": [
+       14,
+       31,
+       21,
+       31,
+       24,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 82,
@@ -1902,7 +1921,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 131,
+   "known": 132,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2547,7 +2566,9 @@ window.ROTATION = {
     },
     {
      "slot": 59,
-     "species": null
+     "species": "Duraludon",
+     "level": 56,
+     "hosted": 1
     },
     {
      "slot": 60,
