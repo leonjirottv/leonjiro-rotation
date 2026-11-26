@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 83,
+   "known": 84,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -350,7 +350,26 @@ window.ROTATION = {
     },
     {
      "slot": 23,
-     "species": null
+     "species": "Bunnelby",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Cheek Pouch",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 24,
@@ -2646,7 +2665,7 @@ window.ROTATION = {
      "slot": 227,
      "species": "Yamper",
      "level": 18,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 228,
