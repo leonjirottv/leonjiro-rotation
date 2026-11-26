@@ -1349,7 +1349,7 @@ window.ROTATION = {
      "slot": 104,
      "species": "Munna",
      "level": 18,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -2967,7 +2967,7 @@ window.ROTATION = {
      "slot": 83,
      "species": "Goomy",
      "level": 25,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 84,
