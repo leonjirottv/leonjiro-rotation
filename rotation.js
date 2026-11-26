@@ -496,7 +496,7 @@ window.ROTATION = {
      "slot": 117,
      "species": "Pikachu",
      "level": 37,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1624,7 +1624,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Qwilfish",
      "level": 27,
-     "hosted": 11
+     "hosted": 12
     },
     {
      "slot": 156,
