@@ -352,7 +352,7 @@ window.ROTATION = {
      "slot": 23,
      "species": "Bunnelby",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1417,7 +1417,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 72,
+   "known": 73,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2669,7 +2669,26 @@ window.ROTATION = {
     },
     {
      "slot": 228,
-     "species": null
+     "species": "Zorua",
+     "level": 36,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Illusion",
+      "abilityHidden": true,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 229,
