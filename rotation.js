@@ -929,7 +929,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Tympole",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 156,
