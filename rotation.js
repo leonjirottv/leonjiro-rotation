@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 2,
+   "known": 3,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -494,7 +494,26 @@ window.ROTATION = {
     },
     {
      "slot": 117,
-     "species": null
+     "species": "Pikachu",
+     "level": 37,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Lightning Rod",
+      "abilityHidden": true,
+      "ivs": [
+       5,
+       31,
+       1,
+       18,
+       27,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 118,
@@ -1605,7 +1624,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Qwilfish",
      "level": 27,
-     "hosted": 9
+     "hosted": 11
     },
     {
      "slot": 156,
