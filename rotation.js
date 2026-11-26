@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 57,
+   "known": 58,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1066,7 +1066,26 @@ window.ROTATION = {
     },
     {
      "slot": 172,
-     "species": null
+     "species": "Yamper",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Mild",
+      "ability": "Ball Fetch",
+      "abilityHidden": false,
+      "ivs": [
+       21,
+       31,
+       17,
+       22,
+       17,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 173,
@@ -2138,7 +2157,7 @@ window.ROTATION = {
      "slot": 206,
      "species": "Throh",
      "level": 56,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 207,
