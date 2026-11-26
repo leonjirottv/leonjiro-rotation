@@ -663,7 +663,7 @@ window.ROTATION = {
      "slot": 137,
      "species": "Skwovet",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1581,7 +1581,7 @@ window.ROTATION = {
      "slot": 172,
      "species": "Rotom",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 173,
