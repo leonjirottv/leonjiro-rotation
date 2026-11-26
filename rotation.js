@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 62,
+   "known": 63,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -32,7 +32,9 @@ window.ROTATION = {
     },
     {
      "slot": 2,
-     "species": null
+     "species": "Alakazam",
+     "level": 56,
+     "hosted": 1
     },
     {
      "slot": 3,
@@ -1164,7 +1166,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 55,
+   "known": 56,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2246,7 +2248,26 @@ window.ROTATION = {
     },
     {
      "slot": 211,
-     "species": null
+     "species": "Trubbish",
+     "level": 28,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Modest",
+      "ability": "Aftermath",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       17,
+       27,
+       24,
+       31,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 212,
