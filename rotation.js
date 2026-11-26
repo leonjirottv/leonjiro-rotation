@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 140,
+   "known": 141,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1063,7 +1063,26 @@ window.ROTATION = {
     },
     {
      "slot": 80,
-     "species": null
+     "species": "Koffing",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Sassy",
+      "ability": "Neutralizing Gas",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       28,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 81,
@@ -1883,7 +1902,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 130,
+   "known": 131,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2521,7 +2540,10 @@ window.ROTATION = {
     },
     {
      "slot": 58,
-     "species": null
+     "species": "Duosion",
+     "level": 49,
+     "hosted": 2,
+     "statsVariants": 5
     },
     {
      "slot": 59,
