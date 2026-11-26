@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 74,
+   "known": 75,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -237,11 +237,30 @@ window.ROTATION = {
      "slot": 13,
      "species": "Barboach",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 14,
-     "species": null
+     "species": "Basculin",
+     "level": 35,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Bold",
+      "ability": "Adaptability",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       29,
+       12,
+       21,
+       0
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 15,
@@ -1325,7 +1344,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 64,
+   "known": 65,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2512,7 +2531,9 @@ window.ROTATION = {
     },
     {
      "slot": 220,
-     "species": null
+     "species": "Walrein",
+     "level": 55,
+     "hosted": 2
     },
     {
      "slot": 221,
