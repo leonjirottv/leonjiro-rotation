@@ -1598,14 +1598,14 @@ window.ROTATION = {
      "slot": 125,
      "species": "Sandshrew",
      "level": 36,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 126,
      "species": "Sandygast",
      "level": 35,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 3
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 176,
+   "known": 177,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3347,7 +3347,7 @@ window.ROTATION = {
      "slot": 103,
      "species": "Karrablast",
      "level": 39,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Sassy",
@@ -3368,7 +3368,9 @@ window.ROTATION = {
     },
     {
      "slot": 104,
-     "species": null
+     "species": "Kingdra",
+     "level": 58,
+     "hosted": 2
     },
     {
      "slot": 105,
