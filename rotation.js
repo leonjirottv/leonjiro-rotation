@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 12,
+   "known": 13,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -572,12 +572,15 @@ window.ROTATION = {
      "slot": 126,
      "species": "Sandygast",
      "level": 35,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 3
     },
     {
      "slot": 127,
-     "species": null
+     "species": "Sawk",
+     "level": 56,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 128,
@@ -1457,7 +1460,7 @@ window.ROTATION = {
      "slot": 162,
      "species": "Riolu",
      "level": 16,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 163,
