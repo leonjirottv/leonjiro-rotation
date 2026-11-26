@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 84,
+   "known": 85,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -373,7 +373,10 @@ window.ROTATION = {
     },
     {
      "slot": 24,
-     "species": null
+     "species": "Carbink",
+     "level": 55,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 25,
@@ -2671,7 +2674,7 @@ window.ROTATION = {
      "slot": 228,
      "species": "Zorua",
      "level": 36,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
