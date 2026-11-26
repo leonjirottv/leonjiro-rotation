@@ -1252,7 +1252,7 @@ window.ROTATION = {
      "slot": 94,
      "species": "Mareanie",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 95,
@@ -2826,7 +2826,7 @@ window.ROTATION = {
      "slot": 72,
      "species": "Exploud",
      "level": 55,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 73,
