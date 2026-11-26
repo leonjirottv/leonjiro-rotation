@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 123,
+   "known": 124,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -853,7 +853,26 @@ window.ROTATION = {
     },
     {
      "slot": 63,
-     "species": null
+     "species": "Gothita",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Quiet",
+      "ability": "Competitive",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       5,
+       5,
+       8,
+       24
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 64,
@@ -1741,7 +1760,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 112,
+   "known": 113,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2185,7 +2204,26 @@ window.ROTATION = {
     },
     {
      "slot": 40,
-     "species": null
+     "species": "Croagunk",
+     "level": 28,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Impish",
+      "ability": "Dry Skin",
+      "abilityHidden": false,
+      "ivs": [
+       9,
+       11,
+       31,
+       9,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 41,
