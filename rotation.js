@@ -1595,23 +1595,23 @@ window.ROTATION = {
     },
     {
      "slot": 116,
-     "species": "Pikachu",
-     "level": 37,
+     "species": "Pangoro",
+     "level": null,
      "hosted": 2,
      "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Lightning Rod",
-      "abilityHidden": true,
+      "gender": "Female",
+      "nature": "Timid",
+      "ability": "Mold Breaker",
+      "abilityHidden": false,
       "ivs": [
-       5,
        31,
-       1,
-       18,
-       27,
+       31,
+       31,
+       31,
+       31,
        31
       ],
-      "stars": 3,
+      "stars": 5,
       "shiny": "square",
       "gmax": false
      }
@@ -2234,7 +2234,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 29,
+   "known": 30,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3103,7 +3103,9 @@ window.ROTATION = {
     },
     {
      "slot": 155,
-     "species": null
+     "species": "Qwilfish",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 156,
