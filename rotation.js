@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 72,
+   "known": 73,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -207,7 +207,7 @@ window.ROTATION = {
      "slot": 11,
      "species": "Baltoy",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Genderless",
       "nature": "Bashful",
@@ -228,7 +228,10 @@ window.ROTATION = {
     },
     {
      "slot": 12,
-     "species": null
+     "species": "Barbaracle",
+     "level": null,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 13,
@@ -2497,7 +2500,7 @@ window.ROTATION = {
      "slot": 218,
      "species": "Vespiquen",
      "level": 55,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 219,
