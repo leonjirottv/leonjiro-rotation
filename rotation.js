@@ -1559,7 +1559,7 @@ window.ROTATION = {
      "slot": 119,
      "species": "Relicanth",
      "level": 58,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 120,
@@ -3277,7 +3277,7 @@ window.ROTATION = {
      "slot": 97,
      "species": "Igglybuff",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 98,
