@@ -543,7 +543,7 @@ window.ROTATION = {
      "slot": 37,
      "species": "Cutiefly",
      "level": 25,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Relaxed",
@@ -1716,7 +1716,7 @@ window.ROTATION = {
      "slot": 13,
      "species": "Azurill",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
