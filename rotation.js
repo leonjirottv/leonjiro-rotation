@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 134,
+   "known": 135,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -990,7 +990,26 @@ window.ROTATION = {
     },
     {
      "slot": 74,
-     "species": null
+     "species": "Hydreigon",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Adamant",
+      "ability": "Levitate",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 75,
@@ -2415,7 +2434,7 @@ window.ROTATION = {
      "slot": 51,
      "species": "Drakloak",
      "level": 48,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 52,
