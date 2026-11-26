@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 1,
+   "known": 2,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -471,7 +471,26 @@ window.ROTATION = {
     },
     {
      "slot": 116,
-     "species": null
+     "species": "Pidove",
+     "level": 20,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Super Luck",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 117,
@@ -1586,7 +1605,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Qwilfish",
      "level": 27,
-     "hosted": 7
+     "hosted": 9
     },
     {
      "slot": 156,
