@@ -1584,7 +1584,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Rufflet",
      "level": 38,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3301,7 +3301,7 @@ window.ROTATION = {
      "slot": 101,
      "species": "Kabutops",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Sassy",
