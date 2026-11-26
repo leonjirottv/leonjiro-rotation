@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 124,
+   "known": 125,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -876,7 +876,26 @@ window.ROTATION = {
     },
     {
      "slot": 64,
-     "species": null
+     "species": "Gothita",
+     "level": 25,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Quiet",
+      "ability": "Competitive",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       5,
+       5,
+       8,
+       24
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 65,
@@ -1760,7 +1779,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 113,
+   "known": 114,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2227,7 +2246,9 @@ window.ROTATION = {
     },
     {
      "slot": 41,
-     "species": null
+     "species": "Crustle",
+     "level": 57,
+     "hosted": 1
     },
     {
      "slot": 42,
