@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 67,
+   "known": 68,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -113,7 +113,26 @@ window.ROTATION = {
     },
     {
      "slot": 7,
-     "species": null
+     "species": "Arrokuda",
+     "level": 35,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Bashful",
+      "ability": "Swift Swim",
+      "abilityHidden": false,
+      "ivs": [
+       23,
+       31,
+       5,
+       22,
+       7,
+       23
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 8,
@@ -1225,7 +1244,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 59,
+   "known": 60,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2365,7 +2384,9 @@ window.ROTATION = {
     },
     {
      "slot": 215,
-     "species": null
+     "species": "Vaporeon",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 216,
