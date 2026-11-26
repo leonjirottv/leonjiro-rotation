@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 32,
+   "known": 33,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -825,7 +825,26 @@ window.ROTATION = {
     },
     {
      "slot": 147,
-     "species": null
+     "species": "Swirlix",
+     "level": 27,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Relaxed",
+      "ability": "Sweet Veil",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       15,
+       31,
+       1,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 148,
