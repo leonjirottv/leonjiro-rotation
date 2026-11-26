@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 101,
+   "known": 102,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -579,7 +579,7 @@ window.ROTATION = {
      "slot": 40,
      "species": "Deino",
      "level": 29,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Rash",
@@ -600,7 +600,9 @@ window.ROTATION = {
     },
     {
      "slot": 41,
-     "species": null
+     "species": "Dewpider",
+     "level": 25,
+     "hosted": 1
     },
     {
      "slot": 42,
@@ -1775,7 +1777,7 @@ window.ROTATION = {
      "slot": 16,
      "species": "Barboach",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 17,
