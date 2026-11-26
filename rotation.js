@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 146,
+   "known": 147,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1151,7 +1151,9 @@ window.ROTATION = {
     },
     {
      "slot": 86,
-     "species": null
+     "species": "Lillipup",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 87,
@@ -2641,7 +2643,7 @@ window.ROTATION = {
      "slot": 64,
      "species": "Eiscue",
      "level": 35,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 65,
