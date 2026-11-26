@@ -1159,7 +1159,7 @@ window.ROTATION = {
      "slot": 87,
      "species": "Linoone",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1968,7 +1968,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 138,
+   "known": 139,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2672,7 +2672,26 @@ window.ROTATION = {
     },
     {
      "slot": 66,
-     "species": null
+     "species": "Elekid",
+     "level": 38,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Sassy",
+      "ability": "Static",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       31,
+       31,
+       31,
+       31,
+       29
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 67,
