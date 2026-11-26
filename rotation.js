@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 165,
+   "known": 166,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1361,7 +1361,9 @@ window.ROTATION = {
     },
     {
      "slot": 106,
-     "species": null
+     "species": "NidoranF",
+     "level": 39,
+     "hosted": 2
     },
     {
      "slot": 107,
@@ -2077,7 +2079,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 157,
+   "known": 158,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2997,7 +2999,26 @@ window.ROTATION = {
     },
     {
      "slot": 85,
-     "species": null
+     "species": "Gourgeist",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Insomnia",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       28,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 86,
