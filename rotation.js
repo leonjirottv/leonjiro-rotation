@@ -633,7 +633,7 @@ window.ROTATION = {
      "slot": 135,
      "species": "Sirfetchd",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
