@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 30,
+   "known": 31,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -775,7 +775,7 @@ window.ROTATION = {
      "slot": 144,
      "species": "Stonjourner",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
@@ -796,7 +796,26 @@ window.ROTATION = {
     },
     {
      "slot": 145,
-     "species": null
+     "species": "Stunfisk",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Hardy",
+      "ability": "Mimicry",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       21
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 146,
@@ -924,7 +943,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 23,
+   "known": 25,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1740,11 +1759,15 @@ window.ROTATION = {
     },
     {
      "slot": 179,
-     "species": null
+     "species": "Seaking",
+     "level": 57,
+     "hosted": 2
     },
     {
      "slot": 180,
-     "species": null
+     "species": "Seismitoad",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 181,
