@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 53,
+   "known": 54,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1025,7 +1025,26 @@ window.ROTATION = {
     },
     {
      "slot": 168,
-     "species": null
+     "species": "Wooloo",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Run Away",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 169,
@@ -1061,7 +1080,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 46,
+   "known": 47,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2087,7 +2106,9 @@ window.ROTATION = {
     },
     {
      "slot": 202,
-     "species": null
+     "species": "Swinub",
+     "level": 27,
+     "hosted": 2
     },
     {
      "slot": 203,
