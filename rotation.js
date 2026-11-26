@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 35,
+   "known": 36,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -857,11 +857,14 @@ window.ROTATION = {
      "slot": 149,
      "species": "Togedemaru",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 150,
-     "species": null
+     "species": "Togepi",
+     "level": 16,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 151,
@@ -969,7 +972,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 28,
+   "known": 30,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1816,11 +1819,32 @@ window.ROTATION = {
     },
     {
      "slot": 184,
-     "species": null
+     "species": "Shuckle",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Contrary",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 185,
-     "species": null
+     "species": "Sigilyph",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 186,
