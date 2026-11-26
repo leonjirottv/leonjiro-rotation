@@ -1118,7 +1118,7 @@ window.ROTATION = {
      "slot": 83,
      "species": "Larvesta",
      "level": 48,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 84,
@@ -1926,7 +1926,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 134,
+   "known": 135,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2602,11 +2602,13 @@ window.ROTATION = {
      "slot": 61,
      "species": "Dwebble",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 62,
-     "species": null
+     "species": "Eevee",
+     "level": 58,
+     "hosted": 1
     },
     {
      "slot": 63,
