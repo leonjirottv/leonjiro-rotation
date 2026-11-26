@@ -977,7 +977,7 @@ window.ROTATION = {
      "slot": 160,
      "species": "Wailord",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 161,
@@ -1045,7 +1045,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 39,
+   "known": 40,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2027,7 +2027,9 @@ window.ROTATION = {
     },
     {
      "slot": 195,
-     "species": null
+     "species": "Spheal",
+     "level": 37,
+     "hosted": 1
     },
     {
      "slot": 196,
