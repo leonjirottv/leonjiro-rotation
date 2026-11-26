@@ -827,7 +827,7 @@ window.ROTATION = {
      "slot": 147,
      "species": "Swirlix",
      "level": 27,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Relaxed",
@@ -964,7 +964,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 26,
+   "known": 27,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1798,7 +1798,10 @@ window.ROTATION = {
     },
     {
      "slot": 182,
-     "species": null
+     "species": "Shellos",
+     "level": 18,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 183,
