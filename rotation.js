@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 90,
+   "known": 91,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -430,7 +430,26 @@ window.ROTATION = {
     },
     {
      "slot": 30,
-     "species": null
+     "species": "Clauncher",
+     "level": 36,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Hardy",
+      "ability": "Mega Launcher",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       5,
+       5,
+       8,
+       24
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 31,
@@ -1481,7 +1500,7 @@ window.ROTATION = {
      "slot": 5,
      "species": "Altaria",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 6,
