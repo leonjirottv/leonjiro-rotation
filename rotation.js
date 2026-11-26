@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 58,
+   "known": 59,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1068,7 +1068,7 @@ window.ROTATION = {
      "slot": 172,
      "species": "Yamper",
      "level": 18,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Mild",
@@ -1089,7 +1089,26 @@ window.ROTATION = {
     },
     {
      "slot": 173,
-     "species": null
+     "species": "Zigzagoon",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Gluttony",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       29,
+       20,
+       27,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 174,
@@ -1105,7 +1124,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 51,
+   "known": 52,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2161,7 +2180,9 @@ window.ROTATION = {
     },
     {
      "slot": 207,
-     "species": null
+     "species": "Timburr",
+     "level": 26,
+     "hosted": 1
     },
     {
      "slot": 208,
