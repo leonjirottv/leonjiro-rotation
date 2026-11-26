@@ -1552,7 +1552,7 @@ window.ROTATION = {
      "slot": 118,
      "species": "Pinsir",
      "level": 59,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 4
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 169,
+   "known": 170,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3275,7 +3275,9 @@ window.ROTATION = {
     },
     {
      "slot": 97,
-     "species": null
+     "species": "Igglybuff",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 98,
