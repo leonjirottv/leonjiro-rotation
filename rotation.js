@@ -1130,7 +1130,7 @@ window.ROTATION = {
      "slot": 85,
      "species": "Liepard",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1947,7 +1947,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 136,
+   "known": 137,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2635,11 +2635,13 @@ window.ROTATION = {
      "slot": 63,
      "species": "Eevee",
      "level": 55,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 64,
-     "species": null
+     "species": "Eiscue",
+     "level": 35,
+     "hosted": 1
     },
     {
      "slot": 65,
