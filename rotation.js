@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 88,
+   "known": 89,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -396,11 +396,14 @@ window.ROTATION = {
      "slot": 27,
      "species": "Charmander",
      "level": 27,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 28,
-     "species": null
+     "species": "Chewtle",
+     "level": 28,
+     "hosted": 1,
+     "statsVariants": 3
     },
     {
      "slot": 29,
@@ -1428,7 +1431,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 76,
+   "known": 77,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1445,7 +1448,9 @@ window.ROTATION = {
     },
     {
      "slot": 3,
-     "species": null
+     "species": "Accelgor",
+     "level": 58,
+     "hosted": 2
     },
     {
      "slot": 4,
