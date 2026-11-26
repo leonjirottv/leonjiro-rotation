@@ -631,7 +631,7 @@ window.ROTATION = {
      "slot": 43,
      "species": "Dracozolt",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Genderless",
       "nature": "Naive",
@@ -1616,7 +1616,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 93,
+   "known": 94,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1834,11 +1834,30 @@ window.ROTATION = {
      "slot": 19,
      "species": "Bewear",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 20,
-     "species": null
+     "species": "Binacle",
+     "level": 15,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Calm",
+      "ability": "Sniper",
+      "abilityHidden": false,
+      "ivs": [
+       30,
+       28,
+       8,
+       31,
+       21,
+       16
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 21,
