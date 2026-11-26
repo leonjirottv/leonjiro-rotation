@@ -1514,26 +1514,9 @@ window.ROTATION = {
     },
     {
      "slot": 111,
-     "species": "Pangoro",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Timid",
-      "ability": "Mold Breaker",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": "NidoranM",
+     "level": 39,
+     "hosted": 2
     },
     {
      "slot": 112,
@@ -2232,7 +2215,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 225,
-   "known": 24,
+   "known": 25,
    "listChanged": "2026-11-25 15:46:24",
    "slots": [
     {
@@ -3053,7 +3036,26 @@ window.ROTATION = {
     },
     {
      "slot": 150,
-     "species": null
+     "species": "Poliwag",
+     "level": 27,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Water Absorb",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       29,
+       31,
+       20,
+       31,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 151,
