@@ -2159,7 +2159,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 164,
+   "known": 165,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3190,7 +3190,10 @@ window.ROTATION = {
     },
     {
      "slot": 92,
-     "species": null
+     "species": "Heracross",
+     "level": 57,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 93,
