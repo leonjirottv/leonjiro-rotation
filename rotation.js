@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 94,
+   "known": 95,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -505,7 +505,26 @@ window.ROTATION = {
     },
     {
      "slot": 34,
-     "species": null
+     "species": "Armaldo",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Hardy",
+      "ability": "Battle Armor",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 35,
@@ -1509,7 +1528,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 83,
+   "known": 84,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -1619,7 +1638,26 @@ window.ROTATION = {
     },
     {
      "slot": 10,
-     "species": null
+     "species": "Aron",
+     "level": 38,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Quiet",
+      "ability": "Rock Head",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       8,
+       31,
+       28
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 11,
