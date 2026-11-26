@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 29,
+   "known": 30,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -773,7 +773,26 @@ window.ROTATION = {
     },
     {
      "slot": 144,
-     "species": null
+     "species": "Stonjourner",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Power Spot",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 145,
