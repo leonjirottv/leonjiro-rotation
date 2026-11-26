@@ -1591,14 +1591,14 @@ window.ROTATION = {
      "slot": 124,
      "species": "Sandile",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 125,
      "species": "Sandshrew",
      "level": 36,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 174,
+   "known": 176,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3322,11 +3322,49 @@ window.ROTATION = {
     },
     {
      "slot": 102,
-     "species": null
+     "species": "Kangaskhan",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Adamant",
+      "ability": "Inner Focus",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 103,
-     "species": null
+     "species": "Karrablast",
+     "level": 39,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Sassy",
+      "ability": "Swarm",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       29,
+       30,
+       22,
+       26
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 104,
