@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 70,
+   "known": 71,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -182,7 +182,26 @@ window.ROTATION = {
     },
     {
      "slot": 10,
-     "species": null
+     "species": "Bagon",
+     "level": 36,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Rock Head",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 11,
@@ -1282,7 +1301,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 61,
+   "known": 62,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2434,7 +2453,26 @@ window.ROTATION = {
     },
     {
      "slot": 217,
-     "species": null
+     "species": "Venusaur",
+     "level": 59,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Adamant",
+      "ability": "Chlorophyll",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 218,
