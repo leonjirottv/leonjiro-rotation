@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 82,
+   "known": 83,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -327,7 +327,26 @@ window.ROTATION = {
     },
     {
      "slot": 22,
-     "species": null
+     "species": "Buneary",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Calm",
+      "ability": "Klutz",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       30,
+       30,
+       21,
+       31,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 23,
@@ -1379,7 +1398,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 71,
+   "known": 72,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2625,7 +2644,9 @@ window.ROTATION = {
     },
     {
      "slot": 227,
-     "species": null
+     "species": "Yamper",
+     "level": 18,
+     "hosted": 1
     },
     {
      "slot": 228,
