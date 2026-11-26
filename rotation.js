@@ -1500,7 +1500,7 @@ window.ROTATION = {
      "slot": 115,
      "species": "Pichu",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 116,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 166,
+   "known": 167,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3223,7 +3223,9 @@ window.ROTATION = {
     },
     {
      "slot": 94,
-     "species": null
+     "species": "Hitmonchan",
+     "level": 38,
+     "hosted": 1
     },
     {
      "slot": 95,
