@@ -1565,7 +1565,7 @@ window.ROTATION = {
      "slot": 120,
      "species": "Remoraid",
      "level": 27,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 121,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 171,
+   "known": 172,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3287,7 +3287,9 @@ window.ROTATION = {
     },
     {
      "slot": 99,
-     "species": null
+     "species": "Jolteon",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 100,
