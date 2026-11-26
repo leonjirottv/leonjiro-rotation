@@ -1294,7 +1294,7 @@ window.ROTATION = {
      "slot": 98,
      "species": "Milcery",
      "level": 18,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 99,
@@ -2042,7 +2042,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 149,
+   "known": 150,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2876,11 +2876,13 @@ window.ROTATION = {
      "slot": 76,
      "species": "Foongus",
      "level": 26,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 77,
-     "species": null
+     "species": "Frillish",
+     "level": 27,
+     "hosted": 1
     },
     {
      "slot": 78,
