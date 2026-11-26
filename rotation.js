@@ -992,7 +992,7 @@ window.ROTATION = {
      "slot": 74,
      "species": "Hydreigon",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Adamant",
@@ -1853,7 +1853,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 124,
+   "known": 125,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2438,7 +2438,9 @@ window.ROTATION = {
     },
     {
      "slot": 52,
-     "species": null
+     "species": "Drampa",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 53,
