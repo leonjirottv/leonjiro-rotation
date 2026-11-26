@@ -1059,7 +1059,7 @@ window.ROTATION = {
      "slot": 79,
      "species": "Klink",
      "level": 16,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 80,
@@ -2500,7 +2500,7 @@ window.ROTATION = {
      "slot": 57,
      "species": "Dunsparce",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Docile",
