@@ -230,7 +230,7 @@ window.ROTATION = {
      "slot": 12,
      "species": "Barbaracle",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1323,7 +1323,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 63,
+   "known": 64,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2504,7 +2504,9 @@ window.ROTATION = {
     },
     {
      "slot": 219,
-     "species": null
+     "species": "Wailmer",
+     "level": 46,
+     "hosted": 1
     },
     {
      "slot": 220,
