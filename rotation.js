@@ -1029,7 +1029,7 @@ window.ROTATION = {
      "slot": 77,
      "species": "Jangmoo",
      "level": 18,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -2467,7 +2467,7 @@ window.ROTATION = {
      "slot": 55,
      "species": "Drifloon",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 56,
