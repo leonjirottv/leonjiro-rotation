@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 24,
+   "known": 25,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -686,7 +686,7 @@ window.ROTATION = {
      "slot": 138,
      "species": "Slurpuff",
      "level": 56,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
@@ -707,7 +707,10 @@ window.ROTATION = {
     },
     {
      "slot": 139,
-     "species": null
+     "species": "Sneasel",
+     "level": 20,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 140,
@@ -1606,7 +1609,7 @@ window.ROTATION = {
      "slot": 173,
      "species": "Runerigus",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 174,
