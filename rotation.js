@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 155,
+   "known": 156,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1263,7 +1263,26 @@ window.ROTATION = {
     },
     {
      "slot": 96,
-     "species": null
+     "species": "Meowstic",
+     "level": 47,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Infiltrator",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       9,
+       10,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 97,
@@ -2019,7 +2038,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 146,
+   "known": 147,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -2839,7 +2858,9 @@ window.ROTATION = {
     },
     {
      "slot": 74,
-     "species": null
+     "species": "Feebas",
+     "level": 36,
+     "hosted": 1
     },
     {
      "slot": 75,
