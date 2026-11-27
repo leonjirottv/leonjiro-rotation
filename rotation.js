@@ -2030,13 +2030,13 @@ window.ROTATION = {
      "slot": 163,
      "species": "Whismur",
      "level": 29,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 164,
      "species": "Wimpod",
      "level": 15,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 165,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 215,
+   "known": 216,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3796,11 +3796,13 @@ window.ROTATION = {
      "slot": 144,
      "species": "Pancham",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 145,
-     "species": null
+     "species": "Phantump",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 146,
