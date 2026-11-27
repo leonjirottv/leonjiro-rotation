@@ -641,7 +641,7 @@ window.ROTATION = {
      "slot": 117,
      "species": "Petilil",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 118,
@@ -905,7 +905,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 23,
+   "known": 24,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1305,7 +1305,9 @@ window.ROTATION = {
     },
     {
      "slot": 54,
-     "species": null
+     "species": "Dreepy",
+     "level": 27,
+     "hosted": 1
     },
     {
      "slot": 55,
