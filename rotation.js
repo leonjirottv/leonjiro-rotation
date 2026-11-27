@@ -566,7 +566,7 @@ window.ROTATION = {
      "slot": 38,
      "species": "Darmanitan",
      "level": 56,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -4194,7 +4194,7 @@ window.ROTATION = {
      "slot": 187,
      "species": "Sinistea",
      "level": 59,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 188,
