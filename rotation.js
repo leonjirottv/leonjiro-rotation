@@ -602,7 +602,7 @@ window.ROTATION = {
      "slot": 41,
      "species": "Dewpider",
      "level": 25,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 42,
@@ -4229,7 +4229,7 @@ window.ROTATION = {
      "slot": 190,
      "species": "Skrelp",
      "level": null,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 191,
