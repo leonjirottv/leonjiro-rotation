@@ -526,7 +526,7 @@ window.ROTATION = {
      "slot": 112,
      "species": "Obstagoon",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Adamant",
@@ -1176,7 +1176,7 @@ window.ROTATION = {
      "slot": 48,
      "species": "Dracozolt",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Genderless",
       "nature": "Gentle",
