@@ -382,7 +382,7 @@ window.ROTATION = {
      "slot": 25,
      "species": "Carvanha",
      "level": 38,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4075,7 +4075,7 @@ window.ROTATION = {
      "slot": 176,
      "species": "Sandygast",
      "level": 35,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
