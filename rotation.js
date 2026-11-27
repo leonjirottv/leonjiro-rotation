@@ -1860,7 +1860,7 @@ window.ROTATION = {
      "slot": 147,
      "species": "Swirlix",
      "level": 27,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Relaxed",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 198,
+   "known": 199,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3569,7 +3569,26 @@ window.ROTATION = {
     },
     {
      "slot": 126,
-     "species": null
+     "species": "Mienshao",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Reckless",
+      "abilityHidden": true,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 127,
