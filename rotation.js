@@ -403,7 +403,7 @@ window.ROTATION = {
      "slot": 98,
      "species": "Mawile",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -900,7 +900,7 @@ window.ROTATION = {
      "slot": 33,
      "species": "Comfey",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naughty",
