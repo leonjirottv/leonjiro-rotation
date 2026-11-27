@@ -409,7 +409,7 @@ window.ROTATION = {
      "slot": 29,
      "species": "Chinchou",
      "level": 25,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -432,7 +432,7 @@ window.ROTATION = {
      "slot": 30,
      "species": "Clauncher",
      "level": 36,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -4117,7 +4117,7 @@ window.ROTATION = {
      "slot": 180,
      "species": "Seismitoad",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 181,
