@@ -1883,7 +1883,7 @@ window.ROTATION = {
      "slot": 148,
      "species": "Thievul",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 199,
+   "known": 200,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3592,7 +3592,26 @@ window.ROTATION = {
     },
     {
      "slot": 127,
-     "species": null
+     "species": "Milotic",
+     "level": 55,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Adamant",
+      "ability": "Marvel Scale",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 128,
