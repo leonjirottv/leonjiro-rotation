@@ -961,7 +961,7 @@ window.ROTATION = {
      "slot": 69,
      "species": "Hatenna",
      "level": 38,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 70,
@@ -4412,7 +4412,7 @@ window.ROTATION = {
      "slot": 214,
      "species": "Vanillite",
      "level": 18,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Adamant",
