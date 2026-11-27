@@ -2372,7 +2372,7 @@ window.ROTATION = {
      "slot": 15,
      "species": "Barbaracle",
      "level": null,
-     "hosted": 16
+     "hosted": 18
     },
     {
      "slot": 16,
