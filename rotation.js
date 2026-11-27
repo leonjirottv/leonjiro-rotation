@@ -724,7 +724,7 @@ window.ROTATION = {
      "slot": 50,
      "species": "Eevee",
      "level": 58,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -4289,7 +4289,7 @@ window.ROTATION = {
      "slot": 197,
      "species": "Staryu",
      "level": 39,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 198,
