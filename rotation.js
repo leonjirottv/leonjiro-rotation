@@ -631,7 +631,7 @@ window.ROTATION = {
      "slot": 43,
      "species": "Dracozolt",
      "level": 58,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Genderless",
       "nature": "Naive",
@@ -4235,7 +4235,7 @@ window.ROTATION = {
      "slot": 191,
      "species": "Slowpoke",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 192,
