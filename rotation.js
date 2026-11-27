@@ -11,7 +11,7 @@ window.ROTATION = {
      "slot": 1,
      "species": "Absol",
      "level": null,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Careful",
@@ -34,7 +34,7 @@ window.ROTATION = {
      "slot": 2,
      "species": "Alakazam",
      "level": 56,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 3,
@@ -3926,7 +3926,7 @@ window.ROTATION = {
      "slot": 157,
      "species": "Relicanth",
      "level": 57,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 158,
