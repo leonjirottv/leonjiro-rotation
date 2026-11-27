@@ -749,14 +749,14 @@ window.ROTATION = {
      "slot": 54,
      "species": "Exeggcute",
      "level": 45,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 55,
      "species": "Falinks",
      "level": 48,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 56,
@@ -4314,7 +4314,7 @@ window.ROTATION = {
      "slot": 201,
      "species": "Swablu",
      "level": 36,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
