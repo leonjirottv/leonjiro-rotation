@@ -814,7 +814,7 @@ window.ROTATION = {
      "slot": 59,
      "species": "Fletchling",
      "level": 29,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 60,
@@ -4339,7 +4339,7 @@ window.ROTATION = {
      "slot": 205,
      "species": "Tentacool",
      "level": null,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 206,
