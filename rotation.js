@@ -2054,7 +2054,7 @@ window.ROTATION = {
      "slot": 167,
      "species": "Woobat",
      "level": 29,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 168,
@@ -3837,7 +3837,7 @@ window.ROTATION = {
      "slot": 148,
      "species": "Pincurchin",
      "level": 58,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 149,
