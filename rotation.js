@@ -1719,7 +1719,7 @@ window.ROTATION = {
      "slot": 138,
      "species": "Slurpuff",
      "level": 56,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
@@ -1742,7 +1742,7 @@ window.ROTATION = {
      "slot": 139,
      "species": "Sneasel",
      "level": 20,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 190,
+   "known": 191,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3499,11 +3499,14 @@ window.ROTATION = {
      "slot": 117,
      "species": "Magby",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 118,
-     "species": null
+     "species": "Magikarp",
+     "level": 28,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 119,
