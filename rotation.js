@@ -915,7 +915,7 @@ window.ROTATION = {
      "slot": 67,
      "species": "Gothorita",
      "level": 47,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Brave",
@@ -4400,7 +4400,7 @@ window.ROTATION = {
      "slot": 212,
      "species": "Tyrogue",
      "level": 18,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 213,
