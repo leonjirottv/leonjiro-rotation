@@ -660,13 +660,13 @@ window.ROTATION = {
      "slot": 45,
      "species": "Dreepy",
      "level": 39,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 46,
      "species": "Drifloon",
      "level": 38,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 47,
@@ -4247,14 +4247,14 @@ window.ROTATION = {
      "slot": 193,
      "species": "Snorunt",
      "level": 39,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 194,
      "species": "Solosis",
      "level": 16,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Impish",
