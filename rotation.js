@@ -1883,7 +1883,7 @@ window.ROTATION = {
      "slot": 148,
      "species": "Thievul",
      "level": null,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3594,7 +3594,7 @@ window.ROTATION = {
      "slot": 127,
      "species": "Milotic",
      "level": 55,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Adamant",
