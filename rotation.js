@@ -701,7 +701,7 @@ window.ROTATION = {
      "slot": 49,
      "species": "Dunsparce",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -4289,7 +4289,7 @@ window.ROTATION = {
      "slot": 197,
      "species": "Staryu",
      "level": 39,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 198,
