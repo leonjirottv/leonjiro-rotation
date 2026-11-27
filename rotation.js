@@ -1968,7 +1968,7 @@ window.ROTATION = {
      "slot": 156,
      "species": "Unfezant",
      "level": 57,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 207,
+   "known": 208,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3714,7 +3714,26 @@ window.ROTATION = {
     },
     {
      "slot": 136,
-     "species": null
+     "species": "Nickit",
+     "level": 18,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Quiet",
+      "ability": "Run Away",
+      "abilityHidden": false,
+      "ivs": [
+       28,
+       0,
+       31,
+       31,
+       31,
+       8
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 137,
