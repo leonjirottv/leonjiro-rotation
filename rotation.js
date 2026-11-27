@@ -1854,7 +1854,7 @@ window.ROTATION = {
      "slot": 146,
      "species": "Stunky",
      "level": null,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 147,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 197,
+   "known": 198,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3546,7 +3546,26 @@ window.ROTATION = {
     },
     {
      "slot": 125,
-     "species": null
+     "species": "Mienfoo",
+     "level": 38,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Bashful",
+      "ability": "Reckless",
+      "abilityHidden": true,
+      "ivs": [
+       17,
+       3,
+       17,
+       21,
+       31,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 126,
