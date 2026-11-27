@@ -737,7 +737,7 @@ window.ROTATION = {
      "slot": 52,
      "species": "Elgyem",
      "level": 26,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 53,
@@ -4301,7 +4301,7 @@ window.ROTATION = {
      "slot": 199,
      "species": "Steelix",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 200,
