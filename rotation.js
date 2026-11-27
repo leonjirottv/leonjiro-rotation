@@ -938,7 +938,7 @@ window.ROTATION = {
      "slot": 68,
      "species": "Grubbin",
      "level": 19,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Quirky",
@@ -4406,7 +4406,7 @@ window.ROTATION = {
      "slot": 213,
      "species": "Umbreon",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 214,
