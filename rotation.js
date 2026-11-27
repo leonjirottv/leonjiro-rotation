@@ -1182,7 +1182,7 @@ window.ROTATION = {
      "slot": 88,
      "species": "Lopunny",
      "level": 58,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1205,7 +1205,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Lucario",
      "level": 57,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 90,
@@ -2197,7 +2197,7 @@ window.ROTATION = {
      "slot": 3,
      "species": "Accelgor",
      "level": 58,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 4,
