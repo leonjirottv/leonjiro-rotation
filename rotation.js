@@ -1696,7 +1696,7 @@ window.ROTATION = {
      "slot": 137,
      "species": "Skwovet",
      "level": 20,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 188,
+   "known": 189,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3474,7 +3474,26 @@ window.ROTATION = {
     },
     {
      "slot": 116,
-     "species": null
+     "species": "Luxio",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Lax",
+      "ability": "Rivalry",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       30,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 117,
