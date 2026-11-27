@@ -487,7 +487,7 @@ window.ROTATION = {
      "slot": 120,
      "species": "Pikachu",
      "level": 37,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -748,7 +748,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 26,
+   "known": 27,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1166,7 +1166,26 @@ window.ROTATION = {
     },
     {
      "slot": 57,
-     "species": null
+     "species": "Dunsparce",
+     "level": 58,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Docile",
+      "ability": "Serene Grace",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 58,
