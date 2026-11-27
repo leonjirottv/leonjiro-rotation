@@ -820,7 +820,7 @@ window.ROTATION = {
      "slot": 60,
      "species": "Fomantis",
      "level": 37,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -4345,7 +4345,7 @@ window.ROTATION = {
      "slot": 206,
      "species": "Throh",
      "level": 56,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 207,
