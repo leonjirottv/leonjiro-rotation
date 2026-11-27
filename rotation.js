@@ -207,7 +207,7 @@ window.ROTATION = {
      "slot": 11,
      "species": "Baltoy",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Genderless",
       "nature": "Bashful",
@@ -3985,7 +3985,7 @@ window.ROTATION = {
      "slot": 164,
      "species": "Rockruff",
      "level": 49,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 165,
