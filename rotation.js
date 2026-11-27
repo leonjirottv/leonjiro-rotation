@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 16,
+   "known": 17,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -524,7 +524,26 @@ window.ROTATION = {
     },
     {
      "slot": 112,
-     "species": null
+     "species": "Obstagoon",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Adamant",
+      "ability": "Defiant",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 113,
@@ -808,7 +827,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 17,
+   "known": 18,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1134,7 +1153,7 @@ window.ROTATION = {
      "slot": 47,
      "species": "Dracovish",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Genderless",
       "nature": "Gentle",
@@ -1155,7 +1174,26 @@ window.ROTATION = {
     },
     {
      "slot": 48,
-     "species": null
+     "species": "Dracozolt",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Gentle",
+      "ability": "Sand Rush",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 49,
