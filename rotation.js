@@ -1653,7 +1653,7 @@ window.ROTATION = {
      "slot": 133,
      "species": "Silicobra",
      "level": 20,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3429,7 +3429,7 @@ window.ROTATION = {
      "slot": 111,
      "species": "Lotad",
      "level": 20,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 112,
