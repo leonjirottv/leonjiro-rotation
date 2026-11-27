@@ -11,7 +11,7 @@ window.ROTATION = {
      "slot": 1,
      "species": "Absol",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Careful",
@@ -2170,7 +2170,7 @@ window.ROTATION = {
      "slot": 175,
      "species": "Zubat",
      "level": 28,
-     "hosted": 3
+     "hosted": 4
     }
    ]
   },
@@ -3920,7 +3920,7 @@ window.ROTATION = {
      "slot": 156,
      "species": "Ralts",
      "level": 38,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 157,
