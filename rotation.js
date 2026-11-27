@@ -1998,7 +1998,7 @@ window.ROTATION = {
      "slot": 158,
      "species": "Vespiquen",
      "level": null,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 159,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 210,
+   "known": 211,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3749,7 +3749,9 @@ window.ROTATION = {
     },
     {
      "slot": 139,
-     "species": null
+     "species": "Ninetales",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 140,
