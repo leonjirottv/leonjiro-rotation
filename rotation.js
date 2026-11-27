@@ -237,7 +237,7 @@ window.ROTATION = {
      "slot": 13,
      "species": "Barboach",
      "level": 26,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 14,
@@ -3997,7 +3997,7 @@ window.ROTATION = {
      "slot": 166,
      "species": "Roggenrola",
      "level": 28,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
