@@ -808,7 +808,7 @@ window.ROTATION = {
      "slot": 58,
      "species": "Flapple",
      "level": 58,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 59,
@@ -4333,7 +4333,7 @@ window.ROTATION = {
      "slot": 204,
      "species": "Tauros",
      "level": 58,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 205,
