@@ -2060,7 +2060,7 @@ window.ROTATION = {
      "slot": 168,
      "species": "Wooloo",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 219,
+   "known": 220,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3841,7 +3841,26 @@ window.ROTATION = {
     },
     {
      "slot": 149,
-     "species": null
+     "species": "Politoed",
+     "level": 57,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Drizzle",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 150,
