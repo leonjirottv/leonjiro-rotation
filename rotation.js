@@ -1831,7 +1831,7 @@ window.ROTATION = {
      "slot": 145,
      "species": "Stunfisk",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Hardy",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 196,
+   "known": 197,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3540,7 +3540,9 @@ window.ROTATION = {
     },
     {
      "slot": 124,
-     "species": null
+     "species": "Mareanie",
+     "level": 29,
+     "hosted": 2
     },
     {
      "slot": 125,
