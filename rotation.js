@@ -1159,7 +1159,7 @@ window.ROTATION = {
      "slot": 87,
      "species": "Linoone",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1182,7 +1182,7 @@ window.ROTATION = {
      "slot": 88,
      "species": "Lopunny",
      "level": 58,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2185,13 +2185,13 @@ window.ROTATION = {
      "slot": 1,
      "species": "Abra",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 2,
      "species": "Absol",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 3,
