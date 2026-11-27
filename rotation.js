@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 4,
+   "known": 13,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -431,39 +431,78 @@ window.ROTATION = {
     },
     {
      "slot": 100,
-     "species": null
+     "species": "Metagross",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 101,
-     "species": null
+     "species": "Milcery",
+     "level": 18,
+     "hosted": 2
     },
     {
      "slot": 102,
-     "species": null
+     "species": "Miltank",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 103,
-     "species": null
+     "species": "Mimikyu",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 104,
-     "species": null
+     "species": "Morelull",
+     "level": 37,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Relaxed",
+      "ability": "Illuminate",
+      "abilityHidden": false,
+      "ivs": [
+       15,
+       1,
+       31,
+       31,
+       8,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 105,
-     "species": null
+     "species": "Morpeko",
+     "level": 59,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 106,
-     "species": null
+     "species": "Mudbray",
+     "level": 15,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 107,
-     "species": null
+     "species": "Munna",
+     "level": 18,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 108,
-     "species": null
+     "species": "Nickit",
+     "level": 20,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 109,
@@ -763,7 +802,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 4,
+   "known": 14,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -942,7 +981,7 @@ window.ROTATION = {
      "slot": 34,
      "species": "Conkeldurr",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -963,43 +1002,115 @@ window.ROTATION = {
     },
     {
      "slot": 35,
-     "species": null
+     "species": "Corphish",
+     "level": 25,
+     "hosted": 2
     },
     {
      "slot": 36,
-     "species": null
+     "species": "Corsola",
+     "level": 38,
+     "hosted": 2
     },
     {
      "slot": 37,
-     "species": null
+     "species": "Corsola",
+     "level": 49,
+     "hosted": 2
     },
     {
      "slot": 38,
-     "species": null
+     "species": "Cottonee",
+     "level": 29,
+     "hosted": 2
     },
     {
      "slot": 39,
-     "species": null
+     "species": "Cradily",
+     "level": 58,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Brave",
+      "ability": "Storm Drain",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 40,
-     "species": null
+     "species": "Croagunk",
+     "level": 28,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Impish",
+      "ability": "Dry Skin",
+      "abilityHidden": false,
+      "ivs": [
+       9,
+       11,
+       31,
+       9,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 41,
-     "species": null
+     "species": "Crustle",
+     "level": 57,
+     "hosted": 2
     },
     {
      "slot": 42,
-     "species": null
+     "species": "Cryogonal",
+     "level": 49,
+     "hosted": 2,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Modest",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       23,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 43,
-     "species": null
+     "species": "Cutiefly",
+     "level": 25,
+     "hosted": 2
     },
     {
      "slot": 44,
-     "species": null
+     "species": "Dedenne",
+     "level": 58,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 45,
