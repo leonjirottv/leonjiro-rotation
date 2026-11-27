@@ -292,7 +292,7 @@ window.ROTATION = {
      "slot": 19,
      "species": "Bounsweet",
      "level": 26,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4028,7 +4028,7 @@ window.ROTATION = {
      "slot": 171,
      "species": "Rotom",
      "level": 57,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 172,
