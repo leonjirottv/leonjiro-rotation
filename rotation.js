@@ -731,7 +731,7 @@ window.ROTATION = {
      "slot": 51,
      "species": "Electrike",
      "level": 18,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 52,
@@ -4295,7 +4295,7 @@ window.ROTATION = {
      "slot": 198,
      "species": "Staryu",
      "level": 39,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 199,
