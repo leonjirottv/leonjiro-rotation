@@ -1260,7 +1260,7 @@ window.ROTATION = {
      "slot": 95,
      "species": "Mimikyu",
      "level": 37,
-     "hosted": 38
+     "hosted": 40
     },
     {
      "slot": 96,
@@ -2462,7 +2462,7 @@ window.ROTATION = {
      "slot": 27,
      "species": "Charizard",
      "level": 57,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Careful",
