@@ -2147,7 +2147,7 @@ window.ROTATION = {
      "slot": 174,
      "species": "Zorua",
      "level": 38,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 225,
+   "known": 226,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3912,7 +3912,9 @@ window.ROTATION = {
     },
     {
      "slot": 155,
-     "species": null
+     "species": "Qwilfish",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 156,
