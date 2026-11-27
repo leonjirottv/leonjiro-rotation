@@ -1854,7 +1854,7 @@ window.ROTATION = {
      "slot": 146,
      "species": "Stunky",
      "level": null,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 147,
@@ -3548,7 +3548,7 @@ window.ROTATION = {
      "slot": 125,
      "species": "Mienfoo",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Bashful",
