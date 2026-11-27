@@ -396,7 +396,7 @@ window.ROTATION = {
      "slot": 27,
      "species": "Charmander",
      "level": 27,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 28,
@@ -4105,7 +4105,7 @@ window.ROTATION = {
      "slot": 178,
      "species": "Scyther",
      "level": 58,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 179,
