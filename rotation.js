@@ -595,7 +595,7 @@ window.ROTATION = {
      "slot": 115,
      "species": "Pangoro",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Timid",
@@ -884,7 +884,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 21,
+   "known": 22,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1272,7 +1272,9 @@ window.ROTATION = {
     },
     {
      "slot": 52,
-     "species": null
+     "species": "Drampa",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 53,
