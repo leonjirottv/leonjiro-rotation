@@ -2010,13 +2010,13 @@ window.ROTATION = {
      "slot": 160,
      "species": "Wailord",
      "level": 57,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 161,
      "species": "Weavile",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 212,
+   "known": 213,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3757,11 +3757,30 @@ window.ROTATION = {
      "slot": 140,
      "species": "Octillery",
      "level": 47,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 141,
-     "species": null
+     "species": "Oddish",
+     "level": 16,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Brave",
+      "ability": "Chlorophyll",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       28,
+       6,
+       16,
+       19,
+       30
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 142,
