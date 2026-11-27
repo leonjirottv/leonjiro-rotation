@@ -654,7 +654,7 @@ window.ROTATION = {
      "slot": 44,
      "species": "Dratini",
      "level": 47,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 45,
@@ -4241,7 +4241,7 @@ window.ROTATION = {
      "slot": 192,
      "species": "Smoochum",
      "level": null,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 193,
