@@ -2023,7 +2023,7 @@ window.ROTATION = {
      "slot": 162,
      "species": "Weavile",
      "level": 56,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3786,7 +3786,7 @@ window.ROTATION = {
      "slot": 142,
      "species": "Oranguru",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 143,
