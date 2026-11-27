@@ -743,7 +743,7 @@ window.ROTATION = {
      "slot": 53,
      "species": "Escavalier",
      "level": 58,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 54,
@@ -4307,7 +4307,7 @@ window.ROTATION = {
      "slot": 200,
      "species": "Stufful",
      "level": 27,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
