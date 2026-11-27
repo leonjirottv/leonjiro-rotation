@@ -1756,7 +1756,7 @@ window.ROTATION = {
      "slot": 141,
      "species": "Snorlax",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 192,
+   "known": 193,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3516,7 +3516,9 @@ window.ROTATION = {
     },
     {
      "slot": 120,
-     "species": null
+     "species": "Mamoswine",
+     "level": 56,
+     "hosted": 2
     },
     {
      "slot": 121,
