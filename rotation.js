@@ -2004,7 +2004,7 @@ window.ROTATION = {
      "slot": 159,
      "species": "Vulpix",
      "level": 19,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 160,
@@ -3751,7 +3751,7 @@ window.ROTATION = {
      "slot": 139,
      "species": "Ninetales",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 140,
