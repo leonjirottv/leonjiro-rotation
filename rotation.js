@@ -602,7 +602,7 @@ window.ROTATION = {
      "slot": 41,
      "species": "Dewpider",
      "level": 25,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 42,
@@ -4206,7 +4206,7 @@ window.ROTATION = {
      "slot": 189,
      "species": "Skarmory",
      "level": 57,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Hasty",
