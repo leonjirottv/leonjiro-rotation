@@ -1991,7 +1991,7 @@ window.ROTATION = {
      "slot": 157,
      "species": "Venusaur",
      "level": 57,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 4
     },
     {
@@ -3739,7 +3739,7 @@ window.ROTATION = {
      "slot": 137,
      "species": "Nidoking",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 138,
