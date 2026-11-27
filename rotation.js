@@ -161,7 +161,7 @@ window.ROTATION = {
      "slot": 9,
      "species": "Azurill",
      "level": 28,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Gentle",
@@ -184,7 +184,7 @@ window.ROTATION = {
      "slot": 10,
      "species": "Bagon",
      "level": 36,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -3979,13 +3979,13 @@ window.ROTATION = {
      "slot": 163,
      "species": "Rockruff",
      "level": 46,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 164,
      "species": "Rockruff",
      "level": 49,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 165,
