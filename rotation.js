@@ -2089,7 +2089,7 @@ window.ROTATION = {
      "slot": 170,
      "species": "Wynaut",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 171,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 221,
+   "known": 222,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3887,7 +3887,10 @@ window.ROTATION = {
     },
     {
      "slot": 151,
-     "species": null
+     "species": "Psyduck",
+     "level": 38,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 152,
