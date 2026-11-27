@@ -678,7 +678,7 @@ window.ROTATION = {
      "slot": 48,
      "species": "Dubwool",
      "level": null,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
@@ -4283,7 +4283,7 @@ window.ROTATION = {
      "slot": 196,
      "species": "Spritzee",
      "level": 20,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 197,
