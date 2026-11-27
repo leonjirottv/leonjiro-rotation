@@ -1111,7 +1111,7 @@ window.ROTATION = {
      "slot": 82,
      "species": "Lapras",
      "level": 57,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
@@ -4529,7 +4529,7 @@ window.ROTATION = {
      "slot": 225,
      "species": "Wynaut",
      "level": 20,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 226,
