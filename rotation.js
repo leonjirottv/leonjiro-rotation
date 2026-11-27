@@ -375,7 +375,7 @@ window.ROTATION = {
      "slot": 24,
      "species": "Carbink",
      "level": 55,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4069,7 +4069,7 @@ window.ROTATION = {
      "slot": 175,
      "species": "Salandit",
      "level": null,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 176,
