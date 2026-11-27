@@ -389,7 +389,7 @@ window.ROTATION = {
      "slot": 26,
      "species": "Chansey",
      "level": 59,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -4082,7 +4082,7 @@ window.ROTATION = {
      "slot": 177,
      "species": "Scizor",
      "level": 56,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Serious",
