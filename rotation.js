@@ -322,7 +322,7 @@ window.ROTATION = {
      "slot": 21,
      "species": "Bronzor",
      "level": 36,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4040,7 +4040,7 @@ window.ROTATION = {
      "slot": 173,
      "species": "Runerigus",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 174,
