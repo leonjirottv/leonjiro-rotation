@@ -1646,7 +1646,7 @@ window.ROTATION = {
      "slot": 132,
      "species": "Shellos",
      "level": 15,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 182,
+   "known": 183,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3421,7 +3421,9 @@ window.ROTATION = {
     },
     {
      "slot": 110,
-     "species": null
+     "species": "Litwick",
+     "level": 29,
+     "hosted": 2
     },
     {
      "slot": 111,
