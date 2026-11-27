@@ -514,7 +514,7 @@ window.ROTATION = {
      "slot": 110,
      "species": "NidoranM",
      "level": 39,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 111,
@@ -1126,7 +1126,7 @@ window.ROTATION = {
      "slot": 46,
      "species": "Dhelmise",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 47,
