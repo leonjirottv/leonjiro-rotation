@@ -843,13 +843,13 @@ window.ROTATION = {
      "slot": 61,
      "species": "Frillish",
      "level": 28,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 62,
      "species": "Frillish",
      "level": 25,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 63,
@@ -4351,7 +4351,7 @@ window.ROTATION = {
      "slot": 207,
      "species": "Timburr",
      "level": 26,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 208,
