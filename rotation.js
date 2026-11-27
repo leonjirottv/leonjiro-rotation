@@ -901,7 +901,7 @@ window.ROTATION = {
      "slot": 65,
      "species": "Gothitelle",
      "level": 59,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4377,7 +4377,7 @@ window.ROTATION = {
      "slot": 211,
      "species": "Trubbish",
      "level": 28,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Modest",
