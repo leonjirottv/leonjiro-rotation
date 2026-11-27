@@ -2095,7 +2095,7 @@ window.ROTATION = {
      "slot": 171,
      "species": "Yamask",
      "level": 29,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 172,
@@ -3896,7 +3896,7 @@ window.ROTATION = {
      "slot": 152,
      "species": "Pumpkaboo",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 153,
