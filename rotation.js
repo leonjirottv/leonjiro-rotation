@@ -115,7 +115,7 @@ window.ROTATION = {
      "slot": 7,
      "species": "Arrokuda",
      "level": 35,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Bashful",
@@ -3967,7 +3967,7 @@ window.ROTATION = {
      "slot": 161,
      "species": "Riolu",
      "level": 20,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 162,
