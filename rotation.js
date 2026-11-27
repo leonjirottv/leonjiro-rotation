@@ -1933,7 +1933,7 @@ window.ROTATION = {
      "slot": 153,
      "species": "Trubbish",
      "level": 26,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
