@@ -63,7 +63,7 @@ window.ROTATION = {
      "slot": 4,
      "species": "Arctozolt",
      "level": 58,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Genderless",
       "nature": "Calm",
@@ -3938,7 +3938,7 @@ window.ROTATION = {
      "slot": 159,
      "species": "Reuniclus",
      "level": 56,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Careful",
