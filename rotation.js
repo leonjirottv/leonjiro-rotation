@@ -2170,7 +2170,7 @@ window.ROTATION = {
      "slot": 175,
      "species": "Zubat",
      "level": 28,
-     "hosted": 2
+     "hosted": 3
     }
    ]
   },
@@ -3914,13 +3914,13 @@ window.ROTATION = {
      "slot": 155,
      "species": "Qwilfish",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 156,
      "species": "Ralts",
      "level": 38,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 157,
