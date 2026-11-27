@@ -1903,7 +1903,7 @@ window.ROTATION = {
      "slot": 151,
      "species": "Toxel",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 202,
+   "known": 203,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3644,7 +3644,26 @@ window.ROTATION = {
     },
     {
      "slot": 130,
-     "species": null
+     "species": "Minccino",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Technician",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 131,
