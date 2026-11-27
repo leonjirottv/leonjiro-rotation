@@ -961,38 +961,38 @@ window.ROTATION = {
      "slot": 69,
      "species": "Hatenna",
      "level": 38,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 70,
      "species": "Helioptile",
      "level": 29,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 71,
      "species": "Hippopotas",
      "level": 26,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 72,
      "species": "Hitmonlee",
      "level": 48,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 73,
      "species": "Hoothoot",
      "level": 18,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 74,
      "species": "Hydreigon",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Adamant",
@@ -1015,28 +1015,28 @@ window.ROTATION = {
      "slot": 75,
      "species": "Indeedee",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 76,
      "species": "Indeedee",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 77,
      "species": "Jangmoo",
      "level": 18,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 78,
      "species": "Karrablast",
      "level": 25,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -1059,13 +1059,13 @@ window.ROTATION = {
      "slot": 79,
      "species": "Klink",
      "level": 16,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 80,
      "species": "Koffing",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Sassy",
@@ -1088,7 +1088,7 @@ window.ROTATION = {
      "slot": 81,
      "species": "Krabby",
      "level": 20,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Mild",
@@ -1111,7 +1111,7 @@ window.ROTATION = {
      "slot": 82,
      "species": "Lapras",
      "level": 57,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 3
     },
     {
@@ -4412,7 +4412,7 @@ window.ROTATION = {
      "slot": 214,
      "species": "Vanillite",
      "level": 18,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Adamant",
@@ -4435,19 +4435,19 @@ window.ROTATION = {
      "slot": 215,
      "species": "Vaporeon",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 216,
      "species": "Venipede",
      "level": 26,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 217,
      "species": "Venusaur",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Adamant",
@@ -4470,31 +4470,31 @@ window.ROTATION = {
      "slot": 218,
      "species": "Vespiquen",
      "level": 55,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 219,
      "species": "Wailmer",
      "level": 46,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 220,
      "species": "Walrein",
      "level": 55,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 221,
      "species": "Weezing",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 222,
      "species": "Whismur",
      "level": 28,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
@@ -4517,19 +4517,19 @@ window.ROTATION = {
      "slot": 223,
      "species": "Wimpod",
      "level": 19,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 224,
      "species": "Wingull",
      "level": 26,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 225,
      "species": "Wynaut",
      "level": 20,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 226,
