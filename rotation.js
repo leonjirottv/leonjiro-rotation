@@ -243,7 +243,7 @@ window.ROTATION = {
      "slot": 14,
      "species": "Basculin",
      "level": 35,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Bold",
@@ -4004,7 +4004,7 @@ window.ROTATION = {
      "slot": 167,
      "species": "Rookidee",
      "level": 16,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 168,
