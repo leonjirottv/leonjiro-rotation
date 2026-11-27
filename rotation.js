@@ -762,7 +762,7 @@ window.ROTATION = {
      "slot": 56,
      "species": "Farfetchd",
      "level": 39,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -4327,7 +4327,7 @@ window.ROTATION = {
      "slot": 203,
      "species": "Sylveon",
      "level": null,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 204,
