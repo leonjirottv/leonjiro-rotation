@@ -3,9 +3,9 @@ window.ROTATION = {
   {
    "switch": "S3",
    "game": "Sword",
-   "count": 181,
-   "known": 24,
-   "listChanged": "2026-11-27 15:24:17",
+   "count": 179,
+   "known": 1,
+   "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
      "slot": 1,
@@ -389,275 +389,122 @@ window.ROTATION = {
     },
     {
      "slot": 96,
-     "species": "Mantyke",
-     "level": 18,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 97,
-     "species": "Mareanie",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 98,
-     "species": "Mawile",
-     "level": 57,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": null
     },
     {
      "slot": 99,
-     "species": "Meowstic",
-     "level": 47,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Timid",
-      "ability": "Infiltrator",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       9,
-       10,
-       31,
-       31
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
+     "species": null
     },
     {
      "slot": 100,
-     "species": "Metagross",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 101,
-     "species": "Milcery",
-     "level": 18,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 102,
-     "species": "Miltank",
-     "level": null,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 103,
-     "species": "Mimikyu",
-     "level": 59,
-     "hosted": 2
+     "species": null
     },
     {
      "slot": 104,
-     "species": "Morelull",
+     "species": null
+    },
+    {
+     "slot": 105,
+     "species": null
+    },
+    {
+     "slot": 106,
+     "species": null
+    },
+    {
+     "slot": 107,
+     "species": null
+    },
+    {
+     "slot": 108,
+     "species": null
+    },
+    {
+     "slot": 109,
+     "species": null
+    },
+    {
+     "slot": 110,
+     "species": null
+    },
+    {
+     "slot": 111,
+     "species": null
+    },
+    {
+     "slot": 112,
+     "species": null
+    },
+    {
+     "slot": 113,
+     "species": null
+    },
+    {
+     "slot": 114,
+     "species": null
+    },
+    {
+     "slot": 115,
+     "species": null
+    },
+    {
+     "slot": 116,
+     "species": null
+    },
+    {
+     "slot": 117,
+     "species": null
+    },
+    {
+     "slot": 118,
+     "species": null
+    },
+    {
+     "slot": 119,
+     "species": null
+    },
+    {
+     "slot": 120,
+     "species": "Pikachu",
      "level": 37,
-     "hosted": 2,
+     "hosted": 1,
      "stats": {
       "gender": "Male",
-      "nature": "Relaxed",
-      "ability": "Illuminate",
-      "abilityHidden": false,
+      "nature": "Naive",
+      "ability": "Lightning Rod",
+      "abilityHidden": true,
       "ivs": [
-       15,
+       5,
+       31,
        1,
-       31,
-       31,
-       8,
+       18,
+       27,
        31
       ],
       "stars": 3,
       "shiny": "square",
       "gmax": false
      }
-    },
-    {
-     "slot": 105,
-     "species": "Morpeko",
-     "level": 59,
-     "hosted": 2,
-     "statsVariants": 2
-    },
-    {
-     "slot": 106,
-     "species": "Mudbray",
-     "level": 15,
-     "hosted": 2,
-     "statsVariants": 2
-    },
-    {
-     "slot": 107,
-     "species": "Munna",
-     "level": 18,
-     "hosted": 2,
-     "statsVariants": 2
-    },
-    {
-     "slot": 108,
-     "species": "Nickit",
-     "level": 20,
-     "hosted": 2,
-     "statsVariants": 2
-    },
-    {
-     "slot": 109,
-     "species": "NidoranF",
-     "level": 39,
-     "hosted": 2
-    },
-    {
-     "slot": 110,
-     "species": "NidoranM",
-     "level": 39,
-     "hosted": 2
-    },
-    {
-     "slot": 111,
-     "species": "Noibat",
-     "level": 26,
-     "hosted": 2
-    },
-    {
-     "slot": 112,
-     "species": "Obstagoon",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Adamant",
-      "ability": "Defiant",
-      "abilityHidden": true,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
-    },
-    {
-     "slot": 113,
-     "species": "Oddish",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Calm",
-      "ability": "Chlorophyll",
-      "abilityHidden": false,
-      "ivs": [
-       20,
-       30,
-       26,
-       31,
-       26,
-       31
-      ],
-      "stars": 2,
-      "shiny": "square",
-      "gmax": false
-     }
-    },
-    {
-     "slot": 114,
-     "species": "Omastar",
-     "level": 59,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Hardy",
-      "ability": "Swift Swim",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
-    },
-    {
-     "slot": 115,
-     "species": "Pangoro",
-     "level": null,
-     "hosted": 2,
-     "stats": {
-      "gender": "Female",
-      "nature": "Timid",
-      "ability": "Mold Breaker",
-      "abilityHidden": false,
-      "ivs": [
-       31,
-       31,
-       31,
-       31,
-       31,
-       31
-      ],
-      "stars": 5,
-      "shiny": "square",
-      "gmax": false
-     }
-    },
-    {
-     "slot": 116,
-     "species": "Passimian",
-     "level": 49,
-     "hosted": 2,
-     "stats": {
-      "gender": "Male",
-      "nature": "Naive",
-      "ability": "Defiant",
-      "abilityHidden": true,
-      "ivs": [
-       4,
-       11,
-       31,
-       31,
-       31,
-       5
-      ],
-      "stars": 4,
-      "shiny": "square",
-      "gmax": false
-     }
-    },
-    {
-     "slot": 117,
-     "species": "Petilil",
-     "level": null,
-     "hosted": 2
-    },
-    {
-     "slot": 118,
-     "species": "Tangela",
-     "level": 37,
-     "hosted": 2
-    },
-    {
-     "slot": 119,
-     "species": "Tangela",
-     "level": 37,
-     "hosted": 1
-    },
-    {
-     "slot": 120,
-     "species": null
     },
     {
      "slot": 121,
@@ -894,14 +741,6 @@ window.ROTATION = {
     {
      "slot": 179,
      "species": null
-    },
-    {
-     "slot": 180,
-     "species": null
-    },
-    {
-     "slot": 181,
-     "species": null
     }
    ]
   },
@@ -909,7 +748,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 25,
+   "known": 26,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1321,7 +1160,9 @@ window.ROTATION = {
     },
     {
      "slot": 56,
-     "species": null
+     "species": "Druddigon",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 57,
