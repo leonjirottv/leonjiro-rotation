@@ -536,7 +536,7 @@ window.ROTATION = {
      "slot": 36,
      "species": "Cubone",
      "level": 39,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -4171,7 +4171,7 @@ window.ROTATION = {
      "slot": 186,
      "species": "Silicobra",
      "level": 20,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Lax",
