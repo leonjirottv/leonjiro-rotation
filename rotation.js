@@ -579,7 +579,7 @@ window.ROTATION = {
      "slot": 40,
      "species": "Deino",
      "level": 29,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Rash",
@@ -4206,7 +4206,7 @@ window.ROTATION = {
      "slot": 189,
      "species": "Skarmory",
      "level": 57,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Hasty",
