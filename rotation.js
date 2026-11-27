@@ -1962,7 +1962,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Tympole",
      "level": 26,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 156,
@@ -3709,7 +3709,7 @@ window.ROTATION = {
      "slot": 135,
      "species": "Munna",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
