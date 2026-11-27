@@ -2083,7 +2083,7 @@ window.ROTATION = {
      "slot": 169,
      "species": "Wooper",
      "level": 18,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 170,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 220,
+   "known": 221,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3843,7 +3843,7 @@ window.ROTATION = {
      "slot": 149,
      "species": "Politoed",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Mild",
@@ -3864,7 +3864,26 @@ window.ROTATION = {
     },
     {
      "slot": 150,
-     "species": null
+     "species": "Poliwag",
+     "level": 27,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Mild",
+      "ability": "Water Absorb",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       29,
+       31,
+       20,
+       31,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 151,
