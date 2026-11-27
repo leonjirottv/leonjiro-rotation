@@ -1660,7 +1660,7 @@ window.ROTATION = {
      "slot": 134,
      "species": "Sinistea",
      "level": 59,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 135,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 184,
+   "known": 185,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3433,7 +3433,9 @@ window.ROTATION = {
     },
     {
      "slot": 112,
-     "species": null
+     "species": "Lucario",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 113,
