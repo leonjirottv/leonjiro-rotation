@@ -138,7 +138,7 @@ window.ROTATION = {
      "slot": 8,
      "species": "Axew",
      "level": 29,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Modest",
@@ -161,7 +161,7 @@ window.ROTATION = {
      "slot": 9,
      "species": "Azurill",
      "level": 28,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Gentle",
@@ -3973,7 +3973,7 @@ window.ROTATION = {
      "slot": 162,
      "species": "Riolu",
      "level": 16,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 163,
