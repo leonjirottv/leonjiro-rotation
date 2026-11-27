@@ -1968,7 +1968,7 @@ window.ROTATION = {
      "slot": 156,
      "species": "Unfezant",
      "level": 57,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
@@ -1991,7 +1991,7 @@ window.ROTATION = {
      "slot": 157,
      "species": "Venusaur",
      "level": 57,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 4
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 208,
+   "known": 209,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3737,7 +3737,9 @@ window.ROTATION = {
     },
     {
      "slot": 137,
-     "species": null
+     "species": "Nidoking",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 138,
