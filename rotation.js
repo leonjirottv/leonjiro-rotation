@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 2,
+   "known": 3,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -401,7 +401,10 @@ window.ROTATION = {
     },
     {
      "slot": 98,
-     "species": null
+     "species": "Mawile",
+     "level": 57,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 99,
@@ -741,7 +744,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 2,
+   "known": 3,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -891,11 +894,30 @@ window.ROTATION = {
      "slot": 32,
      "species": "Combee",
      "level": 20,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 33,
-     "species": null
+     "species": "Comfey",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naughty",
+      "ability": "Flower Veil",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       30,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 34,
