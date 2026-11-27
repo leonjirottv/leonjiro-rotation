@@ -1612,7 +1612,7 @@ window.ROTATION = {
      "slot": 127,
      "species": "Sawk",
      "level": 56,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 178,
+   "known": 179,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3376,11 +3376,30 @@ window.ROTATION = {
      "slot": 105,
      "species": "Klefki",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 106,
-     "species": null
+     "species": "Krabby",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Mild",
+      "ability": "Hyper Cutter",
+      "abilityHidden": false,
+      "ivs": [
+       21,
+       31,
+       17,
+       22,
+       17,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 107,
