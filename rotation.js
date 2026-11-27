@@ -1633,7 +1633,7 @@ window.ROTATION = {
      "slot": 130,
      "species": "Scyther",
      "level": 59,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 131,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 181,
+   "known": 182,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3415,7 +3415,9 @@ window.ROTATION = {
     },
     {
      "slot": 109,
-     "species": null
+     "species": "Lillipup",
+     "level": 29,
+     "hosted": 1
     },
     {
      "slot": 110,
