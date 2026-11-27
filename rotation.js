@@ -1118,13 +1118,13 @@ window.ROTATION = {
      "slot": 83,
      "species": "Larvesta",
      "level": 48,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 84,
      "species": "Lickitung",
      "level": 49,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 85,
@@ -4535,7 +4535,7 @@ window.ROTATION = {
      "slot": 226,
      "species": "Yamask",
      "level": 18,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 227,
