@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 3,
+   "known": 4,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -408,7 +408,26 @@ window.ROTATION = {
     },
     {
      "slot": 99,
-     "species": null
+     "species": "Meowstic",
+     "level": 47,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Infiltrator",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       9,
+       10,
+       31,
+       31
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 100,
@@ -744,7 +763,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 3,
+   "known": 4,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -921,7 +940,26 @@ window.ROTATION = {
     },
     {
      "slot": 34,
-     "species": null
+     "species": "Conkeldurr",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Brave",
+      "ability": "Iron Fist",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       0
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 35,
