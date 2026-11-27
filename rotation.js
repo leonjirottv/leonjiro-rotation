@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 175,
-   "known": 173,
+   "known": 174,
    "listChanged": "2026-11-25 19:50:36",
    "slots": [
     {
@@ -1218,14 +1218,14 @@ window.ROTATION = {
      "slot": 91,
      "species": "Magikarp",
      "level": 26,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 92,
      "species": "Magnezone",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Genderless",
       "nature": "Naive",
@@ -1246,20 +1246,21 @@ window.ROTATION = {
     },
     {
      "slot": 93,
-     "species": null
+     "species": "Mantyke",
+     "level": 18,
+     "hosted": 2
     },
     {
      "slot": 94,
      "species": "Mareanie",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 95,
-     "species": "Mawile",
-     "level": 57,
-     "hosted": 2,
-     "statsVariants": 2
+     "species": "Mimikyu",
+     "level": 59,
+     "hosted": 4
     },
     {
      "slot": 96,
@@ -2215,7 +2216,7 @@ window.ROTATION = {
      "slot": 6,
      "species": "Arctovish",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Genderless",
       "nature": "Gentle",
@@ -2238,7 +2239,7 @@ window.ROTATION = {
      "slot": 7,
      "species": "Arctozolt",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Genderless",
       "nature": "Gentle",
@@ -2261,7 +2262,7 @@ window.ROTATION = {
      "slot": 8,
      "species": "Armaldo",
      "level": 58,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -2284,13 +2285,13 @@ window.ROTATION = {
      "slot": 9,
      "species": "Aromatisse",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 10,
      "species": "Aron",
      "level": 38,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -2313,7 +2314,7 @@ window.ROTATION = {
      "slot": 11,
      "species": "Arrokuda",
      "level": 15,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Bashful",
@@ -2336,13 +2337,13 @@ window.ROTATION = {
      "slot": 12,
      "species": "Axew",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 13,
      "species": "Azurill",
      "level": null,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -2365,13 +2366,13 @@ window.ROTATION = {
      "slot": 14,
      "species": "Baltoy",
      "level": 28,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 15,
      "species": "Barbaracle",
-     "level": null,
-     "hosted": 2
+     "level": 38,
+     "hosted": 4
     },
     {
      "slot": 16,
