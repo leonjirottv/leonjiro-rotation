@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 20,
+   "known": 22,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -616,11 +616,32 @@ window.ROTATION = {
     },
     {
      "slot": 116,
-     "species": null
+     "species": "Passimian",
+     "level": 49,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Defiant",
+      "abilityHidden": true,
+      "ivs": [
+       4,
+       11,
+       31,
+       31,
+       31,
+       5
+      ],
+      "stars": 4,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 117,
-     "species": null
+     "species": "Petilil",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 118,
@@ -884,7 +905,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 22,
+   "known": 23,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1274,11 +1295,13 @@ window.ROTATION = {
      "slot": 52,
      "species": "Drampa",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 53,
-     "species": null
+     "species": "Dratini",
+     "level": 46,
+     "hosted": 2
     },
     {
      "slot": 54,
