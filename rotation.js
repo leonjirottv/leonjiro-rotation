@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 15,
+   "known": 16,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -518,7 +518,9 @@ window.ROTATION = {
     },
     {
      "slot": 111,
-     "species": null
+     "species": "Noibat",
+     "level": 26,
+     "hosted": 2
     },
     {
      "slot": 112,
@@ -806,7 +808,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 16,
+   "known": 17,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1130,7 +1132,26 @@ window.ROTATION = {
     },
     {
      "slot": 47,
-     "species": null
+     "species": "Dracovish",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Gentle",
+      "ability": "Sand Rush",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 48,
