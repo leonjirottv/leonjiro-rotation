@@ -1802,7 +1802,7 @@ window.ROTATION = {
      "slot": 143,
      "species": "Spheal",
      "level": 39,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 144,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 194,
+   "known": 195,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3528,7 +3528,9 @@ window.ROTATION = {
     },
     {
      "slot": 122,
-     "species": null
+     "species": "Mantyke",
+     "level": 15,
+     "hosted": 2
     },
     {
      "slot": 123,
