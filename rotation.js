@@ -1910,7 +1910,7 @@ window.ROTATION = {
      "slot": 152,
      "species": "Tranquill",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 203,
+   "known": 204,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3667,7 +3667,26 @@ window.ROTATION = {
     },
     {
      "slot": 131,
-     "species": null
+     "species": "Morelull",
+     "level": 19,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Bashful",
+      "ability": "Effect Spore",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       30,
+       16,
+       9,
+       31,
+       29
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 132,
