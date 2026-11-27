@@ -455,7 +455,7 @@ window.ROTATION = {
      "slot": 31,
      "species": "Cleffa",
      "level": 20,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
@@ -478,7 +478,7 @@ window.ROTATION = {
      "slot": 32,
      "species": "Comfey",
      "level": 55,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Naughty",
@@ -4129,7 +4129,7 @@ window.ROTATION = {
      "slot": 182,
      "species": "Shellos",
      "level": 18,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
