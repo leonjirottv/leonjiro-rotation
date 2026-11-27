@@ -1130,7 +1130,7 @@ window.ROTATION = {
      "slot": 85,
      "species": "Liepard",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -4547,7 +4547,7 @@ window.ROTATION = {
      "slot": 228,
      "species": "Zorua",
      "level": 36,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
