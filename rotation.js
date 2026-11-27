@@ -2083,7 +2083,7 @@ window.ROTATION = {
      "slot": 169,
      "species": "Wooper",
      "level": 18,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 170,
@@ -3866,7 +3866,7 @@ window.ROTATION = {
      "slot": 150,
      "species": "Poliwag",
      "level": 27,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Mild",
