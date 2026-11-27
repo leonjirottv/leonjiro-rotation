@@ -1719,7 +1719,7 @@ window.ROTATION = {
      "slot": 138,
      "species": "Slurpuff",
      "level": 56,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 189,
+   "known": 190,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3497,7 +3497,9 @@ window.ROTATION = {
     },
     {
      "slot": 117,
-     "species": null
+     "species": "Magby",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 118,
