@@ -1673,7 +1673,7 @@ window.ROTATION = {
      "slot": 136,
      "species": "Skarmory",
      "level": 59,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Lax",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 187,
+   "known": 188,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3468,7 +3468,9 @@ window.ROTATION = {
     },
     {
      "slot": 115,
-     "species": null
+     "species": "Lurantis",
+     "level": 57,
+     "hosted": 1
     },
     {
      "slot": 116,
