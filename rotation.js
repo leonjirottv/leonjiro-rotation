@@ -785,7 +785,7 @@ window.ROTATION = {
      "slot": 57,
      "species": "Feebas",
      "level": 38,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
@@ -4333,7 +4333,7 @@ window.ROTATION = {
      "slot": 204,
      "species": "Tauros",
      "level": 58,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 205,
