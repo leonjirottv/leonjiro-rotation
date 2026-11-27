@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 18,
+   "known": 19,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -570,7 +570,26 @@ window.ROTATION = {
     },
     {
      "slot": 114,
-     "species": null
+     "species": "Omastar",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Hardy",
+      "ability": "Swift Swim",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 115,
@@ -846,7 +865,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 19,
+   "known": 20,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1218,11 +1237,13 @@ window.ROTATION = {
      "slot": 49,
      "species": "Dragapult",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 50,
-     "species": null
+     "species": "Dragonite",
+     "level": 58,
+     "hosted": 1
     },
     {
      "slot": 51,
