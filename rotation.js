@@ -2048,7 +2048,7 @@ window.ROTATION = {
      "slot": 166,
      "species": "Wishiwashi",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 167,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 217,
+   "known": 218,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3812,7 +3812,26 @@ window.ROTATION = {
     },
     {
      "slot": 147,
-     "species": null
+     "species": "Pikachu",
+     "level": 37,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Lightning Rod",
+      "abilityHidden": true,
+      "ivs": [
+       5,
+       31,
+       1,
+       18,
+       27,
+       31
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 148,
