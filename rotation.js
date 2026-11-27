@@ -1211,14 +1211,14 @@ window.ROTATION = {
      "slot": 90,
      "species": "Machamp",
      "level": 58,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
      "slot": 91,
      "species": "Magikarp",
      "level": 26,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 3
     },
     {
@@ -2203,13 +2203,13 @@ window.ROTATION = {
      "slot": 4,
      "species": "Aggron",
      "level": 59,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 5,
      "species": "Altaria",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 6,
