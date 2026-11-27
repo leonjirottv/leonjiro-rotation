@@ -849,13 +849,13 @@ window.ROTATION = {
      "slot": 62,
      "species": "Frillish",
      "level": 25,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 63,
      "species": "Gothita",
      "level": null,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -4357,7 +4357,7 @@ window.ROTATION = {
      "slot": 208,
      "species": "Togedemaru",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 209,
