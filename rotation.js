@@ -1910,7 +1910,7 @@ window.ROTATION = {
      "slot": 152,
      "species": "Tranquill",
      "level": null,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -3669,7 +3669,7 @@ window.ROTATION = {
      "slot": 131,
      "species": "Morelull",
      "level": 19,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Bashful",
