@@ -501,13 +501,13 @@ window.ROTATION = {
      "slot": 33,
      "species": "Corphish",
      "level": 26,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 34,
      "species": "Armaldo",
      "level": 58,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Hardy",
@@ -4136,7 +4136,7 @@ window.ROTATION = {
      "slot": 183,
      "species": "Shinx",
      "level": 36,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 184,
