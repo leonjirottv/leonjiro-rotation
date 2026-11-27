@@ -1749,7 +1749,7 @@ window.ROTATION = {
      "slot": 140,
      "species": "Sneasel",
      "level": 16,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 191,
+   "known": 192,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3510,7 +3510,9 @@ window.ROTATION = {
     },
     {
      "slot": 119,
-     "species": null
+     "species": "Magnemite",
+     "level": 38,
+     "hosted": 1
     },
     {
      "slot": 120,
