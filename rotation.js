@@ -1666,7 +1666,7 @@ window.ROTATION = {
      "slot": 135,
      "species": "Sirfetchd",
      "level": 59,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 2
     },
     {
@@ -3441,7 +3441,7 @@ window.ROTATION = {
      "slot": 113,
      "species": "Lotad",
      "level": 20,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 114,
