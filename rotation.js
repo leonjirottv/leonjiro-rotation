@@ -109,7 +109,7 @@ window.ROTATION = {
      "slot": 6,
      "species": "Aron",
      "level": null,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 7,
@@ -3967,7 +3967,7 @@ window.ROTATION = {
      "slot": 161,
      "species": "Riolu",
      "level": 20,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 162,
