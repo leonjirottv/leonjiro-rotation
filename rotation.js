@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 19,
+   "known": 20,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -593,7 +593,26 @@ window.ROTATION = {
     },
     {
      "slot": 115,
-     "species": null
+     "species": "Pangoro",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Timid",
+      "ability": "Mold Breaker",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 116,
@@ -865,7 +884,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 20,
+   "known": 21,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1247,7 +1266,9 @@ window.ROTATION = {
     },
     {
      "slot": 51,
-     "species": null
+     "species": "Drakloak",
+     "level": 48,
+     "hosted": 2
     },
     {
      "slot": 52,
