@@ -1933,7 +1933,7 @@ window.ROTATION = {
      "slot": 153,
      "species": "Trubbish",
      "level": 26,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 204,
+   "known": 205,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3690,7 +3690,10 @@ window.ROTATION = {
     },
     {
      "slot": 132,
-     "species": null
+     "species": "Morpeko",
+     "level": 59,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 133,
