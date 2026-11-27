@@ -391,7 +391,7 @@ window.ROTATION = {
      "slot": 96,
      "species": "Mantyke",
      "level": 18,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 97,
@@ -739,7 +739,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 0,
+   "known": 1,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -864,7 +864,26 @@ window.ROTATION = {
     },
     {
      "slot": 31,
-     "species": null
+     "species": "Cloyster",
+     "level": 58,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Skill Link",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 32,
