@@ -672,7 +672,7 @@ window.ROTATION = {
      "slot": 47,
      "species": "Druddigon",
      "level": 59,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 48,
@@ -4277,7 +4277,7 @@ window.ROTATION = {
      "slot": 195,
      "species": "Spheal",
      "level": 37,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 196,
