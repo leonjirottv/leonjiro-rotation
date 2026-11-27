@@ -1259,8 +1259,8 @@ window.ROTATION = {
     {
      "slot": 95,
      "species": "Mimikyu",
-     "level": null,
-     "hosted": 19
+     "level": 37,
+     "hosted": 20
     },
     {
      "slot": 96,
@@ -2372,13 +2372,13 @@ window.ROTATION = {
      "slot": 15,
      "species": "Barbaracle",
      "level": null,
-     "hosted": 20
+     "hosted": 21
     },
     {
      "slot": 16,
      "species": "Barboach",
      "level": 26,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 17,
