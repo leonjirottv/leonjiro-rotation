@@ -34,13 +34,13 @@ window.ROTATION = {
      "slot": 2,
      "species": "Alakazam",
      "level": 56,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 3,
      "species": "Arctovish",
      "level": 58,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Genderless",
       "nature": "Calm",
@@ -3926,13 +3926,13 @@ window.ROTATION = {
      "slot": 157,
      "species": "Relicanth",
      "level": 57,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 158,
      "species": "Remoraid",
      "level": 15,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 159,
