@@ -517,7 +517,7 @@ window.ROTATION = {
      "slot": 122,
      "species": "Relicanth",
      "level": 58,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 123,
@@ -753,7 +753,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 28,
+   "known": 29,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1201,7 +1201,9 @@ window.ROTATION = {
     },
     {
      "slot": 59,
-     "species": null
+     "species": "Duraludon",
+     "level": 56,
+     "hosted": 2
     },
     {
      "slot": 60,
