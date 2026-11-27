@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 3,
+   "known": 4,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -521,7 +521,9 @@ window.ROTATION = {
     },
     {
      "slot": 123,
-     "species": null
+     "species": "Remoraid",
+     "level": 27,
+     "hosted": 2
     },
     {
      "slot": 124,
@@ -753,7 +755,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 29,
+   "known": 30,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1207,7 +1209,26 @@ window.ROTATION = {
     },
     {
      "slot": 60,
-     "species": null
+     "species": "Duskull",
+     "level": 18,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Brave",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       22,
+       30,
+       22,
+       20,
+       30,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 61,
