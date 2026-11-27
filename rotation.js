@@ -1205,7 +1205,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Lucario",
      "level": 57,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 90,
@@ -2197,13 +2197,13 @@ window.ROTATION = {
      "slot": 3,
      "species": "Accelgor",
      "level": 58,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 4,
      "species": "Aggron",
      "level": 59,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 5,
