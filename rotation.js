@@ -1808,7 +1808,7 @@ window.ROTATION = {
      "slot": 144,
      "species": "Stonjourner",
      "level": 59,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
@@ -3536,7 +3536,7 @@ window.ROTATION = {
      "slot": 123,
      "species": "Maractus",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 124,
