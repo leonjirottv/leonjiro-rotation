@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 181,
-   "known": 17,
+   "known": 18,
    "listChanged": "2026-11-27 15:24:17",
    "slots": [
     {
@@ -547,7 +547,26 @@ window.ROTATION = {
     },
     {
      "slot": 113,
-     "species": null
+     "species": "Oddish",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Calm",
+      "ability": "Chlorophyll",
+      "abilityHidden": false,
+      "ivs": [
+       20,
+       30,
+       26,
+       31,
+       26,
+       31
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 114,
@@ -827,7 +846,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 18,
+   "known": 19,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1197,7 +1216,9 @@ window.ROTATION = {
     },
     {
      "slot": 49,
-     "species": null
+     "species": "Dragapult",
+     "level": 57,
+     "hosted": 1
     },
     {
      "slot": 50,
