@@ -2054,7 +2054,7 @@ window.ROTATION = {
      "slot": 167,
      "species": "Woobat",
      "level": 29,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 168,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 218,
+   "known": 219,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3835,7 +3835,9 @@ window.ROTATION = {
     },
     {
      "slot": 148,
-     "species": null
+     "species": "Pincurchin",
+     "level": 58,
+     "hosted": 1
     },
     {
      "slot": 149,
