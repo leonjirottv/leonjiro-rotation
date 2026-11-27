@@ -501,7 +501,7 @@ window.ROTATION = {
      "slot": 33,
      "species": "Corphish",
      "level": 26,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 34,
@@ -4136,7 +4136,7 @@ window.ROTATION = {
      "slot": 183,
      "species": "Shinx",
      "level": 36,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 184,
