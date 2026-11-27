@@ -86,7 +86,7 @@ window.ROTATION = {
      "slot": 5,
      "species": "Cradily",
      "level": 58,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Brave",
@@ -3961,7 +3961,7 @@ window.ROTATION = {
      "slot": 160,
      "species": "Rhyhorn",
      "level": 38,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 161,
