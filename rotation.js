@@ -1779,7 +1779,7 @@ window.ROTATION = {
      "slot": 142,
      "species": "Solrock",
      "level": 57,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Genderless",
       "nature": "Brave",
@@ -1802,7 +1802,7 @@ window.ROTATION = {
      "slot": 143,
      "species": "Spheal",
      "level": 39,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 144,
@@ -3524,7 +3524,7 @@ window.ROTATION = {
      "slot": 121,
      "species": "Mantine",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 122,
