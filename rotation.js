@@ -1639,7 +1639,7 @@ window.ROTATION = {
      "slot": 131,
      "species": "Seedot",
      "level": 20,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3417,7 +3417,7 @@ window.ROTATION = {
      "slot": 109,
      "species": "Lillipup",
      "level": 29,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 110,
