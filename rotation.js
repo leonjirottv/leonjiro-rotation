@@ -1779,7 +1779,7 @@ window.ROTATION = {
      "slot": 142,
      "species": "Solrock",
      "level": 57,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Genderless",
       "nature": "Brave",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 193,
+   "known": 194,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3522,7 +3522,9 @@ window.ROTATION = {
     },
     {
      "slot": 121,
-     "species": null
+     "species": "Mantine",
+     "level": 59,
+     "hosted": 1
     },
     {
      "slot": 122,
