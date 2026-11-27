@@ -402,7 +402,7 @@ window.ROTATION = {
      "slot": 28,
      "species": "Chewtle",
      "level": 28,
-     "hosted": 2,
+     "hosted": 3,
      "statsVariants": 3
     },
     {
@@ -4105,7 +4105,7 @@ window.ROTATION = {
      "slot": 178,
      "species": "Scyther",
      "level": 58,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 179,
