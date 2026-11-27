@@ -2101,7 +2101,7 @@ window.ROTATION = {
      "slot": 172,
      "species": "Yamper",
      "level": 18,
-     "hosted": 2,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Mild",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 223,
+   "known": 224,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3900,7 +3900,9 @@ window.ROTATION = {
     },
     {
      "slot": 153,
-     "species": null
+     "species": "Pumpkaboo",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 154,
