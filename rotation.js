@@ -2124,7 +2124,7 @@ window.ROTATION = {
      "slot": 173,
      "species": "Zigzagoon",
      "level": 20,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 224,
+   "known": 225,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3902,11 +3902,13 @@ window.ROTATION = {
      "slot": 153,
      "species": "Pumpkaboo",
      "level": null,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 154,
-     "species": null
+     "species": "Pyukumuku",
+     "level": 37,
+     "hosted": 1
     },
     {
      "slot": 155,
