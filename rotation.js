@@ -1956,7 +1956,7 @@ window.ROTATION = {
      "slot": 154,
      "species": "Turtonator",
      "level": 56,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 155,
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 205,
+   "known": 206,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3701,7 +3701,9 @@ window.ROTATION = {
     },
     {
      "slot": 134,
-     "species": null
+     "species": "Munchlax",
+     "level": 37,
+     "hosted": 2
     },
     {
      "slot": 135,
