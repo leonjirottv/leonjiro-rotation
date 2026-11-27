@@ -1749,7 +1749,7 @@ window.ROTATION = {
      "slot": 140,
      "species": "Sneasel",
      "level": 16,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3512,7 +3512,7 @@ window.ROTATION = {
      "slot": 119,
      "species": "Magnemite",
      "level": 38,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 120,
