@@ -455,7 +455,7 @@ window.ROTATION = {
      "slot": 31,
      "species": "Cleffa",
      "level": 20,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
@@ -4123,7 +4123,7 @@ window.ROTATION = {
      "slot": 181,
      "species": "Shellder",
      "level": 38,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 182,
