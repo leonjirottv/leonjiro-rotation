@@ -530,7 +530,7 @@ window.ROTATION = {
      "slot": 35,
      "species": "Cramorant",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 36,
@@ -4142,7 +4142,7 @@ window.ROTATION = {
      "slot": 184,
      "species": "Shuckle",
      "level": null,
-     "hosted": 3,
+     "hosted": 4,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
