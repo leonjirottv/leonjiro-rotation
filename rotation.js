@@ -402,14 +402,14 @@ window.ROTATION = {
      "slot": 28,
      "species": "Chewtle",
      "level": 28,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 3
     },
     {
      "slot": 29,
      "species": "Chinchou",
      "level": 25,
-     "hosted": 2,
+     "hosted": 3,
      "stats": {
       "gender": "Female",
       "nature": "Quiet",
@@ -4111,7 +4111,7 @@ window.ROTATION = {
      "slot": 179,
      "species": "Seaking",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 180,
