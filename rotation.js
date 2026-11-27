@@ -266,13 +266,13 @@ window.ROTATION = {
      "slot": 15,
      "species": "Beldum",
      "level": 27,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 16,
      "species": "Bewear",
      "level": 38,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 17,
@@ -4010,7 +4010,7 @@ window.ROTATION = {
      "slot": 168,
      "species": "Rotom",
      "level": 57,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 169,
