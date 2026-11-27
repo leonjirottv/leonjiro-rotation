@@ -266,7 +266,7 @@ window.ROTATION = {
      "slot": 15,
      "species": "Beldum",
      "level": 27,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 16,
@@ -4004,7 +4004,7 @@ window.ROTATION = {
      "slot": 167,
      "species": "Rookidee",
      "level": 16,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 168,
