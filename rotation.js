@@ -1896,7 +1896,7 @@ window.ROTATION = {
      "slot": 150,
      "species": "Togepi",
      "level": 16,
-     "hosted": 2,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -3623,7 +3623,7 @@ window.ROTATION = {
      "slot": 129,
      "species": "Mimikyu",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
