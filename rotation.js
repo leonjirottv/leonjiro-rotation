@@ -2391,7 +2391,7 @@ window.ROTATION = {
      "slot": 18,
      "species": "Beartic",
      "level": 55,
-     "hosted": 2
+     "hosted": 3
     },
     {
      "slot": 19,
