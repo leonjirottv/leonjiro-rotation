@@ -573,7 +573,7 @@ window.ROTATION = {
      "slot": 39,
      "species": "Darumaka",
      "level": 29,
-     "hosted": 3
+     "hosted": 4
     },
     {
      "slot": 40,
@@ -4200,7 +4200,7 @@ window.ROTATION = {
      "slot": 188,
      "species": "Sizzlipede",
      "level": 28,
-     "hosted": 2
+     "hosted": 4
     },
     {
      "slot": 189,
