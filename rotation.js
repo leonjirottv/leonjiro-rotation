@@ -1666,7 +1666,7 @@ window.ROTATION = {
      "slot": 135,
      "species": "Sirfetchd",
      "level": 59,
-     "hosted": 3,
+     "hosted": 4,
      "statsVariants": 2
     },
     {
@@ -2178,7 +2178,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 229,
-   "known": 186,
+   "known": 187,
    "listChanged": "2026-11-25 20:31:43",
    "slots": [
     {
@@ -3445,7 +3445,26 @@ window.ROTATION = {
     },
     {
      "slot": 114,
-     "species": null
+     "species": "Lunatone",
+     "level": 57,
+     "hosted": 2,
+     "stats": {
+      "gender": "Genderless",
+      "nature": "Lax",
+      "ability": "Levitate",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       21,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 115,
