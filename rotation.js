@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 14,
+   "known": 15,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -595,7 +595,10 @@ window.ROTATION = {
     },
     {
      "slot": 134,
-     "species": null
+     "species": "Seedot",
+     "level": 20,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 135,
@@ -783,7 +786,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 40,
+   "known": 41,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1371,7 +1374,26 @@ window.ROTATION = {
     },
     {
      "slot": 71,
-     "species": null
+     "species": "Espurr",
+     "level": 27,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Jolly",
+      "ability": "Infiltrator",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       22,
+       31,
+       22,
+       30,
+       11
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 72,
