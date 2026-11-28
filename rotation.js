@@ -577,7 +577,7 @@ window.ROTATION = {
      "slot": 131,
      "species": "Scrafty",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 3
     },
     {
@@ -1316,7 +1316,7 @@ window.ROTATION = {
      "slot": 68,
      "species": "Emolga",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Lax",
