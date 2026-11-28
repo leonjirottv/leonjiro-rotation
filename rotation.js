@@ -611,7 +611,7 @@ window.ROTATION = {
      "slot": 136,
      "species": "Silicobra",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -792,7 +792,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 43,
+   "known": 44,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1415,7 +1415,9 @@ window.ROTATION = {
     },
     {
      "slot": 74,
-     "species": null
+     "species": "Feebas",
+     "level": 36,
+     "hosted": 1
     },
     {
      "slot": 75,
