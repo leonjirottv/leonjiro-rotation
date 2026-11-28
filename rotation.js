@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 32,
+   "known": 33,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -845,7 +845,10 @@ window.ROTATION = {
     },
     {
      "slot": 152,
-     "species": null
+     "species": "Thievul",
+     "level": null,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 153,
@@ -961,7 +964,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 59,
+   "known": 60,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1783,7 +1786,9 @@ window.ROTATION = {
     },
     {
      "slot": 90,
-     "species": null
+     "species": "Heatmor",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 91,
