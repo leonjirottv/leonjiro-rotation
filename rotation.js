@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 21,
+   "known": 22,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -658,7 +658,26 @@ window.ROTATION = {
     },
     {
      "slot": 141,
-     "species": null
+     "species": "Skwovet",
+     "level": 20,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Cheek Pouch",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       18,
+       4,
+       11,
+       31,
+       5
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 142,
@@ -818,7 +837,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 48,
+   "known": 49,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1471,7 +1490,26 @@ window.ROTATION = {
     },
     {
      "slot": 79,
-     "species": null
+     "species": "Gible",
+     "level": 36,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Sand Veil",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 80,
