@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 25,
+   "known": 26,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -718,7 +718,26 @@ window.ROTATION = {
     },
     {
      "slot": 145,
-     "species": null
+     "species": "Snorlax",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Jolly",
+      "ability": "Gluttony",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 146,
@@ -862,7 +881,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 52,
+   "known": 53,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1556,7 +1575,9 @@ window.ROTATION = {
     },
     {
      "slot": 83,
-     "species": null
+     "species": "Goomy",
+     "level": 25,
+     "hosted": 1
     },
     {
      "slot": 84,
