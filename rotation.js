@@ -932,7 +932,7 @@ window.ROTATION = {
      "slot": 160,
      "species": "Unfezant",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Jolly",
@@ -1033,7 +1033,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 68,
+   "known": 69,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1945,7 +1945,9 @@ window.ROTATION = {
     },
     {
      "slot": 99,
-     "species": null
+     "species": "Jolteon",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 100,
