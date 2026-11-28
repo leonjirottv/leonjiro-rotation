@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 36,
+   "known": 37,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -872,7 +872,26 @@ window.ROTATION = {
     },
     {
      "slot": 156,
-     "species": null
+     "species": "Tranquill",
+     "level": null,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Super Luck",
+      "abilityHidden": false,
+      "ivs": [
+       18,
+       4,
+       11,
+       31,
+       31,
+       5
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 157,
@@ -972,7 +991,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 63,
+   "known": 64,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1820,7 +1839,9 @@ window.ROTATION = {
     },
     {
      "slot": 94,
-     "species": null
+     "species": "Hitmonchan",
+     "level": 38,
+     "hosted": 2
     },
     {
      "slot": 95,
