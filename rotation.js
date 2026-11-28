@@ -584,7 +584,7 @@ window.ROTATION = {
      "slot": 132,
      "species": "Scraggy",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -781,7 +781,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 39,
+   "known": 40,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1346,7 +1346,26 @@ window.ROTATION = {
     },
     {
      "slot": 70,
-     "species": null
+     "species": "Espeon",
+     "level": null,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Adamant",
+      "ability": "Magic Bounce",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 71,
