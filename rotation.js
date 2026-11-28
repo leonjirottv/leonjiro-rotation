@@ -597,7 +597,7 @@ window.ROTATION = {
      "slot": 134,
      "species": "Seedot",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -786,7 +786,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 41,
+   "known": 42,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1397,7 +1397,9 @@ window.ROTATION = {
     },
     {
      "slot": 72,
-     "species": null
+     "species": "Exploud",
+     "level": 55,
+     "hosted": 1
     },
     {
      "slot": 73,
