@@ -766,7 +766,7 @@ window.ROTATION = {
      "slot": 147,
      "species": "Spheal",
      "level": 39,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 148,
@@ -1627,7 +1627,7 @@ window.ROTATION = {
      "slot": 85,
      "species": "Gourgeist",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
