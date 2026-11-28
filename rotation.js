@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 13,
+   "known": 14,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -589,7 +589,9 @@ window.ROTATION = {
     },
     {
      "slot": 133,
-     "species": null
+     "species": "Scyther",
+     "level": 59,
+     "hosted": 2
     },
     {
      "slot": 134,
@@ -1348,7 +1350,7 @@ window.ROTATION = {
      "slot": 70,
      "species": "Espeon",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Adamant",
