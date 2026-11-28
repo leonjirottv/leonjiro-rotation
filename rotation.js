@@ -824,7 +824,7 @@ window.ROTATION = {
      "slot": 151,
      "species": "Swirlix",
      "level": 27,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Relaxed",
@@ -1762,7 +1762,7 @@ window.ROTATION = {
      "slot": 89,
      "species": "Grubbin",
      "level": 19,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Quirky",
