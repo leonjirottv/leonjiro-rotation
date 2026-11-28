@@ -654,7 +654,7 @@ window.ROTATION = {
      "slot": 140,
      "species": "Skorupi",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 141,
@@ -818,7 +818,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 47,
+   "known": 48,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1465,7 +1465,9 @@ window.ROTATION = {
     },
     {
      "slot": 78,
-     "species": null
+     "species": "Gastly",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 79,
