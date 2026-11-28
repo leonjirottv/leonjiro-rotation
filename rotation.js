@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 40,
+   "known": 41,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -930,7 +930,26 @@ window.ROTATION = {
     },
     {
      "slot": 160,
-     "species": null
+     "species": "Unfezant",
+     "level": 57,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Jolly",
+      "ability": "Big Pecks",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 161,
@@ -1014,7 +1033,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 67,
+   "known": 68,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1920,7 +1939,9 @@ window.ROTATION = {
     },
     {
      "slot": 98,
-     "species": null
+     "species": "Jellicent",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 99,
