@@ -1543,7 +1543,7 @@ window.ROTATION = {
      "slot": 81,
      "species": "Goldeen",
      "level": 39,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 82,
