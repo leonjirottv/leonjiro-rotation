@@ -897,7 +897,7 @@ window.ROTATION = {
      "slot": 157,
      "species": "Trubbish",
      "level": 26,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
@@ -1866,7 +1866,7 @@ window.ROTATION = {
      "slot": 95,
      "species": "Honedge",
      "level": 20,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Timid",
