@@ -549,7 +549,7 @@ window.ROTATION = {
      "slot": 127,
      "species": "Sandile",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1263,7 +1263,7 @@ window.ROTATION = {
      "slot": 64,
      "species": "Eiscue",
      "level": 35,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 65,
