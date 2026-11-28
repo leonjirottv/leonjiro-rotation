@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 38,
+   "known": 39,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -918,7 +918,9 @@ window.ROTATION = {
     },
     {
      "slot": 158,
-     "species": null
+     "species": "Turtonator",
+     "level": 56,
+     "hosted": 2
     },
     {
      "slot": 159,
@@ -1010,7 +1012,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 65,
+   "known": 67,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1887,11 +1889,32 @@ window.ROTATION = {
     },
     {
      "slot": 96,
-     "species": null
+     "species": "Horsea",
+     "level": 16,
+     "hosted": 2,
+     "stats": {
+      "gender": "Male",
+      "nature": "Rash",
+      "ability": "Damp",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       27,
+       13,
+       31,
+       29,
+       1
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 97,
-     "species": null
+     "species": "Igglybuff",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 98,
