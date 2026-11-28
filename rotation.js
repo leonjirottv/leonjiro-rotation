@@ -867,7 +867,7 @@ window.ROTATION = {
      "slot": 155,
      "species": "Toxel",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -1815,7 +1815,7 @@ window.ROTATION = {
      "slot": 93,
      "species": "Heracross",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
