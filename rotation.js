@@ -529,7 +529,7 @@ window.ROTATION = {
      "slot": 124,
      "species": "Rockruff",
      "level": 37,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 125,
@@ -757,7 +757,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 30,
+   "known": 31,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1234,7 +1234,9 @@ window.ROTATION = {
     },
     {
      "slot": 61,
-     "species": null
+     "species": "Dwebble",
+     "level": 28,
+     "hosted": 1
     },
     {
      "slot": 62,
