@@ -720,7 +720,7 @@ window.ROTATION = {
      "slot": 145,
      "species": "Snorlax",
      "level": null,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Jolly",
@@ -1577,7 +1577,7 @@ window.ROTATION = {
      "slot": 83,
      "species": "Goomy",
      "level": 25,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 84,
