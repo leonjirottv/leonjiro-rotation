@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 11,
+   "known": 12,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -575,7 +575,10 @@ window.ROTATION = {
     },
     {
      "slot": 131,
-     "species": null
+     "species": "Scrafty",
+     "level": null,
+     "hosted": 1,
+     "statsVariants": 3
     },
     {
      "slot": 132,
@@ -775,7 +778,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 37,
+   "known": 38,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1311,7 +1314,26 @@ window.ROTATION = {
     },
     {
      "slot": 68,
-     "species": null
+     "species": "Emolga",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Lax",
+      "ability": "Static",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 69,
