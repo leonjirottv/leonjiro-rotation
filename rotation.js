@@ -1711,7 +1711,7 @@ window.ROTATION = {
      "slot": 87,
      "species": "Gourgeist",
      "level": 58,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
