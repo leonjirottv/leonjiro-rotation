@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 37,
+   "known": 38,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -895,7 +895,26 @@ window.ROTATION = {
     },
     {
      "slot": 157,
-     "species": null
+     "species": "Trubbish",
+     "level": 26,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "Aftermath",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       29,
+       27,
+       31,
+       16
+      ],
+      "stars": 2,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 158,
@@ -991,7 +1010,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 64,
+   "known": 65,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1845,7 +1864,26 @@ window.ROTATION = {
     },
     {
      "slot": 95,
-     "species": null
+     "species": "Honedge",
+     "level": 20,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Timid",
+      "ability": "No Guard",
+      "abilityHidden": false,
+      "ivs": [
+       29,
+       31,
+       29,
+       20,
+       27,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 96,
