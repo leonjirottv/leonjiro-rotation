@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 42,
+   "known": 43,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -960,7 +960,9 @@ window.ROTATION = {
     },
     {
      "slot": 162,
-     "species": null
+     "species": "Vespiquen",
+     "level": null,
+     "hosted": 2
     },
     {
      "slot": 163,
@@ -1036,7 +1038,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 70,
+   "known": 71,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1956,7 +1958,7 @@ window.ROTATION = {
      "slot": 100,
      "species": "Kabutops",
      "level": 59,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Sassy",
@@ -1977,7 +1979,9 @@ window.ROTATION = {
     },
     {
      "slot": 101,
-     "species": null
+     "species": "Kabuto",
+     "level": 16,
+     "hosted": 1
     },
     {
      "slot": 102,
