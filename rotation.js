@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 29,
+   "known": 30,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -793,7 +793,26 @@ window.ROTATION = {
     },
     {
      "slot": 149,
-     "species": null
+     "species": "Stunfisk",
+     "level": 59,
+     "hosted": 2,
+     "stats": {
+      "gender": "Female",
+      "nature": "Hardy",
+      "ability": "Mimicry",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       21
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 150,
@@ -921,7 +940,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 56,
+   "known": 57,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1690,7 +1709,26 @@ window.ROTATION = {
     },
     {
      "slot": 87,
-     "species": null
+     "species": "Gourgeist",
+     "level": 58,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Naive",
+      "ability": "Insomnia",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       28,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 88,
