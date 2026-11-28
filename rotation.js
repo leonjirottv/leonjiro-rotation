@@ -683,7 +683,7 @@ window.ROTATION = {
      "slot": 142,
      "species": "Slurpuff",
      "level": 56,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Female",
       "nature": "Relaxed",
