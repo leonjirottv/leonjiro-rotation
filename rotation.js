@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 31,
+   "known": 32,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -822,7 +822,26 @@ window.ROTATION = {
     },
     {
      "slot": 151,
-     "species": null
+     "species": "Swirlix",
+     "level": 27,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Relaxed",
+      "ability": "Sweet Veil",
+      "abilityHidden": false,
+      "ivs": [
+       3,
+       15,
+       31,
+       1,
+       8,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 152,
@@ -942,7 +961,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 58,
+   "known": 59,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1741,7 +1760,26 @@ window.ROTATION = {
     },
     {
      "slot": 89,
-     "species": null
+     "species": "Grubbin",
+     "level": 19,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Quirky",
+      "ability": "Swarm",
+      "abilityHidden": false,
+      "ivs": [
+       31,
+       28,
+       19,
+       31,
+       24,
+       31
+      ],
+      "stars": 1,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 90,
