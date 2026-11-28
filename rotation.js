@@ -1036,7 +1036,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 69,
+   "known": 70,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1954,7 +1954,26 @@ window.ROTATION = {
     },
     {
      "slot": 100,
-     "species": null
+     "species": "Kabutops",
+     "level": 59,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Sassy",
+      "ability": "Weak Armor",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       31
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 101,
