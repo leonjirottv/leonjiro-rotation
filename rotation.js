@@ -854,7 +854,7 @@ window.ROTATION = {
      "slot": 153,
      "species": "Togedemaru",
      "level": 57,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 154,
@@ -966,7 +966,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 61,
+   "known": 62,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1796,11 +1796,14 @@ window.ROTATION = {
      "slot": 91,
      "species": "Helioptile",
      "level": 28,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 92,
-     "species": null
+     "species": "Heracross",
+     "level": 57,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 93,
