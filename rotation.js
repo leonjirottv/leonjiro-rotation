@@ -563,7 +563,7 @@ window.ROTATION = {
      "slot": 129,
      "species": "Sandygast",
      "level": 35,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 3
     },
     {
@@ -1281,7 +1281,7 @@ window.ROTATION = {
      "slot": 66,
      "species": "Elekid",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Sassy",
