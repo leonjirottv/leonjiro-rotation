@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 34,
+   "known": 35,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -858,7 +858,10 @@ window.ROTATION = {
     },
     {
      "slot": 154,
-     "species": null
+     "species": "Togepi",
+     "level": 16,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 155,
@@ -1802,7 +1805,7 @@ window.ROTATION = {
      "slot": 92,
      "species": "Heracross",
      "level": 57,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
