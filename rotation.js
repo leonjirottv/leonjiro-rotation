@@ -542,7 +542,7 @@ window.ROTATION = {
      "slot": 126,
      "species": "Rufflet",
      "level": 38,
-     "hosted": 1,
+     "hosted": 2,
      "statsVariants": 2
     },
     {
@@ -763,7 +763,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 32,
+   "known": 33,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1252,7 +1252,9 @@ window.ROTATION = {
     },
     {
      "slot": 63,
-     "species": null
+     "species": "Eevee",
+     "level": 55,
+     "hosted": 1
     },
     {
      "slot": 64,
