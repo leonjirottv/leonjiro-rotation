@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 9,
+   "known": 10,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -561,7 +561,10 @@ window.ROTATION = {
     },
     {
      "slot": 129,
-     "species": null
+     "species": "Sandygast",
+     "level": 35,
+     "hosted": 1,
+     "statsVariants": 3
     },
     {
      "slot": 130,
@@ -769,7 +772,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 35,
+   "known": 36,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1272,11 +1275,30 @@ window.ROTATION = {
      "slot": 65,
      "species": "Electivire",
      "level": 59,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 66,
-     "species": null
+     "species": "Elekid",
+     "level": 38,
+     "hosted": 1,
+     "stats": {
+      "gender": "Male",
+      "nature": "Sassy",
+      "ability": "Static",
+      "abilityHidden": false,
+      "ivs": [
+       25,
+       31,
+       31,
+       31,
+       31,
+       29
+      ],
+      "stars": 3,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 67,
