@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 15,
+   "known": 17,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -602,11 +602,17 @@ window.ROTATION = {
     },
     {
      "slot": 135,
-     "species": null
+     "species": "Shellos",
+     "level": 15,
+     "hosted": 2,
+     "statsVariants": 2
     },
     {
      "slot": 136,
-     "species": null
+     "species": "Silicobra",
+     "level": 20,
+     "hosted": 1,
+     "statsVariants": 2
     },
     {
      "slot": 137,
@@ -786,7 +792,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 42,
+   "known": 43,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1399,11 +1405,13 @@ window.ROTATION = {
      "slot": 72,
      "species": "Exploud",
      "level": 55,
-     "hosted": 1
+     "hosted": 2
     },
     {
      "slot": 73,
-     "species": null
+     "species": "Gurdurr",
+     "level": 39,
+     "hosted": 2
     },
     {
      "slot": 74,
