@@ -4,7 +4,7 @@ window.ROTATION = {
    "switch": "S3",
    "game": "Sword",
    "count": 179,
-   "known": 22,
+   "known": 23,
    "listChanged": "2026-11-27 18:27:43",
    "slots": [
     {
@@ -681,7 +681,26 @@ window.ROTATION = {
     },
     {
      "slot": 142,
-     "species": null
+     "species": "Slurpuff",
+     "level": 56,
+     "hosted": 1,
+     "stats": {
+      "gender": "Female",
+      "nature": "Relaxed",
+      "ability": "Unburden",
+      "abilityHidden": true,
+      "ivs": [
+       31,
+       31,
+       31,
+       31,
+       31,
+       0
+      ],
+      "stars": 5,
+      "shiny": "square",
+      "gmax": false
+     }
     },
     {
      "slot": 143,
@@ -837,7 +856,7 @@ window.ROTATION = {
    "switch": "S6",
    "game": "Shield",
    "count": 232,
-   "known": 49,
+   "known": 50,
    "listChanged": "2026-11-27 15:26:22",
    "slots": [
     {
@@ -1492,7 +1511,7 @@ window.ROTATION = {
      "slot": 79,
      "species": "Gible",
      "level": 36,
-     "hosted": 1,
+     "hosted": 2,
      "stats": {
       "gender": "Male",
       "nature": "Naive",
@@ -1513,7 +1532,9 @@ window.ROTATION = {
     },
     {
      "slot": 80,
-     "species": null
+     "species": "Glaceon",
+     "level": null,
+     "hosted": 1
     },
     {
      "slot": 81,
